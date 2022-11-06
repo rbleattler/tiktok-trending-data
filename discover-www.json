@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1667880000&x-signature=XFK%2BABQAudu%2BGt%2B5d7tlJS9B0Og%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1667880000&x-signature=XMf3%2FDyuAqK7YbB4s7%2FeuowO39E%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "The new album GLORIA, January 27th ⚓️ ❤️‍🔥 Pre-order now",
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1667880000&x-signature=rLxB6gfzX98WlmNTxFdMHhM5FaE%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1667880000&x-signature=KNCysoMbSbCT9WxQPkyOA%2FRpaKA%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -434,13 +434,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 40600000,
-              "likes": 212600000,
+              "likes": 212700000,
               "userId": "158438610466201600",
               "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
               "relation": -1,
               "video": 57,
               "following": 0,
-              "heart": 212600000,
+              "heart": 212700000,
               "digg": 259
             }
           }
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "7144049083896054826",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1667880000&x-signature=d6PQRZDrdGciqLO7zxfHYf3NTNc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1667880000&x-signature=qcX2t6oitRROgOprw33kv30lD0s%3D",
             "title": "Ye",
             "subTitle": "@ye",
             "description": "",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1667880000&x-signature=jaEXAFhTGOxmkisnGz0nTkOX4fw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1667880000&x-signature=3qcLEg0Bf4XhNBdfUxktKU6IBT8%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1667880000&x-signature=HwHiEdO65mdjnIyE375nnPnY9O0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1667880000&x-signature=dIH1sGrzTLTsfrTBi0Vvi8aQK8k%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -775,14 +775,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "62.4B views",
+            "subTitle": "62.5B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 62400000000,
+              "views": 62500000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
