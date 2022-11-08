@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1668038400&x-signature=1PITu%2FMqzG9y716Aa9lgMkxt0fo%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1668038400&x-signature=yFm9ziZ%2F2%2BkOjAbP9siDjwpDRQY%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial #Monotonia 🫀🗡️ YA DISPONIBLE",
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p77-sign-va-lite.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1668038400&x-signature=tZoUHA%2FXikNdc8fzRkq3FvcsDTY%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1668038400&x-signature=WsUUS2RW4aaOV7aqfV5vqwRq7MU%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1668038400&x-signature=stf7R4TludbHJS9dkwIHLhKn8TA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1668038400&x-signature=01k3p5dpW5%2FiwwdlKb7MLjt4IhU%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1668038400&x-signature=5pCI%2F5koO28MYgT7UK63J2NFhao%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1668038400&x-signature=o0BDz0Lsu9YBCuIA0kQoskHjs5Y%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1668038400&x-signature=Hs%2B8TNwoq2%2Bb%2Bmom8HjyY1zkwlw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1668038400&x-signature=z40TC2N73vYDzbsU1vZDEIaft9M%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -775,14 +775,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "62.6B views",
+            "subTitle": "62.7B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 62600000000,
+              "views": 62700000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
@@ -1132,13 +1132,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/886e9f6ce05d44b1be00b841560f05f0.jpeg",
             "title": "真夜中のドア/Stay With Me",
-            "subTitle": "381.7K videos",
+            "subTitle": "381.8K videos",
             "description": "Miki Matsubara",
             "link": "/music/真夜中のドアStay-With-Me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/0f70bd30651741dab1c62f3df0d73913",
-              "posts": 381700
+              "posts": 381800
             }
           }
         }
