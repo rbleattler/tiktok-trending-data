@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "7144049083896054826",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1668567600&x-signature=Y3QoaYHkNKhebjZN8jGiIfGT5yA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1668567600&x-signature=R%2F5yS%2Bj3b6%2FXfCXWi%2B4FwKWkRzY%3D",
             "title": "Ye",
             "subTitle": "@ye",
             "description": "",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1668567600&x-signature=yK4%2BMjDlauIa21cCzdf5JP0CXm8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1668567600&x-signature=%2BH4liXI80OybgmdehrjaqmcuTY8%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -813,14 +813,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/feb4c89b2b972560362fbf43209635bc.png",
             "title": "#makeuptutorial",
-            "subTitle": "54.2B views",
+            "subTitle": "54.3B views",
             "description": "Show us your #MakeupTutorial.",
             "link": "/tag/makeuptutorial",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 54200000000,
+              "views": 54300000000,
               "challengeId": "39658",
               "challengeName": "makeuptutorial"
             }
