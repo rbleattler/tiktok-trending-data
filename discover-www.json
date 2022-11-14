@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1668578400&x-signature=0jaVA9vTmqZitFtT%2FzsbGrXGFBQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1668578400&x-signature=ofN24GTUlZvnfqmaUd9b9z0WHNg%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "REVELACIÓN is out now: http://smarturl.it/REVELACIONSG",
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1668578400&x-signature=EpOXOrsuGO%2BAMbcNh5LGKRc3xVo%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1668578400&x-signature=DXTZvJ99UaD0xCFh1CkC2GwIz5M%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "The new album GLORIA, January 27th ⚓️ ❤️‍🔥 Pre-order now",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1668578400&x-signature=5e20bgJAok5lrelwi57nPjrnPIQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1668578400&x-signature=MnOk2W2Q9rta8u3kogUTEw2DGDE%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1668578400&x-signature=skgPHBHI1eDGERddUqICV%2BA9mHc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1668578400&x-signature=h3t4N0%2BRJsvwxYqYEku4JcarNbs%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Twelve Carat Tour now coming to a city near you",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1668578400&x-signature=ZMdvz3TFePZeO73x21Ta6P5pf2U%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1668578400&x-signature=2vngTpWkaJGd25quUuE2X0fMhW0%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -693,7 +693,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 4200000,
+              "fans": 4300000,
               "likes": 15000000,
               "userId": "7109458094568686634",
               "secUid": "MS4wLjABAAAAmn1z6X9DX22Aj0fMTnlKlyzFO0t1g7fygJniWWOqwOna72PNbyhqWc6OECMB3VDi",
@@ -1132,13 +1132,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/886e9f6ce05d44b1be00b841560f05f0.jpeg",
             "title": "真夜中のドア/Stay With Me",
-            "subTitle": "382.8K videos",
+            "subTitle": "382.9K videos",
             "description": "Miki Matsubara",
             "link": "/music/真夜中のドアStay-With-Me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/0f70bd30651741dab1c62f3df0d73913",
-              "posts": 382800
+              "posts": 382900
             }
           }
         }
