@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1668715200&x-signature=ZpRFV1S2W77ciHoCHXQ9Z1cgYjY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1668715200&x-signature=PtQ9KZIvTg%2FaSl8D16XHD14Hw2A%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "REVELACIÓN is out now: http://smarturl.it/REVELACIONSG",
@@ -233,7 +233,7 @@
               "video": 823,
               "following": 16,
               "heart": 1200000000,
-              "digg": 3327
+              "digg": 3328
             }
           }
         },
@@ -356,13 +356,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 30900000,
-              "likes": 154000000,
+              "likes": 154100000,
               "userId": "6730007015793771525",
               "secUid": "MS4wLjABAAAA5bchfwPs-XIqIsp7AIaDrrs05b3VAC9A8qZj2T016CvP9d_uYZfyOuzvqj4cKACj",
               "relation": -1,
               "video": 95,
               "following": 10,
-              "heart": 154000000,
+              "heart": 154100000,
               "digg": 14
             }
           }
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1668715200&x-signature=e38%2FByvEtUn4b1qSzElUatiqPzI%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1668715200&x-signature=1oJLA3k4vNJrcGrSfen6fzXb%2Ftk%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "6771955742204707845",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e69a83b090edf0b42287a48cb7a08cc7~c5_100x100.jpeg?x-expires=1668715200&x-signature=VDtBEfq%2BO2ECm84H2u9XWdixMXg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e69a83b090edf0b42287a48cb7a08cc7~c5_100x100.jpeg?x-expires=1668715200&x-signature=nPLAmaee%2FRbL5u4aTz4ywGQhJis%3D",
             "title": "Christina Aguilera",
             "subTitle": "@xtina",
             "description": "",
@@ -1056,13 +1056,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/23a0eff8a40648aa95af4ef1ffc85e58.jpeg",
             "title": "Triple S",
-            "subTitle": "213.3K videos",
+            "subTitle": "213.4K videos",
             "description": "YN Jay & Louie Ray",
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
-              "posts": 213300
+              "posts": 213400
             }
           }
         },
