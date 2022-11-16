@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1668783600&x-signature=nKoN73ECU0zL5msX9UDed317ijY%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1668783600&x-signature=rgxQ1gh%2FGYmr1%2BFiGlALcukwbXQ%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "The new album GLORIA, January 27th ⚓️ ❤️‍🔥 Pre-order now",
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1668783600&x-signature=iALGLndT0NEX96S6POy7ZA2Rjps%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1668783600&x-signature=QiCcqtrh8ibMpewqjHH4B9YooUU%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "REVELACIÓN is out now: http://smarturl.it/REVELACIONSG",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1668783600&x-signature=2J%2Br6dtH6Zhjupyalta1K2iDGqA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1668783600&x-signature=zdrHoKZJVuXVN4JJ9%2BUlVvjj67M%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1668783600&x-signature=0pSaVAwZ4ZR1HWmifMimf5UkhDw%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1668783600&x-signature=DSaFLJUnkJ6pnwYW%2FLjJYvY6%2BRQ%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "7144049083896054826",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1668783600&x-signature=mNsCemKL3%2FJ7wjrtKvFdj97Ioxw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1668783600&x-signature=JYnJ4%2Be4HVQemIHrSIFhUP%2FIZdA%3D",
             "title": "Ye",
             "subTitle": "@ye",
             "description": "",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1668783600&x-signature=2spI59Rmev5kHqXOhS7ZBKmxZCs%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1668783600&x-signature=U2z5%2Bnr%2BCFwfXc%2BIHoKybQbTlxU%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -768,7 +768,198 @@
       }
     },
     {
-      "exploreList": [],
+      "exploreList": [
+        {
+          "cardItem": {
+            "id": "1591463963924482",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
+            "title": "#PetsOfTikTok",
+            "subTitle": "63.8B views",
+            "description": "Here's to all the #PetsOfTikTok.",
+            "link": "/tag/PetsOfTikTok",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 63800000000,
+              "challengeId": "1591463963924482",
+              "challengeName": "PetsOfTikTok"
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "1603828529424386",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc43b89fed5808107f6ecfc274f36a90.jpeg",
+            "title": "#couplestiktok",
+            "subTitle": "21B views",
+            "description": "Cute pics, dinner dates, and more. Here's to the all the couples on TikTok.",
+            "link": "/tag/couplestiktok",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 21000000000,
+              "challengeId": "1603828529424386",
+              "challengeName": "couplestiktok"
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "39658",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/feb4c89b2b972560362fbf43209635bc.png",
+            "title": "#makeuptutorial",
+            "subTitle": "54.5B views",
+            "description": "Show us your #MakeupTutorial.",
+            "link": "/tag/makeuptutorial",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 54500000000,
+              "challengeId": "39658",
+              "challengeName": "makeuptutorial"
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "467758",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e483b60167357ee13990c615a5400e73.png",
+            "title": "#WrestleMania",
+            "subTitle": "4.6B views",
+            "description": "It’s time for the most stupendous two-night WrestleMania in history! Whether you're climbing the turnbuckle, rooting from home, or dreaming of becoming a WWE Superstar, show us how you're celebrating all things #WrestleMania.",
+            "link": "/tag/WrestleMania",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 4600000000,
+              "challengeId": "467758",
+              "challengeName": "WrestleMania"
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "170127",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cc0558c331265ef2c0bb33304c35e878.png",
+            "title": "#springcleaning",
+            "subTitle": "1.3B views",
+            "description": "Whether it's minimizing or taking out the trash, get ready for some #SpringCleaning.",
+            "link": "/tag/springcleaning",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 1300000000,
+              "challengeId": "170127",
+              "challengeName": "springcleaning"
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "39786843",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/abcb3145d1adc7a752b69105abf62ae8.png",
+            "title": "#tiptok",
+            "subTitle": "1.7B views",
+            "description": "Whether it's a life hack, secret you ought to know, or an incredible tutorial, here's to #TipTok.",
+            "link": "/tag/tiptok",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 1700000000,
+              "challengeId": "39786843",
+              "challengeName": "tiptok"
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "1334984",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/00b4dfe7ae8826a0b85d982115fedb89.png",
+            "title": "#diyproject",
+            "subTitle": "21B views",
+            "description": "From start to finish, show us your latest #DIYProject.",
+            "link": "/tag/diyproject",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 21000000000,
+              "challengeId": "1334984",
+              "challengeName": "diyproject"
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "5183700",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/42c64b254aff3ebfcf2edff291733409.jpeg",
+            "title": "#treatyourself",
+            "subTitle": "2B views",
+            "description": "Sometimes you just have to #TreatYourself.",
+            "link": "/tag/treatyourself",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 2000000000,
+              "challengeId": "5183700",
+              "challengeName": "treatyourself"
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "11510",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4b40975b597a7413971da88c1868ccbe.jpeg",
+            "title": "#familytime",
+            "subTitle": "21.8B views",
+            "description": "There's no time like #FamilyTime.",
+            "link": "/tag/familytime",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 21800000000,
+              "challengeId": "11510",
+              "challengeName": "familytime"
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "1608887325435909",
+            "type": 3,
+            "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/190de3d3121908841fda2f8959f4633c.png",
+            "title": "#artistsoftiktok",
+            "subTitle": "35.4B views",
+            "description": "So you're an artist? Show us how you make your art.",
+            "link": "/tag/artistsoftiktok",
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "views": 35400000000,
+              "challengeId": "1608887325435909",
+              "challengeName": "artistsoftiktok"
+            }
+          }
+        }
+      ],
       "pageState": {
         "regionAppId": 1233,
         "os": "mac",
