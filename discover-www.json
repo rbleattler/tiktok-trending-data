@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1668895200&x-signature=qimA8d6gMIoQ72CJ8tc3rdhvp3I%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1668895200&x-signature=oltUhg0qUHaB2MmZD%2BKsSiVB4SU%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial #Monotonia 🫀🗡️ YA DISPONIBLE",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1668895200&x-signature=6NOMFFjw35kyHzLnf892wDC0yco%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1668895200&x-signature=7P6pyurnBNflPOG1%2FUYRpJOgDAM%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1668895200&x-signature=VlwCbTRv7jzAC4GAiA1fNjoF%2BB0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1668895200&x-signature=BSFWYFJmzanK2tsfK2ruxcc%2FKrY%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -282,7 +282,7 @@
               "userId": "6608112662742138886",
               "secUid": "MS4wLjABAAAAYq5wMpd1rQaEzdhLmQ4kvsfU1EpXO_RIDUblqWlKw89IIYLWPpfHEiM6xgbAZjei",
               "relation": -1,
-              "video": 238,
+              "video": 239,
               "following": 56,
               "heart": 18100000,
               "digg": 18
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1668895200&x-signature=pA4aowkmu1f%2FEWBOj8CysWQXJEY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1668895200&x-signature=TyZ0SFP%2BTXmqoPMs3We3yKLm2k0%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6771955742204707845",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e69a83b090edf0b42287a48cb7a08cc7~c5_100x100.jpeg?x-expires=1668895200&x-signature=RX3gR7kdWVKDL0g%2BtYZHT%2BW24is%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e69a83b090edf0b42287a48cb7a08cc7~c5_100x100.jpeg?x-expires=1668895200&x-signature=8KUBVHszdiUdM5NqD2%2FdJ5yX2xw%3D",
             "title": "Christina Aguilera",
             "subTitle": "@xtina",
             "description": "",
@@ -1158,13 +1158,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/886e9f6ce05d44b1be00b841560f05f0.jpeg",
             "title": "真夜中のドア/Stay With Me",
-            "subTitle": "383.5K videos",
+            "subTitle": "383.4K videos",
             "description": "Miki Matsubara",
             "link": "/music/真夜中のドアStay-With-Me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/0f70bd30651741dab1c62f3df0d73913",
-              "posts": 383500
+              "posts": 383400
             }
           }
         }
