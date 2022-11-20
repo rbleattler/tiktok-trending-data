@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1669100400&x-signature=bjuw33YRGHxB4MsFT7H8SBSjbYo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1669100400&x-signature=K60iXSPVThEo7sHGNdcANRa5g%2Bs%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1669100400&x-signature=bYo1%2BlrNLEiaAsPLELVR%2FVkzlH0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1669100400&x-signature=Q2rxQo%2FDbHcOMFQh8%2B6tBSY28ws%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial #Monotonia 🫀🗡️ YA DISPONIBLE",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1669100400&x-signature=U1oBWrJY2mijzZLGYnnWsCMW1uE%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1669100400&x-signature=nR50jXaMLHaPDcAgYtmbkr8sB7s%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "7144049083896054826",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1669100400&x-signature=FKF4bsL9OEKXCs6WG%2B6KZsAI6Hc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1669100400&x-signature=7YRAy4LtnYQ8PgPULq6XenGZQHU%3D",
             "title": "Ye",
             "subTitle": "@ye",
             "description": "",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1669100400&x-signature=XOUGOL8%2FEnarCe%2F2C2g5Z792n94%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1669100400&x-signature=1ryHXxWXVOe69CrCZX8thwAtkW8%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6750750848748930054",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c362b768ab8f807e599d269d81e8dfc4~c5_100x100.jpeg?x-expires=1669100400&x-signature=PTUbxe7sP%2F5i5M6%2Fzju%2FH6%2FUsww%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c362b768ab8f807e599d269d81e8dfc4~c5_100x100.jpeg?x-expires=1669100400&x-signature=PCvVvD3n5ta0STEqgJ7VFCpBTv8%3D",
             "title": "FARRU",
             "subTitle": "@farrukoofficialpr",
             "description": "LA ENVIDIA 🤯⬇️",
@@ -953,14 +953,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4b40975b597a7413971da88c1868ccbe.jpeg",
             "title": "#familytime",
-            "subTitle": "21.8B views",
+            "subTitle": "21.9B views",
             "description": "There's no time like #FamilyTime.",
             "link": "/tag/familytime",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 21800000000,
+              "views": 21900000000,
               "challengeId": "11510",
               "challengeName": "familytime"
             }
@@ -1063,13 +1063,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7bd1db5ef2a246fc99ac1137347a61df.jpeg",
             "title": "The Assignment",
-            "subTitle": "541.9K videos",
+            "subTitle": "541.8K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 541900
+              "posts": 541800
             }
           }
         },
