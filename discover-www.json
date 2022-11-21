@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1669237200&x-signature=Yz2J5weAC0eGePZ1CE7tcULpQkQ%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1669237200&x-signature=RycMOEj4nHjh%2Br3o5hur5YKmKiI%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "The new album GLORIA, January 27th ⚓️ ❤️‍🔥 Pre-order now",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1669237200&x-signature=oU5Nat9pqkgWiZO1rCSjsBLeS%2F0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1669237200&x-signature=SkNp7R1YAPUh%2B98aBGHh%2B2pAfGQ%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "REVELACIÓN is out now: http://smarturl.it/REVELACIONSG",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1669237200&x-signature=j1NSFNrUdc13qF3VhogPmhZKFL4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1669237200&x-signature=mdI70hrmzNwHyz1mM28I%2Fk70boA%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -303,7 +303,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 14100000,
+              "fans": 14200000,
               "likes": 112900000,
               "userId": "141140993138962432",
               "secUid": "MS4wLjABAAAAIAXBSn6tARIqrHDAQM32h-AzSL8yqTbXrZE2HlhpxyctXIAxoYUlBfhmqe-jyzVf",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1669237200&x-signature=3W6MVLJNB%2F7hfTqgmYDbC%2FCBWHI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1669237200&x-signature=DV1RWKyqdVBYk8aJPqHdu9vhCq4%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "SUPER FREAKY GIRL",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f26e9cbb1b7cb9d3dc62d7bb9387bb1~c5_100x100.jpeg?x-expires=1669237200&x-signature=j9tgHOpaxwfDs%2F6MHOyr3jSx14Q%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f26e9cbb1b7cb9d3dc62d7bb9387bb1~c5_100x100.jpeg?x-expires=1669237200&x-signature=Ro%2FssnM2ghwNy3KCbmCZedfYnx8%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "Celebrating #20yearsofTHISISMETHEN ✨",
@@ -972,14 +972,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/190de3d3121908841fda2f8959f4633c.png",
             "title": "#artistsoftiktok",
-            "subTitle": "35.7B views",
+            "subTitle": "35.8B views",
             "description": "So you're an artist? Show us how you make your art.",
             "link": "/tag/artistsoftiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 35700000000,
+              "views": 35800000000,
               "challengeId": "1608887325435909",
               "challengeName": "artistsoftiktok"
             }
