@@ -148,13 +148,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 35000000,
-              "likes": 557700000,
+              "likes": 557800000,
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": -1,
               "video": 331,
               "following": 465,
-              "heart": 557700000,
+              "heart": 557800000,
               "digg": 561
             }
           }
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1669392000&x-signature=%2F3T1FnsLd6U6Ohk%2FkYKaBS5PBz8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1669392000&x-signature=hplv7Knrk9w6FpBNAkc6HxonDJM%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1669392000&x-signature=vaVC0AgvcyKD4s19s2a6zmVyYfE%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1669392000&x-signature=uaxTaL4nGAiKjTZbLsgjxmC3aRs%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -407,7 +407,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 17000000,
+              "fans": 17100000,
               "likes": 182500000,
               "userId": "153416220371775488",
               "secUid": "MS4wLjABAAAAakkZYjH61hI2DN_7kKK3jMxksRuQuzafOGKm98BXObYcdFfiKnAjvtg2fmlXjxFO",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1669392000&x-signature=yOayq%2BXs%2FOl9Y%2Fccz1YUKf553fY%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1669392000&x-signature=TZJ1uvTnn7QRoc3bjX0RVa40kd4%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1669392000&x-signature=CqQLUV1LfNvRhGQ6TyHePnNHww8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1669392000&x-signature=BHkGCa1CGpzaqEkSy6hntqPMv90%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -972,14 +972,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/190de3d3121908841fda2f8959f4633c.png",
             "title": "#artistsoftiktok",
-            "subTitle": "35.8B views",
+            "subTitle": "35.9B views",
             "description": "So you're an artist? Show us how you make your art.",
             "link": "/tag/artistsoftiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 35800000000,
+              "views": 35900000000,
               "challengeId": "1608887325435909",
               "challengeName": "artistsoftiktok"
             }
