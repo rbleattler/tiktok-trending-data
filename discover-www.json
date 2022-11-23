@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1669345200&x-signature=0KvmmSAbyPTTnv760EiG9PNOWM4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1669345200&x-signature=IC0S0l4Uj6LIi6r0I0QUr4Udd74%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1669345200&x-signature=%2FziRFRTK839L%2B%2FXoASE8MrbwMU0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b9d568704704fdd0937ce6d9348d396d~c5_100x100.jpeg?x-expires=1669345200&x-signature=zfPLmvgkqhwNzyoglTjW1eUz7AE%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "REVELACIÓN is out now: http://smarturl.it/REVELACIONSG",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1669345200&x-signature=vvWGSfkjRyRv8wQ0lQT2NnovMbM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1669345200&x-signature=CW4hHoUsq7fp1o81r%2Brbz2c%2F4P0%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -174,13 +174,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 35000000,
-              "likes": 557500000,
+              "likes": 557600000,
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": -1,
               "video": 331,
               "following": 465,
-              "heart": 557500000,
+              "heart": 557600000,
               "digg": 561
             }
           }
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7144049083896054826",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1669345200&x-signature=j%2F2QPO07OoFvl8tr7OzAtitNCjw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1669345200&x-signature=tovm1epyMMHbBtXqAo1vrx1CqS0%3D",
             "title": "Ye",
             "subTitle": "@ye",
             "description": "",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1669345200&x-signature=UJzjyVHAwyYHMOvvcaEJO5j%2BPN4%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1669345200&x-signature=uqZ7CQpv%2B2m%2BO8amoE22nezeWEo%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -1063,13 +1063,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7bd1db5ef2a246fc99ac1137347a61df.jpeg",
             "title": "The Assignment",
-            "subTitle": "541.1K videos",
+            "subTitle": "541K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 541100
+              "posts": 541000
             }
           }
         },
