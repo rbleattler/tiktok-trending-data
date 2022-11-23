@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1669348800&x-signature=6SdPvU2iBSzi2%2Fwhl83D4CUcEoA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1669348800&x-signature=nOkxg0qExye37%2B7wdFe3sK6xdxI%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -233,7 +233,7 @@
               "video": 827,
               "following": 16,
               "heart": 1200000000,
-              "digg": 3333
+              "digg": 3334
             }
           }
         },
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1669348800&x-signature=TAX2ljFQkGjHhX7ZW8tQM8VL4jg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1669348800&x-signature=Biq16%2B7QUVvwxevQesQblhcDpOE%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Twelve Carat Tour now coming to a city near you",
@@ -571,7 +571,7 @@
               "video": 44,
               "following": 11,
               "heart": 52500000,
-              "digg": 2902
+              "digg": 2904
             }
           }
         },
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1669348800&x-signature=lNuChurdV4O9JtRHI0aYhRpaCBw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1669348800&x-signature=KQKcKPjsvMTEZ6DsWKUfPg6L%2BYk%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7144049083896054826",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1669348800&x-signature=Xz%2BiOyu5kzcRznBUpuiiyltHF2M%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1669348800&x-signature=5m2DEJ8I9MtPzT7XH9jyGjsc75M%3D",
             "title": "Ye",
             "subTitle": "@ye",
             "description": "",
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "64.6B views",
+            "subTitle": "64.7B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 64600000000,
+              "views": 64700000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
