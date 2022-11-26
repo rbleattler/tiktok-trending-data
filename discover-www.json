@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1669611600&x-signature=cuX%2BoJO0gUZBxHJWVuCpUaM0lRg%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1669611600&x-signature=6qRjwlDxzuztMhzzXcOu38rRIZY%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1669611600&x-signature=XUAchCroczpFfKgWHsdEbLi%2F3lA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1669611600&x-signature=C0ig64bH7R%2BK%2FkopbMWNQ2W91%2FE%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d9285a6513a500d6056feff3b187ba3c~c5_100x100.jpeg?x-expires=1669611600&x-signature=mKle7fWbAqBlB2i%2BZ9ZSQiRgtEg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d9285a6513a500d6056feff3b187ba3c~c5_100x100.jpeg?x-expires=1669611600&x-signature=vhqvzFBBJTC%2BOsEraT85xbr8Qmo%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1669611600&x-signature=3DoaStf4qxBlnN4GDUGRdCz%2Ffmk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1669611600&x-signature=E6jsU1I1gUh%2FMI3a2xR8cuVSyKU%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "SUPER FREAKY GIRL",
@@ -571,7 +571,7 @@
               "video": 47,
               "following": 11,
               "heart": 52900000,
-              "digg": 2921
+              "digg": 2927
             }
           }
         },
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "7144049083896054826",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1669611600&x-signature=BP%2BGd1e2o3iKunrSsrAyeW%2FlcpA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1669611600&x-signature=C8ohzz5TvHmDa0OK0n5RqKxhwBo%3D",
             "title": "Ye",
             "subTitle": "@ye",
             "description": "",
@@ -820,14 +820,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc43b89fed5808107f6ecfc274f36a90.jpeg",
             "title": "#couplestiktok",
-            "subTitle": "21.5B views",
+            "subTitle": "21.6B views",
             "description": "Cute pics, dinner dates, and more. Here's to the all the couples on TikTok.",
             "link": "/tag/couplestiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 21500000000,
+              "views": 21600000000,
               "challengeId": "1603828529424386",
               "challengeName": "couplestiktok"
             }
