@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1669867200&x-signature=G%2B%2F2e%2F78h%2B8kWSAccU%2Ff2Me8Ie0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1669867200&x-signature=RsV1%2FQp8WeQZ3TZTXtyAIm0yd%2FI%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1669867200&x-signature=UiFDVfK4tTY7g71sRfJir0rm0w8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1669867200&x-signature=Ov%2FCagAGJQynBllaNXxQzbWC%2F6w%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial #Monotonia 🫀🗡️ YA DISPONIBLE",
@@ -96,13 +96,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 26900000,
-              "likes": 150100000,
+              "likes": 150200000,
               "userId": "168541398546182144",
               "secUid": "MS4wLjABAAAAMTSBCxTaYvqbcRpT924iKILvChaXJEW2t8QEMK3s5NtXENf85cwPjT-biAUnsUfb",
               "relation": -1,
               "video": 188,
               "following": 57,
-              "heart": 150100000,
+              "heart": 150200000,
               "digg": 2562
             }
           }
@@ -122,13 +122,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 41300000,
-              "likes": 221300000,
+              "likes": 221400000,
               "userId": "158438610466201600",
               "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
               "relation": -1,
               "video": 60,
               "following": 0,
-              "heart": 221300000,
+              "heart": 221400000,
               "digg": 299
             }
           }
@@ -571,7 +571,7 @@
               "video": 136,
               "following": 0,
               "heart": 94000000,
-              "digg": 4845
+              "digg": 4848
             }
           }
         },
