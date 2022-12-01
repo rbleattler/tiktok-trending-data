@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d9285a6513a500d6056feff3b187ba3c~c5_100x100.jpeg?x-expires=1670068800&x-signature=SFdlGrVxbd0eVKXyKeX%2FStE3CrQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d9285a6513a500d6056feff3b187ba3c~c5_100x100.jpeg?x-expires=1670068800&x-signature=fQUH4%2B2MCA7N4Uq4q7EYPc6Dcno%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1670068800&x-signature=kbKYUMfy9mfvgKWb7ikmS7wtIeQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1670068800&x-signature=r1SNRpx1kqjtkvn22y9WQqUUalc%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1670068800&x-signature=ZTWF1xpRkDJ4HyVAsihGvUR0v24%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1670068800&x-signature=TRS41uFb8P6YpaTS9BrgVxVmGs0%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -915,14 +915,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/00b4dfe7ae8826a0b85d982115fedb89.png",
             "title": "#diyproject",
-            "subTitle": "21.7B views",
+            "subTitle": "21.8B views",
             "description": "From start to finish, show us your latest #DIYProject.",
             "link": "/tag/diyproject",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 21700000000,
+              "views": 21800000000,
               "challengeId": "1334984",
               "challengeName": "diyproject"
             }
@@ -1158,13 +1158,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/886e9f6ce05d44b1be00b841560f05f0.jpeg",
             "title": "真夜中のドア/Stay With Me",
-            "subTitle": "385.5K videos",
+            "subTitle": "385.6K videos",
             "description": "Miki Matsubara",
             "link": "/music/真夜中のドアStay-With-Me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 385500
+              "posts": 385600
             }
           }
         }
