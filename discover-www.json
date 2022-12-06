@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1670529600&x-signature=SccMOcqeQk3unRFMV5DqE5FzXiE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1670529600&x-signature=Y09GfZCY5V59HI2vqtgCFM0pfrg%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1670529600&x-signature=Vskwn4G1sCN4zC8QEkLwmsjqbiw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1670529600&x-signature=fwpXxA5F7wpcnpPh7PLN8BF4vCo%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Twelve Carat Toothache is out now 🫀",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1670529600&x-signature=VaTuE70uRn0PGUAcYfRzKadkaOQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1670529600&x-signature=gl9xybOwjPH%2BHArXnIierPjGw14%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/817bd1001cd423d8c9184f87be0a13ca~c5_100x100.jpeg?x-expires=1670529600&x-signature=uc%2Bs86%2Blv1XSi3LUjerTRf5y6JQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/817bd1001cd423d8c9184f87be0a13ca~c5_100x100.jpeg?x-expires=1670529600&x-signature=L3ILuNW57ATpe2OgP8zVldXZtaE%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1670529600&x-signature=zppNv8abVTpPzk0%2FvHDhjC2YTOM%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1670529600&x-signature=Myyk%2BF8d80sWPCSmCKuX%2FYXIsJ4%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1670529600&x-signature=%2Bgt%2Bv1IvhHnWYWq91zN2SXBZfxc%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1670529600&x-signature=JDRxQ1yglUuWHri9HGmwp15WQgk%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -889,14 +889,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/00b4dfe7ae8826a0b85d982115fedb89.png",
             "title": "#diyproject",
-            "subTitle": "22B views",
+            "subTitle": "22.1B views",
             "description": "From start to finish, show us your latest #DIYProject.",
             "link": "/tag/diyproject",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 22000000000,
+              "views": 22100000000,
               "challengeId": "1334984",
               "challengeName": "diyproject"
             }
