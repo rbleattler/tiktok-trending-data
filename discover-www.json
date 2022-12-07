@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1670540400&x-signature=0WOKPCMItiHYYU0jCbfL02l59g4%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1670540400&x-signature=MeXS7DUf82UPv0GmeQJWq43tLBw%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "The new album GLORIA, January 27th ⚓️ ❤️‍🔥 Pre-order now",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1670540400&x-signature=I5c1BZJyeSe8Nn%2F29p%2FL4Cs5Sw8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1670540400&x-signature=l78NiRheEQpzZYqV8kQ4EDC4c7M%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1670540400&x-signature=4EPEladOfU76OP5yatIVEvJVACg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1670540400&x-signature=OKt31THMfkPD%2FFVDMAGcIUsRXvQ%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Twelve Carat Toothache is out now 🫀",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2dabd4d38172d7424761224c09397383~c5_100x100.jpeg?x-expires=1670540400&x-signature=wLbnD50aDMfIvObOoYcQhiQFNkw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2dabd4d38172d7424761224c09397383~c5_100x100.jpeg?x-expires=1670540400&x-signature=AjDqBx6ed5ZGjOHEzBr3VjrlBng%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1670540400&x-signature=Yp9AngPgQt2ZZnjQ97fEBlqlHO8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1670540400&x-signature=k6M3aeCpTzVgwnJik06tmlgvJys%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "ACCOUNT RUN BY CAESAR THE DOG",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1670540400&x-signature=yuUx30ekX9sbB%2BSCc51ko20LIA8%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1670540400&x-signature=T9Uz2dT3zivYjpKHAnEJbypgwPE%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -775,14 +775,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "66.2B views",
+            "subTitle": "66.3B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 66200000000,
+              "views": 66300000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
