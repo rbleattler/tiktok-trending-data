@@ -17,7 +17,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 41800000,
+              "fans": 41900000,
               "likes": 227600000,
               "userId": "158438610466201600",
               "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
@@ -95,7 +95,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 64200000,
+              "fans": 64300000,
               "likes": 408100000,
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1670698800&x-signature=9V1JWqYleK4hheVR3jabL57oPFE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1670698800&x-signature=2js5QRV%2FY723ucAxyaVyG5Q4%2BA4%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial #Monotonia 🫀🗡️ YA DISPONIBLE",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1670698800&x-signature=YrUEB6qE2MpHnAEycdZlJL%2BptBw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1670698800&x-signature=3urhoeCz%2BbNUKJim2IPcJFaIZtk%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1670698800&x-signature=FGPfPsPUoIrGwGCljAdxkKCDvro%3D",
+            "cover": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1670698800&x-signature=Bb03f0dYXK21udSzUQBqSZcogXo%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1670698800&x-signature=6WdG75XRNKbXFZja2wP%2Fls4o%2Fnk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1670698800&x-signature=rKwTQFYM0Cpf3IOit4engDlFwqE%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "ACCOUNT RUN BY CAESAR THE DOG",
@@ -1132,13 +1132,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/886e9f6ce05d44b1be00b841560f05f0.jpeg",
             "title": "真夜中のドア/Stay With Me",
-            "subTitle": "387K videos",
+            "subTitle": "386.9K videos",
             "description": "Miki Matsubara",
             "link": "/music/真夜中のドアStay-With-Me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 387000
+              "posts": 386900
             }
           }
         }
