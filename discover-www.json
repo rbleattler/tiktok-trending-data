@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1671379200&x-signature=3s7WEU45JEDo8SDvaCzGJoA9IFQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1671379200&x-signature=vu91h%2FK6O6f%2BDKxyqOHbBXK3Ig0%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1671379200&x-signature=UCO%2BovI81Uit89GIVmuFTUA%2FpZU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1671379200&x-signature=OTsEJLMbOpCH4q%2FNrHzpYfs%2B8z8%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial #Monotonia 🫀🗡️ YA DISPONIBLE",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1671379200&x-signature=oF%2BqGu4kEuHCJPtvkNGsv1MwBu4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1671379200&x-signature=LHRdzZNxogLEFwCDLUAHaBaI0DA%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1671379200&x-signature=f8aXeOuJ2SWcEewtTjr6tEOppyk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1671379200&x-signature=feeIyEMyL8Fny%2FmlY3HwXyeQUFc%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -1094,13 +1094,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/34b723d31d6d4cd49f5ef94a969321c4.jpeg",
             "title": "Afterglow",
-            "subTitle": "244.4K videos",
+            "subTitle": "244.3K videos",
             "description": "Ed Sheeran",
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
-              "posts": 244400
+              "posts": 244300
             }
           }
         },
