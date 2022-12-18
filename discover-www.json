@@ -17,7 +17,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 42100000,
+              "fans": 42200000,
               "likes": 232000000,
               "userId": "158438610466201600",
               "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1671494400&x-signature=4SF0SGiHSOSGV%2BORovYlGraueUc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1671494400&x-signature=b7ewkpDbVYT%2BPzZjmtbiaJTD16s%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -178,7 +178,7 @@
               "userId": "126223816648822784",
               "secUid": "MS4wLjABAAAA7pFJYt0Ui6BV6xS9xncL3Zi1NsHEmfdn2t6sMY1yulhbrSWQ29xtwpUQFml62_q0",
               "relation": -1,
-              "video": 32,
+              "video": 33,
               "following": 67,
               "heart": 83600000,
               "digg": 106
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1671494400&x-signature=Hkp527zG0ENL8HNrDdkBHXPFV0Q%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1671494400&x-signature=Qp6ErQ87sFu9X6S2ONWYSi6fKyw%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1671494400&x-signature=TSChDujlNxtBXNkVjs2D5m6KpvY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1671494400&x-signature=81n7WzIVq6nvFAiieZJBZWuqDic%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Twelve Carat Toothache is out now 🫀",
@@ -597,7 +597,7 @@
               "video": 136,
               "following": 0,
               "heart": 94200000,
-              "digg": 4989
+              "digg": 4991
             }
           }
         },
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1671494400&x-signature=8CffmWaKJu5YW0dg0QQCUwliS4A%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1671494400&x-signature=DMM1qwzXQIaUkqcPnOijtkZZ1gg%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1671494400&x-signature=CEnLgaeNeeauVFDqr5NB%2BCD60MU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1671494400&x-signature=YAmF2731HDm5AmqecJ2T7gxifIY%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
