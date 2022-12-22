@@ -5,32 +5,6 @@
       "exploreList": [
         {
           "cardItem": {
-            "id": "6711995161218286598",
-            "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1671868800&x-signature=ns1MT3ByiUfx5q8QG7P6piIdHeQ%3D",
-            "title": "Sam Smith",
-            "subTitle": "@samsmith",
-            "description": "The new album GLORIA, January 27th ⚓️ ❤️‍🔥 Pre-order now",
-            "link": "/@samsmith",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 7100000,
-              "likes": 90800000,
-              "userId": "6711995161218286598",
-              "secUid": "MS4wLjABAAAAo6owCzQgiv9Xm_6O6lJHs85_whEc5JAjUDlmRO4vOH164H4zF2M3PYXBJtPhzXMz",
-              "relation": -1,
-              "video": 191,
-              "following": 105,
-              "heart": 90800000,
-              "digg": 238
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
             "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1671868800&x-signature=X3dtGoLOLqbGjiWnJe73JBcdXT4%3D",
@@ -43,7 +17,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 30300000,
+              "fans": 0,
               "likes": 295800000,
               "userId": "7047450743465477126",
               "secUid": "MS4wLjABAAAAhxvSFp8FPW1xhPCzgTzExrCo7Onwd2CuvldSXoUM5oSMLsfR8p6wBNMiWVgBg6V_",
@@ -52,6 +26,32 @@
               "following": 0,
               "heart": 295800000,
               "digg": 82
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "6711995161218286598",
+            "type": 2,
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1671868800&x-signature=AhntCZtjufOlZsWnY4XEiKGVT8Q%3D",
+            "title": "Sam Smith",
+            "subTitle": "@samsmith",
+            "description": "The new album GLORIA, January 27th ⚓️ ❤️‍🔥 Pre-order now",
+            "link": "/@samsmith",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 0,
+              "likes": 90900000,
+              "userId": "6711995161218286598",
+              "secUid": "MS4wLjABAAAAo6owCzQgiv9Xm_6O6lJHs85_whEc5JAjUDlmRO4vOH164H4zF2M3PYXBJtPhzXMz",
+              "relation": -1,
+              "video": 191,
+              "following": 0,
+              "heart": 90900000,
+              "digg": 238
             }
           }
         },
@@ -69,7 +69,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 42200000,
+              "fans": 0,
               "likes": 232500000,
               "userId": "158438610466201600",
               "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
@@ -95,7 +95,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 64600000,
+              "fans": 0,
               "likes": 412800000,
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
@@ -121,13 +121,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 35500000,
+              "fans": 0,
               "likes": 565600000,
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": -1,
               "video": 340,
-              "following": 469,
+              "following": 0,
               "heart": 565600000,
               "digg": 569
             }
@@ -147,13 +147,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 44900000,
+              "fans": 0,
               "likes": 413900000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": -1,
               "video": 170,
-              "following": 64,
+              "following": 0,
               "heart": 413900000,
               "digg": 1596
             }
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1671868800&x-signature=2Q800E6DYp1DglbzUgftUT%2Bt1Nw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1671868800&x-signature=hNXGxbb6UzgGx60UWJ2gMpYi5Eo%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -173,13 +173,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 13200000,
+              "fans": 0,
               "likes": 84300000,
               "userId": "126223816648822784",
               "secUid": "MS4wLjABAAAA7pFJYt0Ui6BV6xS9xncL3Zi1NsHEmfdn2t6sMY1yulhbrSWQ29xtwpUQFml62_q0",
               "relation": -1,
               "video": 33,
-              "following": 67,
+              "following": 0,
               "heart": 84300000,
               "digg": 106
             }
@@ -199,13 +199,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 27400000,
+              "fans": 0,
               "likes": 154600000,
               "userId": "168541398546182144",
               "secUid": "MS4wLjABAAAAMTSBCxTaYvqbcRpT924iKILvChaXJEW2t8QEMK3s5NtXENf85cwPjT-biAUnsUfb",
               "relation": -1,
               "video": 194,
-              "following": 57,
+              "following": 0,
               "heart": 154600000,
               "digg": 2566
             }
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1671868800&x-signature=1WdbKuqTrZ%2FN0MmPSKvFmsQjCUw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1671868800&x-signature=MU%2Bwt6sc1MlpyL3cixHaegdz90M%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -225,14 +225,14 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 5000000,
-              "likes": 22000000,
+              "fans": 0,
+              "likes": 22100000,
               "userId": "7109458094568686634",
               "secUid": "MS4wLjABAAAAmn1z6X9DX22Aj0fMTnlKlyzFO0t1g7fygJniWWOqwOna72PNbyhqWc6OECMB3VDi",
               "relation": -1,
               "video": 16,
-              "following": 4,
-              "heart": 22000000,
+              "following": 0,
+              "heart": 22100000,
               "digg": 1
             }
           }
@@ -251,7 +251,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 6800000,
+              "fans": 0,
               "likes": 5100000,
               "userId": "6621955904844021765",
               "secUid": "MS4wLjABAAAAd04PpJrQJrRv5QpeLCz-tj41zTwuemXz6WBpyycnVNGeYqJjlOzJ5fpV9QWK5h4B",
@@ -260,58 +260,6 @@
               "following": 0,
               "heart": 5100000,
               "digg": 0
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "153416220371775488",
-            "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1671868800&x-signature=aEpRVwPorOEnSP9DBENtWmGomTg%3D",
-            "title": "Camila Cabello",
-            "subTitle": "@camilacabello",
-            "description": "Sigue bailando. FAMILIA. Out now.",
-            "link": "/@camilacabello",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 17200000,
-              "likes": 186000000,
-              "userId": "153416220371775488",
-              "secUid": "MS4wLjABAAAAakkZYjH61hI2DN_7kKK3jMxksRuQuzafOGKm98BXObYcdFfiKnAjvtg2fmlXjxFO",
-              "relation": -1,
-              "video": 166,
-              "following": 100,
-              "heart": 186000000,
-              "digg": 926
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "6746264168812659717",
-            "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1671868800&x-signature=ZoVOnyDrv8y7hzgxfvjy68xncsk%3D",
-            "title": "Terry Crews",
-            "subTitle": "@terrycrews",
-            "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
-            "link": "/@terrycrews",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 23500000,
-              "likes": 115600000,
-              "userId": "6746264168812659717",
-              "secUid": "MS4wLjABAAAAeorUnEgxFuiNspeal1-82s8pfmSKCojvGFhL3fDrspFgBDzg084_uu4KrGLwKVZD",
-              "relation": -1,
-              "video": 184,
-              "following": 82,
-              "heart": 115600000,
-              "digg": 422
             }
           }
         },
@@ -329,7 +277,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 16100000,
+              "fans": 0,
               "likes": 155600000,
               "userId": "6881290705605477381",
               "secUid": "MS4wLjABAAAAqB08cUbXaDWqbD6MCga2RbGTuhfO2EsHayBYx08NDrN7IE3jQuRDNNN6YwyfH6_6",
@@ -338,6 +286,58 @@
               "following": 0,
               "heart": 155600000,
               "digg": 1585
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "6746264168812659717",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1671868800&x-signature=ZoVOnyDrv8y7hzgxfvjy68xncsk%3D",
+            "title": "Terry Crews",
+            "subTitle": "@terrycrews",
+            "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
+            "link": "/@terrycrews",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 0,
+              "likes": 115600000,
+              "userId": "6746264168812659717",
+              "secUid": "MS4wLjABAAAAeorUnEgxFuiNspeal1-82s8pfmSKCojvGFhL3fDrspFgBDzg084_uu4KrGLwKVZD",
+              "relation": -1,
+              "video": 184,
+              "following": 0,
+              "heart": 115600000,
+              "digg": 422
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "153416220371775488",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1671868800&x-signature=aEpRVwPorOEnSP9DBENtWmGomTg%3D",
+            "title": "Camila Cabello",
+            "subTitle": "@camilacabello",
+            "description": "Sigue bailando. FAMILIA. Out now.",
+            "link": "/@camilacabello",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 0,
+              "likes": 186000000,
+              "userId": "153416220371775488",
+              "secUid": "MS4wLjABAAAAakkZYjH61hI2DN_7kKK3jMxksRuQuzafOGKm98BXObYcdFfiKnAjvtg2fmlXjxFO",
+              "relation": -1,
+              "video": 166,
+              "following": 0,
+              "heart": 186000000,
+              "digg": 926
             }
           }
         },
@@ -355,13 +355,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 32500000,
+              "fans": 0,
               "likes": 159900000,
               "userId": "6730007015793771525",
               "secUid": "MS4wLjABAAAA5bchfwPs-XIqIsp7AIaDrrs05b3VAC9A8qZj2T016CvP9d_uYZfyOuzvqj4cKACj",
               "relation": -1,
               "video": 96,
-              "following": 10,
+              "following": 0,
               "heart": 159900000,
               "digg": 14
             }
@@ -381,13 +381,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 8300000,
+              "fans": 0,
               "likes": 27700000,
               "userId": "138635416672317440",
               "secUid": "MS4wLjABAAAAXGEEfLfwPoycHwYf6qZF3gvYruavdCMGpVvu92V1PnV0f22V1SExGDJIFrpWJY0C",
               "relation": -1,
               "video": 24,
-              "following": 27,
+              "following": 0,
               "heart": 27700000,
               "digg": 1549
             }
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/817bd1001cd423d8c9184f87be0a13ca~c5_100x100.jpeg?x-expires=1671868800&x-signature=%2F2NjTZKnpwoHKQ6IR6%2B%2FUz4XvFY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/817bd1001cd423d8c9184f87be0a13ca~c5_100x100.jpeg?x-expires=1671868800&x-signature=7eWe4yfjTdwqZvn4LiQFJCY5oEY%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -407,13 +407,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 3300000,
+              "fans": 0,
               "likes": 19200000,
               "userId": "6608112662742138886",
               "secUid": "MS4wLjABAAAAYq5wMpd1rQaEzdhLmQ4kvsfU1EpXO_RIDUblqWlKw89IIYLWPpfHEiM6xgbAZjei",
               "relation": -1,
               "video": 246,
-              "following": 59,
+              "following": 0,
               "heart": 19200000,
               "digg": 18
             }
@@ -433,13 +433,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 13600000,
+              "fans": 0,
               "likes": 55300000,
               "userId": "85228440332730368",
               "secUid": "MS4wLjABAAAAtBGdHy8_cZCxKRqL4b8y_Lai6He42r3Aqe3xEmaU-ANTnQRK2h-y1xB_xy2z-GE2",
               "relation": -1,
               "video": 49,
-              "following": 11,
+              "following": 0,
               "heart": 55300000,
               "digg": 2955
             }
@@ -459,13 +459,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 14400000,
+              "fans": 0,
               "likes": 115400000,
               "userId": "141140993138962432",
               "secUid": "MS4wLjABAAAAIAXBSn6tARIqrHDAQM32h-AzSL8yqTbXrZE2HlhpxyctXIAxoYUlBfhmqe-jyzVf",
               "relation": -1,
               "video": 168,
-              "following": 40,
+              "following": 0,
               "heart": 115400000,
               "digg": 307
             }
@@ -485,13 +485,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 24900000,
+              "fans": 0,
               "likes": 137200000,
               "userId": "6644633379692199942",
               "secUid": "MS4wLjABAAAAd_FL7FSUAR9eyQ0FbVWj2FbSbF7ch--LV4APbDXDSRPNAdp4PxsDzTtrwuDOwghx",
               "relation": -1,
               "video": 183,
-              "following": 103,
+              "following": 0,
               "heart": 137200000,
               "digg": 166
             }
@@ -511,13 +511,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 56800000,
+              "fans": 0,
               "likes": 1200000000,
               "userId": "21609287",
               "secUid": "MS4wLjABAAAAC5mIlEsDQSlfaWV6PSINVnfJOJz-eGhbAffi9TDrURw",
               "relation": -1,
               "video": 830,
-              "following": 17,
+              "following": 0,
               "heart": 1200000000,
               "digg": 3355
             }
@@ -537,13 +537,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 21000000,
+              "fans": 0,
               "likes": 96400000,
               "userId": "6961458548681819142",
               "secUid": "MS4wLjABAAAACpxmaRppKiE0rMRY0gA4UX5iA0WfDN-JBhKr0cSyUuJOsh_zxAp4jwIg8DP21s_x",
               "relation": -1,
               "video": 44,
-              "following": 5,
+              "following": 0,
               "heart": 96400000,
               "digg": 76
             }
@@ -563,7 +563,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 3400000,
+              "fans": 0,
               "likes": 60700000,
               "userId": "6930738942947017734",
               "secUid": "MS4wLjABAAAAclXR8nrvh-NMOIXvQYsdIJyKhnYfJ4PSNgqEmWlSz6og31qMHUIX8_X-h9CFtNiR",
@@ -589,13 +589,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 15400000,
+              "fans": 0,
               "likes": 58100000,
               "userId": "6611099612067856390",
               "secUid": "MS4wLjABAAAA2EvW1E1RwMcww5EY5bG0z2TeJ3dusTXaAKNJBQatp8IGSbOvWYWRm6TIIZ46Q40v",
               "relation": -1,
               "video": 163,
-              "following": 95,
+              "following": 0,
               "heart": 58100000,
               "digg": 731
             }
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1671868800&x-signature=dgIGhvWMNIcPwa9W11p%2BIZq3sN8%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1671868800&x-signature=ZLfKzTuSbZwqwUi2C2r5ZECIEVQ%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -615,7 +615,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 13200000,
+              "fans": 0,
               "likes": 142800000,
               "userId": "173245838817808384",
               "secUid": "MS4wLjABAAAAW-m9le-3IwWQcihDj2Io53yCuEgz0wb1Np_JY3chG8vAsK_fzWmK2NWaz1nzttoD",
@@ -624,32 +624,6 @@
               "following": 0,
               "heart": 142800000,
               "digg": 14
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "6693590239291917318",
-            "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1671868800&x-signature=Vr3si%2FFnpswBUXGwumobNRzKOLA%3D",
-            "title": "The Weeknd",
-            "subTitle": "@theweeknd",
-            "description": "ACCOUNT RUN BY CAESAR THE DOG",
-            "link": "/@theweeknd",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 6000000,
-              "likes": 25400000,
-              "userId": "6693590239291917318",
-              "secUid": "MS4wLjABAAAAG3YiXquuv2-O3z4OJpF1-cVHMKpx_JYmOsprbBrmY_MolxRsfK-gkZ4evQpTptGk",
-              "relation": -1,
-              "video": 67,
-              "following": 0,
-              "heart": 25400000,
-              "digg": 19
             }
           }
         },
@@ -667,15 +641,41 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 11600000,
+              "fans": 0,
               "likes": 93800000,
               "userId": "6653097460997521414",
               "secUid": "MS4wLjABAAAALoMs_1FxFHHnkPE6B8ZjTGsca2zm60Xi_xW1qRt6duyJllmKfA1O0gxgn7UtySfz",
               "relation": -1,
               "video": 171,
-              "following": 39,
+              "following": 0,
               "heart": 93800000,
               "digg": 1317
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "6693590239291917318",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1671868800&x-signature=zqy7G35Xt0FTA%2B%2B1GhQVvWp9BPo%3D",
+            "title": "The Weeknd",
+            "subTitle": "@theweeknd",
+            "description": "ACCOUNT RUN BY CAESAR THE DOG",
+            "link": "/@theweeknd",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 0,
+              "likes": 25400000,
+              "userId": "6693590239291917318",
+              "secUid": "MS4wLjABAAAAG3YiXquuv2-O3z4OJpF1-cVHMKpx_JYmOsprbBrmY_MolxRsfK-gkZ4evQpTptGk",
+              "relation": -1,
+              "video": 67,
+              "following": 0,
+              "heart": 25400000,
+              "digg": 19
             }
           }
         },
@@ -693,7 +693,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 2000000,
+              "fans": 0,
               "likes": 10200000,
               "userId": "7144049083896054826",
               "secUid": "MS4wLjABAAAAzVM-Wh006kKXmDjRl44c98DuilXMghrZREg0cVJD4PDCRmfVNnhV8C8OntqauBKj",
@@ -719,13 +719,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 7200000,
+              "fans": 0,
               "likes": 45500000,
               "userId": "6719942663279739909",
               "secUid": "MS4wLjABAAAAmjzSM_FdNtE8lPL1gxsZmvZJ2cvCEwdt1d8aN9WJ9_8AtWeVhaGEpyoY1oIcaYJt",
               "relation": -1,
               "video": 63,
-              "following": 18,
+              "following": 0,
               "heart": 45500000,
               "digg": 127
             }
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1671868800&x-signature=Avhlmz6Sthhw%2Bq1lqV%2BK0ByVOHk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1671868800&x-signature=q2GHbZ1AIP5bLO27%2Fx2yLGXSgpY%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "SUPER FREAKY GIRL",
@@ -745,7 +745,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 16900000,
+              "fans": 0,
               "likes": 94200000,
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
@@ -753,7 +753,7 @@
               "video": 136,
               "following": 0,
               "heart": 94200000,
-              "digg": 5042
+              "digg": 5045
             }
           }
         },
@@ -771,13 +771,13 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 11100000,
+              "fans": 0,
               "likes": 46100000,
               "userId": "14388294",
               "secUid": "MS4wLjABAAAAauJ1e2TsqOgIMGB3UCy6cLfc-HzFQDfyxzTeBVJvUOI",
               "relation": -1,
               "video": 155,
-              "following": 203,
+              "following": 0,
               "heart": 46100000,
               "digg": 302
             }
