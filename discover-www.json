@@ -126,7 +126,7 @@
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": -1,
-              "video": 340,
+              "video": 341,
               "following": 469,
               "heart": 565900000,
               "digg": 570
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1672077600&x-signature=0JaQJebwob4Tyru50pLnclmPM80%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1672077600&x-signature=eHACfQanTUD3mzm8LcQROEwcOMA%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1672077600&x-signature=KLfHyFM5CAkW7UVdkpN8F0y6oRE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1672077600&x-signature=QTQXL%2B5K792YD4A1lESQSrOwGkw%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Twelve Carat Toothache is out now 🫀",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1672077600&x-signature=G6XVVip2uH2z6tn1ifDJQ8dJMXQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1672077600&x-signature=iueiOw9xmRySJkZM9H4btFTbFcY%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "ACCOUNT RUN BY CAESAR THE DOG",
@@ -1139,13 +1139,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f.jpeg",
             "title": "Holly Jolly Christmas",
-            "subTitle": "106.5K videos",
+            "subTitle": "106.6K videos",
             "description": "Michael Bublé",
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
-              "posts": 106500
+              "posts": 106600
             }
           }
         },
@@ -1158,13 +1158,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5.jpeg",
             "title": "真夜中のドア〜stay with me",
-            "subTitle": "390.5K videos",
+            "subTitle": "390.6K videos",
             "description": "松原みき",
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 390500
+              "posts": 390600
             }
           }
         }
