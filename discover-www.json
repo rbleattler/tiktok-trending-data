@@ -70,13 +70,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 64800000,
-              "likes": 415600000,
+              "likes": 415700000,
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
               "relation": -1,
               "video": 120,
               "following": 0,
-              "heart": 415600000,
+              "heart": 415700000,
               "digg": 9
             }
           }
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1672264800&x-signature=htMVM7kxcy9%2F5j5ZicQ2wV5pENY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1672264800&x-signature=6uxe8u0%2FXxgCcwvkLmD%2FLMdJ9pg%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1672264800&x-signature=Z89VetZiztD7dHxNZMTZaMQ2R8I%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1672264800&x-signature=Jm%2B%2FowEZFKWESUav7mMiS%2BDihvY%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/817bd1001cd423d8c9184f87be0a13ca~c5_100x100.jpeg?x-expires=1672264800&x-signature=9m0f%2FhZ3NGlBGxAQEHz5bEEIywo%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/817bd1001cd423d8c9184f87be0a13ca~c5_100x100.jpeg?x-expires=1672264800&x-signature=KxhIXo5qsFFpaQota4dosJDch%2Fs%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1672264800&x-signature=MnDvVfBedH76%2Bv5k2tT6xPTmEQU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1672264800&x-signature=5iSpepQSiv0tJYUWAuPJxTYYcfI%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -1044,13 +1044,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/d33ece898368470bbcc14c8e2220f5a4.jpeg",
             "title": "Hasta la Raíz",
-            "subTitle": "224.5K videos",
+            "subTitle": "224.6K videos",
             "description": "Natalia Lafourcade",
             "link": "/music/Hasta-la-Raíz-222453230176251905",
             "extraInfo": {
               "musicId": "222453230176251905",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
-              "posts": 224500
+              "posts": 224600
             }
           }
         },
