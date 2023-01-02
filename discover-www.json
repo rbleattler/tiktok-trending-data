@@ -96,13 +96,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 30500000,
-              "likes": 302300000,
+              "likes": 302400000,
               "userId": "7047450743465477126",
               "secUid": "MS4wLjABAAAAhxvSFp8FPW1xhPCzgTzExrCo7Onwd2CuvldSXoUM5oSMLsfR8p6wBNMiWVgBg6V_",
               "relation": -1,
               "video": 43,
               "following": 0,
-              "heart": 302300000,
+              "heart": 302400000,
               "digg": 83
             }
           }
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1672801200&x-signature=lKeRnFg5lgi8%2BLVNDToXUuZVG4E%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1672801200&x-signature=mLU2%2B8kZQO95xy9TfphkRyZ76VQ%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "6930738942947017734",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de44f930869eca67a3bee253cdeccb53~c5_100x100.jpeg?x-expires=1672801200&x-signature=3hv9bfiTV3C8FjWXJNwTdWYYlwA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de44f930869eca67a3bee253cdeccb53~c5_100x100.jpeg?x-expires=1672801200&x-signature=%2BT1zPVXYWny22WQELC6bhBwkS6c%3D",
             "title": "Khalid",
             "subTitle": "@thegr8khalid",
             "description": "24.",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1672801200&x-signature=1231XonfH%2FAowJ06vyOmGVT%2BZIk%3D",
+            "cover": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1672801200&x-signature=Fr8L8fxsUKgpynoJU6q0vLR%2BU8I%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "7144049083896054826",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1672801200&x-signature=TudBjP8FubiONa%2F1oLpxQjFMo2E%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4da2de4ecab9811aa72ba5446065151f~c5_100x100.jpeg?x-expires=1672801200&x-signature=FKJb%2B8OXEcMkP0mBIOfyg9BGNDY%3D",
             "title": "Ye",
             "subTitle": "@ye",
             "description": "",
@@ -1044,13 +1044,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/d33ece898368470bbcc14c8e2220f5a4.jpeg",
             "title": "Hasta la Raíz",
-            "subTitle": "226.7K videos",
+            "subTitle": "226.8K videos",
             "description": "Natalia Lafourcade",
             "link": "/music/Hasta-la-Raíz-222453230176251905",
             "extraInfo": {
               "musicId": "222453230176251905",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
-              "posts": 226700
+              "posts": 226800
             }
           }
         },
