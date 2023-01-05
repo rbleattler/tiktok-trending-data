@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1673114400&x-signature=KivVHSWBpJG42thqHoz%2Bg42ay%2BA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1673114400&x-signature=qBqf2gAvK5BMVUdhg736UHcvlv0%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "ACCOUNT RUN BY CAESAR THE DOG",
@@ -820,14 +820,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc43b89fed5808107f6ecfc274f36a90.jpeg",
             "title": "#couplestiktok",
-            "subTitle": "24B views",
+            "subTitle": "24.1B views",
             "description": "Cute pics, dinner dates, and more. Here's to the all the couples on TikTok.",
             "link": "/tag/couplestiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 24000000000,
+              "views": 24100000000,
               "challengeId": "1603828529424386",
               "challengeName": "couplestiktok"
             }
@@ -1158,13 +1158,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5.jpeg",
             "title": "真夜中のドア〜stay with me",
-            "subTitle": "395.3K videos",
+            "subTitle": "395.4K videos",
             "description": "松原みき",
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 395300
+              "posts": 395400
             }
           }
         }
