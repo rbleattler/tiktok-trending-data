@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1673128800&x-signature=fse1izq4Iz7T9BdtIvrPpNMBvys%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1673128800&x-signature=r8Vzcdq0v15zNHAVMV8T4UFsxMg%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "The new album GLORIA, January 27th ⚓️ ❤️‍🔥 Pre-order now",
@@ -96,13 +96,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 65000000,
-              "likes": 418000000,
+              "likes": 418100000,
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
               "relation": -1,
               "video": 120,
               "following": 0,
-              "heart": 418000000,
+              "heart": 418100000,
               "digg": 9
             }
           }
@@ -122,13 +122,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 45200000,
-              "likes": 421100000,
+              "likes": 421200000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": -1,
               "video": 176,
               "following": 65,
-              "heart": 421100000,
+              "heart": 421200000,
               "digg": 1658
             }
           }
@@ -148,13 +148,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 35700000,
-              "likes": 567700000,
+              "likes": 567800000,
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": -1,
               "video": 344,
               "following": 475,
-              "heart": 567700000,
+              "heart": 567800000,
               "digg": 578
             }
           }
@@ -226,13 +226,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 5300000,
-              "likes": 25000000,
+              "likes": 25100000,
               "userId": "7109458094568686634",
               "secUid": "MS4wLjABAAAAmn1z6X9DX22Aj0fMTnlKlyzFO0t1g7fygJniWWOqwOna72PNbyhqWc6OECMB3VDi",
               "relation": -1,
               "video": 18,
               "following": 4,
-              "heart": 25000000,
+              "heart": 25100000,
               "digg": 1
             }
           }
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1673128800&x-signature=Mwj1jXh1SYkp6Z24Bd0zTlLeQT4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1673128800&x-signature=78Cp6QvFebji4uUY0IxG%2FPxTy3A%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -434,13 +434,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 11700000,
-              "likes": 95000000,
+              "likes": 95100000,
               "userId": "6653097460997521414",
               "secUid": "MS4wLjABAAAALoMs_1FxFHHnkPE6B8ZjTGsca2zm60Xi_xW1qRt6duyJllmKfA1O0gxgn7UtySfz",
               "relation": -1,
               "video": 173,
               "following": 37,
-              "heart": 95000000,
+              "heart": 95100000,
               "digg": 1324
             }
           }
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1673128800&x-signature=%2BRpndADN3LH735EcRIY%2BacIfRv4%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1673128800&x-signature=YK4t8%2BfSukrLHWBV7rQljCBHVH0%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -493,7 +493,7 @@
               "video": 51,
               "following": 11,
               "heart": 55700000,
-              "digg": 2981
+              "digg": 2982
             }
           }
         },
