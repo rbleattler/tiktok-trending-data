@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1673510400&x-signature=mApXMHJygY8oOzKtXlRAulbEooQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1673514000&x-signature=XZ7aYRO1WA79OBE6sfZZ6s4SUSQ%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1673510400&x-signature=IIfEviLxQoS7ZlFZXFaIsJ4vF0U%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1673514000&x-signature=Ka%2BOTe9HYS8MnHqi9BWgKKr8JUY%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "The new album GLORIA, January 27th ⚓️ ❤️‍🔥 Pre-order now",
@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1673510400&x-signature=cFlsON%2FPXOqy3TZ0nbgkMNrkBQg%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1673514000&x-signature=bah45F3qOEx%2FB8BP%2FrvMYvi6tbM%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. MARCH 10. \n\nFLOWERS JANUARY 13.",
@@ -83,35 +83,9 @@
         },
         {
           "cardItem": {
-            "id": "6745191554350760966",
-            "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1673510400&x-signature=DfrC9%2FBuRCwV6urpSMd4qkx%2ByWM%3D",
-            "title": "The Rock",
-            "subTitle": "@therock",
-            "description": "CEO of #RockTok",
-            "link": "/@therock",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 65100000,
-              "likes": 418900000,
-              "userId": "6745191554350760966",
-              "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
-              "relation": -1,
-              "video": 121,
-              "following": 0,
-              "heart": 418900000,
-              "digg": 9
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1673510400&x-signature=JhUUxVWopMF2Y3ZcquMl2XOreOk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1673514000&x-signature=GFEDWmC6D2xsvzC5B4bX8LioMUM%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -135,9 +109,35 @@
         },
         {
           "cardItem": {
+            "id": "6745191554350760966",
+            "type": 2,
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1673514000&x-signature=S%2Fiatbut%2FZr3P167NB3YlrpfyLA%3D",
+            "title": "The Rock",
+            "subTitle": "@therock",
+            "description": "CEO of #RockTok",
+            "link": "/@therock",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 65100000,
+              "likes": 418900000,
+              "userId": "6745191554350760966",
+              "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
+              "relation": -1,
+              "video": 121,
+              "following": 0,
+              "heart": 418900000,
+              "digg": 9
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1673510400&x-signature=ZAc%2BkI2COqqgMqIlTjSiO8CMTvE%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1673514000&x-signature=3Hxj8a4Ngky5fbVfqQ4NDpsKEY8%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -161,35 +161,9 @@
         },
         {
           "cardItem": {
-            "id": "158438610466201600",
-            "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/49f48aba94373da5d6536f4dfad8d177~c5_100x100.jpeg?x-expires=1673510400&x-signature=iXJ5Ywab8zYPBJxsgjO6otMimYI%3D",
-            "title": "Karol G",
-            "subTitle": "@karolg",
-            "description": "13",
-            "link": "/@karolg",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 42500000,
-              "likes": 234600000,
-              "userId": "158438610466201600",
-              "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
-              "relation": -1,
-              "video": 62,
-              "following": 0,
-              "heart": 234600000,
-              "digg": 304
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1673510400&x-signature=CjRlvTSLKVIQ6utF3czYgFTyyK0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1673514000&x-signature=vxEK%2F%2BHyDhE5Hylwt4wSSHKLy4c%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -215,7 +189,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1673510400&x-signature=%2FIpbLtzFL4MjuWQv2iInw4GtS9Q%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1673514000&x-signature=ecdPpWHC7AlIDoUHprLP%2FM8%2BUjk%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -239,9 +213,35 @@
         },
         {
           "cardItem": {
+            "id": "158438610466201600",
+            "type": 2,
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/49f48aba94373da5d6536f4dfad8d177~c5_100x100.jpeg?x-expires=1673514000&x-signature=hR8jnHqxhlExFV2AfcM%2B%2Fp0UljI%3D",
+            "title": "Karol G",
+            "subTitle": "@karolg",
+            "description": "13",
+            "link": "/@karolg",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 42500000,
+              "likes": 234600000,
+              "userId": "158438610466201600",
+              "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
+              "relation": -1,
+              "video": 62,
+              "following": 0,
+              "heart": 234600000,
+              "digg": 304
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "6881290705605477381",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/13f2a0d585f3cd8578da0d18c36a18c4~c5_100x100.jpeg?x-expires=1673510400&x-signature=P5GkuhckPwfEAC34PBnVJ1JO79M%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/13f2a0d585f3cd8578da0d18c36a18c4~c5_100x100.jpeg?x-expires=1673514000&x-signature=PVi%2FXwjMqJvA3Ns9U1%2FT2WltiTY%3D",
             "title": "Taylor Swift",
             "subTitle": "@taylorswift",
             "description": "This is pretty much just a cat account",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1673510400&x-signature=LCUXdfRrNeSSJsV4cPBAh34czls%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1673514000&x-signature=%2B6R5a%2FZ1ZliDiv0flNgyyKSEvyY%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/817bd1001cd423d8c9184f87be0a13ca~c5_100x100.jpeg?x-expires=1673510400&x-signature=cHSA0DiLw0snjwfeeJowuz8p5qY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/817bd1001cd423d8c9184f87be0a13ca~c5_100x100.jpeg?x-expires=1673514000&x-signature=xih947zYTa08%2B9FPRqZcDMtJ194%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1673510400&x-signature=q98q%2FVwfspBEOJ8GXZVbIzeZHJ0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1673514000&x-signature=1AFb%2BMznfNtDnBwWDM8cf5xUNSk%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial #Monotonia 🫀🗡️ YA DISPONIBLE",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f0be22abe1f0c6b2e411e7e7a51a2c18~c5_100x100.jpeg?x-expires=1673510400&x-signature=hd%2BU77J6rlkmTg9PfRryjiuYR9A%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f0be22abe1f0c6b2e411e7e7a51a2c18~c5_100x100.jpeg?x-expires=1673514000&x-signature=HWiqlI9g9%2Fq6vrvpxu3MFQ%2BBW%2FU%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "Booking at Derulobookings@gmail.com\nMe & Robinson - Ayo Girl ft. Rema & Tempoe",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1673510400&x-signature=AlfJuTe1bH4YQTkf1RdMIk1MC8I%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1673514000&x-signature=P7zDBl1BwesElPTof%2Fdht%2F5Yqy8%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1673510400&x-signature=Cv3edFwCPceZMXVFc%2Bt6PV%2FYSxc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1673514000&x-signature=lW25D3010MOKJOF1T0N6jG8mBew%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -408,13 +408,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 17200000,
-              "likes": 186500000,
+              "likes": 186600000,
               "userId": "153416220371775488",
               "secUid": "MS4wLjABAAAAakkZYjH61hI2DN_7kKK3jMxksRuQuzafOGKm98BXObYcdFfiKnAjvtg2fmlXjxFO",
               "relation": -1,
               "video": 167,
               "following": 100,
-              "heart": 186500000,
+              "heart": 186600000,
               "digg": 926
             }
           }
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1673510400&x-signature=9I6LVvlbvUQ1qut9TgPYTeLf5S0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1673514000&x-signature=8gvJ%2B4RLMaTiW6lQwxOJKcB62CU%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1673510400&x-signature=waRzIZmOLu1a%2BIX4Whzgjadn%2BYY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1673514000&x-signature=VZGhChH5lhEtwG1v0FiYFhSjihc%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "6644633379692199942",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1641702322139141~c5_100x100.jpeg?x-expires=1673510400&x-signature=yC62KJYkofO8i%2BYguP0EKNbBndo%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1641702322139141~c5_100x100.jpeg?x-expires=1673514000&x-signature=IYc2iXPwDaPYr72Wspd%2F9Y%2Bg5OQ%3D",
             "title": "Snoop Dogg",
             "subTitle": "@snoopdogg",
             "description": "Bacc on Death Row",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "6730007015793771525",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652392319210501~c5_100x100.jpeg?x-expires=1673510400&x-signature=Nn0uyVDVzj9c24dzCGuHB9%2BI3rE%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652392319210501~c5_100x100.jpeg?x-expires=1673514000&x-signature=CZIwUJIA3djz%2BccwPJcWpdmiWGk%3D",
             "title": "Kevin Hart",
             "subTitle": "@imkevinhart",
             "description": "\"Live Love & Laugh\" \nFacebook.com/HartKevin",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1673510400&x-signature=tXkUGcQdfCSVw0vI%2BfGIHleVrA0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1673514000&x-signature=GYIc0adzGvVuIz5zBBXS2Kgr8vk%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Twelve Carat Toothache is out now 🫀",
@@ -551,35 +551,9 @@
         },
         {
           "cardItem": {
-            "id": "85228440332730368",
-            "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c2f05edd32ee3fbd2af89117a9da4764~c5_100x100.jpeg?x-expires=1673510400&x-signature=wRb3xqXPIM0W5P1aaM%2Bjo9PrOTA%3D",
-            "title": "daddyyankee",
-            "subTitle": "@daddyyankee",
-            "description": "New album #LEGENDADDY Out now !",
-            "link": "/@daddyyankee",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 13700000,
-              "likes": 55700000,
-              "userId": "85228440332730368",
-              "secUid": "MS4wLjABAAAAtBGdHy8_cZCxKRqL4b8y_Lai6He42r3Aqe3xEmaU-ANTnQRK2h-y1xB_xy2z-GE2",
-              "relation": -1,
-              "video": 51,
-              "following": 11,
-              "heart": 55700000,
-              "digg": 2985
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "142565009246584832",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665504992747525~c5_100x100.jpeg?x-expires=1673510400&x-signature=jPkyRUltUTHDmJvc9k9eCgOik6c%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665504992747525~c5_100x100.jpeg?x-expires=1673514000&x-signature=%2BKprM2f2bg9gNxY2UbqV%2FmfHST8%3D",
             "title": "marshmello",
             "subTitle": "@marshmello",
             "description": "Be a good person ⛳️",
@@ -603,9 +577,35 @@
         },
         {
           "cardItem": {
+            "id": "85228440332730368",
+            "type": 2,
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c2f05edd32ee3fbd2af89117a9da4764~c5_100x100.jpeg?x-expires=1673514000&x-signature=lKcHCtpNM0UQCVpWRIaKMeb%2BSFk%3D",
+            "title": "daddyyankee",
+            "subTitle": "@daddyyankee",
+            "description": "New album #LEGENDADDY Out now !",
+            "link": "/@daddyyankee",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 13700000,
+              "likes": 55700000,
+              "userId": "85228440332730368",
+              "secUid": "MS4wLjABAAAAtBGdHy8_cZCxKRqL4b8y_Lai6He42r3Aqe3xEmaU-ANTnQRK2h-y1xB_xy2z-GE2",
+              "relation": -1,
+              "video": 51,
+              "following": 11,
+              "heart": 55700000,
+              "digg": 2985
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1673510400&x-signature=r1a7COpfxXAcKqrq48syZ%2F1m6Ms%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1673514000&x-signature=Ec536WFjdBTcDg5K%2FjD7FP2jJ3s%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "ACCOUNT RUN BY CAESAR THE DOG",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1673510400&x-signature=z6A%2FaAGzgW1Gm%2F0Z6eUwlyexdTk%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d0c72c4d878a1445baf8a63c78157a79~c5_100x100.jpeg?x-expires=1673514000&x-signature=pMPkm1RntjYZumSBwA2aYcZwTNk%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Signing off until 2023",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1673510400&x-signature=y7Ayn7PhiO%2BI8853UlpQF%2FIEfDk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1673514000&x-signature=KSmO%2FiCtQ3HSQsnZsVkqmafvYsY%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "6930738942947017734",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de44f930869eca67a3bee253cdeccb53~c5_100x100.jpeg?x-expires=1673510400&x-signature=6JiHvp1pO43iscZtmCCLMa9WblQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de44f930869eca67a3bee253cdeccb53~c5_100x100.jpeg?x-expires=1673514000&x-signature=jVSXv1%2BrHBzP82N3Bem9v2jxEqE%3D",
             "title": "Khalid",
             "subTitle": "@thegr8khalid",
             "description": "24.",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e7b4a23dfc53532187f0fe04e6d6fefe~c5_100x100.jpeg?x-expires=1673510400&x-signature=qsV3C7O0J6PEg7I%2F%2BabFb8yasPY%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e7b4a23dfc53532187f0fe04e6d6fefe~c5_100x100.jpeg?x-expires=1673514000&x-signature=PYWc3GtOd5eGv0piRN%2FLPv6lIlE%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1673510400&x-signature=O6GbNJLRN7r%2FB8vX0pd%2Fa5A%2BHOs%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1673514000&x-signature=d%2F%2FX%2FGflCieNUvIhOZhXtYk6pqw%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "SUPER FREAKY GIRL",
