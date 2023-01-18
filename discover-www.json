@@ -126,7 +126,7 @@
               "userId": "6711995161218286598",
               "secUid": "MS4wLjABAAAAo6owCzQgiv9Xm_6O6lJHs85_whEc5JAjUDlmRO4vOH164H4zF2M3PYXBJtPhzXMz",
               "relation": -1,
-              "video": 213,
+              "video": 212,
               "following": 106,
               "heart": 97700000,
               "digg": 252
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1674219600&x-signature=pqKxm4d0BgJaieHFc4yJccDP4Lc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1674219600&x-signature=%2BJjEGNBY754c8PXIfUTiVqfMnFU%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -337,7 +337,7 @@
               "video": 50,
               "following": 0,
               "heart": 157200000,
-              "digg": 1603
+              "digg": 1604
             }
           }
         },
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1674219600&x-signature=Jkb4yqurxBDCev7noon8%2FUCMF%2Fg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1674219600&x-signature=ygviS0mJzqYc7hKM%2Fde%2FGua9GvI%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1674219600&x-signature=lK0JMOG1%2FSHIl%2FCOKpjuiuphxXw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1674219600&x-signature=ugJTUdR%2FhfZ2LQo6skw8v0yt%2FT0%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "7187915589648663594",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca937ea16636c9de86970c53a1de9a56~c5_100x100.jpeg?x-expires=1674219600&x-signature=Yu%2Boyj517dsy2YwOsQygDLTTLsg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca937ea16636c9de86970c53a1de9a56~c5_100x100.jpeg?x-expires=1674219600&x-signature=DNwt6XG57vsF3O77z3GECGYjYAE%3D",
             "title": "Tom Hanks",
             "subTitle": "@tomhanks",
             "description": "I'm that actor in some of the movies you liked and some you didn't.",
@@ -745,14 +745,14 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 312100,
-              "likes": 326600,
+              "fans": 312200,
+              "likes": 326700,
               "userId": "7187915589648663594",
               "secUid": "MS4wLjABAAAA36WttWTRVTbl1Xa7YU6YjlV0_w15ax0gAilaboqP2PWtjRR0mlBQEHmdQtPQmiX7",
               "relation": -1,
               "video": 1,
               "following": 0,
-              "heart": 326600,
+              "heart": 326700,
               "digg": 0
             }
           }
