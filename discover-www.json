@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1674662400&x-signature=6r7CwHP8AMyvExPwSERTWMybqbA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1674662400&x-signature=EoWF%2FX3qbDzT0vdI038AMRGF2kM%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1674662400&x-signature=CThHZxnfg%2FNu2s143%2BLVHQl46Do%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1674662400&x-signature=%2Bj3fFnr0wMfX%2FBD3tDB65S14290%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1674662400&x-signature=FpP52xZrHSQm8KRJvYZDR7wkBek%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1674662400&x-signature=k%2BRz3lnfjBZehJAd56sYIz%2BGO2Q%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1674662400&x-signature=bgPCCNYI7noVdWP3wc7jUkkY8VY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1674662400&x-signature=kdXKER04RcUVURxyBkNuyBEtw8E%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1674662400&x-signature=%2F0JDZNCO2%2F%2F9k6ql9UeC7HfnS10%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1674662400&x-signature=Omjh2qQi1Jyah7JIe7Li2ccirUE%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1674662400&x-signature=KUTIiTGQOXtk%2FT7HRhAKPam96es%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1674662400&x-signature=Sttz4yUbgC68tD41Z1UjWUbgSZA%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -813,14 +813,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/feb4c89b2b972560362fbf43209635bc.png",
             "title": "#makeuptutorial",
-            "subTitle": "64.6B views",
+            "subTitle": "64.7B views",
             "description": "Show us your #MakeupTutorial.",
             "link": "/tag/makeuptutorial",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 64600000000,
+              "views": 64700000000,
               "challengeId": "39658",
               "challengeName": "makeuptutorial"
             }
@@ -1094,13 +1094,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/34b723d31d6d4cd49f5ef94a969321c4.jpeg",
             "title": "Afterglow",
-            "subTitle": "243.2K videos",
+            "subTitle": "243.1K videos",
             "description": "Ed Sheeran",
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
-              "posts": 243200
+              "posts": 243100
             }
           }
         },
