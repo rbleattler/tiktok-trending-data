@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1675659600&x-signature=E6hWWSxgxDnLFXZAH2Lq8q2Q4aE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1675659600&x-signature=DCrJnEjhtAZya8LYZ4nzGm%2Bh%2BlE%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "158438610466201600",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1675659600&x-signature=deQIfIJgZeE3kKod2cNnGdcFOhM%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1675659600&x-signature=SGtKwqiTRg8CUHxspFSbWcuDJ2c%3D",
             "title": "Karol G",
             "subTitle": "@karolg",
             "description": "☀️🌺🍃🌈🌧️🌸🐈‍⬛✨",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1675659600&x-signature=EzknJHD4GalE%2FV5tvO4SvPvamW4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1675659600&x-signature=n4e%2Bc8mHIvQBIlUueW%2F2FFV8Qqs%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -516,7 +516,7 @@
               "userId": "6653097460997521414",
               "secUid": "MS4wLjABAAAALoMs_1FxFHHnkPE6B8ZjTGsca2zm60Xi_xW1qRt6duyJllmKfA1O0gxgn7UtySfz",
               "relation": -1,
-              "video": 179,
+              "video": 180,
               "following": 37,
               "heart": 96000000,
               "digg": 1347
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1675659600&x-signature=k8DGQQVv1CTedzNQ2MUjKdVrIm4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1675659600&x-signature=8q%2BAyfpf4oixkqHIAC3kICHVsVE%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -1056,13 +1056,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/23a0eff8a40648aa95af4ef1ffc85e58.jpeg",
             "title": "Triple S",
-            "subTitle": "206.5K videos",
+            "subTitle": "206.4K videos",
             "description": "YN Jay & Louie Ray",
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
-              "posts": 206500
+              "posts": 206400
             }
           }
         },
