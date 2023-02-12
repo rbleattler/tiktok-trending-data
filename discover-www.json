@@ -70,13 +70,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 66400000,
-              "likes": 434200000,
+              "likes": 434300000,
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
               "relation": -1,
               "video": 133,
               "following": 1,
-              "heart": 434200000,
+              "heart": 434300000,
               "digg": 9
             }
           }
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1676394000&x-signature=gTk7t9Ix7gxdN%2FpSJ06GiqhL2RY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1676394000&x-signature=XZlNS1g%2B3tz7qz3v%2FpT87tdu8SY%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1676394000&x-signature=7e0d4IqSPY4xD%2BmohrgA91T6rho%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1676394000&x-signature=53nwdGhlKRMsbE4HiWCTA5DTC5E%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -646,10 +646,10 @@
               "userId": "6653097460997521414",
               "secUid": "MS4wLjABAAAALoMs_1FxFHHnkPE6B8ZjTGsca2zm60Xi_xW1qRt6duyJllmKfA1O0gxgn7UtySfz",
               "relation": -1,
-              "video": 180,
+              "video": 181,
               "following": 38,
               "heart": 96100000,
-              "digg": 1349
+              "digg": 1350
             }
           }
         },
