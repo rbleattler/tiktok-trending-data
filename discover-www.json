@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1676548800&x-signature=mL0myIqXdzJUOFxONaw99uLi1xQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/36ed7201179e25307dce8a8df2770f7b~c5_100x100.jpeg?x-expires=1676548800&x-signature=WgkvDH65%2Fa2JwWt0cDjMkBBROdE%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1676548800&x-signature=rgxk%2BhgIdIT4Sn%2BE49FWqyRSLS4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1676548800&x-signature=4NcqU%2BJ%2F0VULTaIk%2BKnTqTCXSho%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. MARCH 10. \n\nFLOWERS OUT NOW.",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1676548800&x-signature=2a1RnTKC%2FgDXm713nAknMO12qwM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1676548800&x-signature=CJtWujlwtF3pln5VDNiPp%2FWHLOg%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1676548800&x-signature=vw3a1l22EU2EQUEbxjCRtws1Nd8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d4e8e3f0de5a2aa7172260bcefd0c2f4~c5_100x100.jpeg?x-expires=1676548800&x-signature=SE6z9yA9I5wIhqcq8QjZaCu4s%2Bk%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Twelve Carat Toothache is out now 🫀",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1676548800&x-signature=%2FJUZWKJnHzqpJnovTSHizAUmAcE%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1676548800&x-signature=EmelzPYvkHSW1uhCGy%2FkzSh9YIg%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -813,14 +813,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/feb4c89b2b972560362fbf43209635bc.png",
             "title": "#makeuptutorial",
-            "subTitle": "68B views",
+            "subTitle": "68.1B views",
             "description": "Show us your #MakeupTutorial.",
             "link": "/tag/makeuptutorial",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 68000000000,
+              "views": 68100000000,
               "challengeId": "39658",
               "challengeName": "makeuptutorial"
             }
