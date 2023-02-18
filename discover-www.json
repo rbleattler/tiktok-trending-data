@@ -70,13 +70,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 66900000,
-              "likes": 437100000,
+              "likes": 437200000,
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
               "relation": -1,
               "video": 133,
               "following": 1,
-              "heart": 437100000,
+              "heart": 437200000,
               "digg": 9
             }
           }
@@ -96,13 +96,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 43200000,
-              "likes": 244600000,
+              "likes": 244700000,
               "userId": "158438610466201600",
               "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
               "relation": -1,
               "video": 65,
               "following": 0,
-              "heart": 244600000,
+              "heart": 244700000,
               "digg": 305
             }
           }
@@ -152,7 +152,7 @@
               "userId": "21609287",
               "secUid": "MS4wLjABAAAAC5mIlEsDQSlfaWV6PSINVnfJOJz-eGhbAffi9TDrURw",
               "relation": -1,
-              "video": 842,
+              "video": 839,
               "following": 16,
               "heart": 1200000000,
               "digg": 3408
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1676901600&x-signature=C%2BrMwG0NbUjGqUCEnwqDsttukk0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1676901600&x-signature=ujkCODqvmnXnEnBVW1Zw7PvnQUY%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -408,13 +408,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 23600000,
-              "likes": 117400000,
+              "likes": 117500000,
               "userId": "6746264168812659717",
               "secUid": "MS4wLjABAAAAeorUnEgxFuiNspeal1-82s8pfmSKCojvGFhL3fDrspFgBDzg084_uu4KrGLwKVZD",
               "relation": -1,
               "video": 194,
               "following": 82,
-              "heart": 117400000,
+              "heart": 117500000,
               "digg": 427
             }
           }
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1676901600&x-signature=cJ2S3Ru%2BHn2NXvLV4adQaSQDiAo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1676901600&x-signature=LzbSz0tZjANkQxfNF%2FFE2U8JCpE%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1676901600&x-signature=T1vonBqQt1d17LmUUsX2YKFPwgE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1676901600&x-signature=MOrI6oeeNmqNhiNVfOZAOJPTkrg%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
