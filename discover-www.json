@@ -96,14 +96,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 46400000,
-              "likes": 445300000,
+              "likes": 445400000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": -1,
               "video": 180,
               "following": 72,
-              "heart": 445300000,
-              "digg": 1925
+              "heart": 445400000,
+              "digg": 1928
             }
           }
         },
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1677038400&x-signature=d9VncUPluyk68R602%2BKPVHQCPtg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1677038400&x-signature=sacUFdsH1vkHCr0rcJ1VHmz9ufY%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1677038400&x-signature=opvFK%2B9y%2FcmL0sSyADJvEDKOG%2FI%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1677038400&x-signature=vRBozste35RI2Snhc6lP314bWgU%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -794,14 +794,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc43b89fed5808107f6ecfc274f36a90.jpeg",
             "title": "#couplestiktok",
-            "subTitle": "26.6B views",
+            "subTitle": "26.7B views",
             "description": "Cute pics, dinner dates, and more. Here's to the all the couples on TikTok.",
             "link": "/tag/couplestiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 26600000000,
+              "views": 26700000000,
               "challengeId": "1603828529424386",
               "challengeName": "couplestiktok"
             }
@@ -1018,13 +1018,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/d33ece898368470bbcc14c8e2220f5a4.jpeg",
             "title": "Hasta la Raíz",
-            "subTitle": "233.2K videos",
+            "subTitle": "233.3K videos",
             "description": "Natalia Lafourcade",
             "link": "/music/Hasta-la-Raíz-222453230176251905",
             "extraInfo": {
               "musicId": "222453230176251905",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
-              "posts": 233200
+              "posts": 233300
             }
           }
         },
