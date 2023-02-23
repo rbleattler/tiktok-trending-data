@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1677322800&x-signature=3w0CMw46wnfM8zmGgE7kFPN2QcU%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1677322800&x-signature=FBD1X0pb%2FeQ3XN2eog%2FvTSigQ3o%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -96,13 +96,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 67300000,
-              "likes": 440300000,
+              "likes": 440400000,
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
               "relation": -1,
               "video": 136,
               "following": 1,
-              "heart": 440300000,
+              "heart": 440400000,
               "digg": 9
             }
           }
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1677322800&x-signature=XBEadgpMRLHuNW9ifXzUKm%2FAZ0s%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1677322800&x-signature=0ObFUBgn5wz7E0%2F2yEh%2BJtbqUgc%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -329,7 +329,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 13400000,
+              "fans": 13500000,
               "likes": 88300000,
               "userId": "126223816648822784",
               "secUid": "MS4wLjABAAAA7pFJYt0Ui6BV6xS9xncL3Zi1NsHEmfdn2t6sMY1yulhbrSWQ29xtwpUQFml62_q0",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1677322800&x-signature=JcvK42tOFdRcuBK5MI4m3RV0BHo%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1677322800&x-signature=30gNCXkDEt8qW%2FQi4RcD072u%2BAg%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1677322800&x-signature=6mnP8N%2FXXdfEvkmLCF8JZ5YJ5%2B0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1677322800&x-signature=Yr7n0RJu7%2Fa6L%2Fy7%2FXSo8HzhTO4%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -727,7 +727,7 @@
               "video": 26,
               "following": 41,
               "heart": 28800000,
-              "digg": 1765
+              "digg": 1766
             }
           }
         },
@@ -1056,13 +1056,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/23a0eff8a40648aa95af4ef1ffc85e58.jpeg",
             "title": "Triple S",
-            "subTitle": "205.2K videos",
+            "subTitle": "205.1K videos",
             "description": "YN Jay & Louie Ray",
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
-              "posts": 205200
+              "posts": 205100
             }
           }
         },
