@@ -18,13 +18,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 47500000,
-              "likes": 460200000,
+              "likes": 460400000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": -1,
               "video": 181,
               "following": 72,
-              "heart": 460200000,
+              "heart": 460400000,
               "digg": 1968
             }
           }
@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1677376800&x-signature=k3UrarNpETZeq1ZX0nRGe2J90BA%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1677376800&x-signature=BJ3bFpt5QnwfSWOnyXTKnpT9mis%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "GLORIA is out now 💛⚓️",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1677376800&x-signature=604yffZWXPcH3rhqVQcFuHzugnc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1677376800&x-signature=luB9gikamx0vgBmRFdXeEs%2B0KHU%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1677376800&x-signature=EepBXNq5qSy5o%2BcxwDbdPKU5MFw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1677376800&x-signature=dSW5CarFFHqw0jsFSMRTWrqvO6M%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6930738942947017734",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de44f930869eca67a3bee253cdeccb53~c5_100x100.jpeg?x-expires=1677376800&x-signature=%2FVnU65BRVr5qLsyoIm6Ch8s0dtg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/de44f930869eca67a3bee253cdeccb53~c5_100x100.jpeg?x-expires=1677376800&x-signature=DTPUCTaRX3t41Xa4Kyn%2B%2BwXhb7Y%3D",
             "title": "Khalid",
             "subTitle": "@thegr8khalid",
             "description": "25",
@@ -794,14 +794,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc43b89fed5808107f6ecfc274f36a90.jpeg",
             "title": "#couplestiktok",
-            "subTitle": "26.8B views",
+            "subTitle": "26.9B views",
             "description": "Cute pics, dinner dates, and more. Here's to the all the couples on TikTok.",
             "link": "/tag/couplestiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 26800000000,
+              "views": 26900000000,
               "challengeId": "1603828529424386",
               "challengeName": "couplestiktok"
             }
