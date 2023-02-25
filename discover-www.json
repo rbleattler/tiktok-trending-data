@@ -17,14 +17,14 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 48400000,
-              "likes": 467900000,
+              "fans": 48500000,
+              "likes": 468100000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": -1,
               "video": 181,
               "following": 72,
-              "heart": 467900000,
+              "heart": 468100000,
               "digg": 1968
             }
           }
@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1677513600&x-signature=phNFXf7DeWpao8bWCdDV2v%2FMkVE%3D",
+            "cover": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1677513600&x-signature=vnEDMBx1vbJFWD%2FuaO0SykAf61o%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "GLORIA is out now 💛⚓️",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1677513600&x-signature=jfCWZFOqfIR8BNog%2BQ%2FgrO4IGWA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1677513600&x-signature=B7C7bNSKlQl13ayc2zsiU6L7kfs%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1677513600&x-signature=4MGjJpEJC5onlP%2F3%2BIbZohPq3M8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1677513600&x-signature=TWNN0hlcJMyha%2B9gv8ffR2n%2F99g%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. MARCH 10. \n\nFLOWERS OUT NOW.",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1677513600&x-signature=RdbrPqbOWcitrPqGgjbU5nTMqgk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1677513600&x-signature=Nk4gF8PENntgkTPJWt1Y4lqhPCs%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -1018,13 +1018,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/d33ece898368470bbcc14c8e2220f5a4.jpeg",
             "title": "Hasta la Raíz",
-            "subTitle": "235.1K videos",
+            "subTitle": "235.2K videos",
             "description": "Natalia Lafourcade",
             "link": "/music/Hasta-la-Raíz-222453230176251905",
             "extraInfo": {
               "musicId": "222453230176251905",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
-              "posts": 235100
+              "posts": 235200
             }
           }
         },
