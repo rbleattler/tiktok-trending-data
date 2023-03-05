@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1678168800&x-signature=J%2BVWnG%2BjlXlBpds8nT%2B0nhFbRIE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1678168800&x-signature=aX0rPoq%2BfO8fEFJ1lwXogJ1Qa%2Fc%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -18,13 +18,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 54100000,
-              "likes": 504200000,
+              "likes": 504500000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": -1,
               "video": 182,
               "following": 73,
-              "heart": 504200000,
+              "heart": 504500000,
               "digg": 1969
             }
           }
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1678168800&x-signature=Oj8YAGfAs3fpRxKzwaDnPnHKW7g%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1678168800&x-signature=9BIa16fo3BQ6RWdSTFTCQR3pqqA%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1678168800&x-signature=zYW5pRX%2BJD14f2kwR%2BUYbP%2By2OU%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1678168800&x-signature=AGJ62isxxrNu21rryWS1ehTEhl0%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Subtract. 05.05.2023.",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1678168800&x-signature=lb9QdZHHbLcOr%2FoKQSaB5RIMJzM%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1678168800&x-signature=F7tbMSPrLaQoHckQbY6sZJUed%2B8%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1678168800&x-signature=7RxU329t63hmK8xiXOQ5LORamzU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1678168800&x-signature=xmZ2wgenMAGihJ5phfAl2qQqOnM%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -813,14 +813,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/feb4c89b2b972560362fbf43209635bc.png",
             "title": "#makeuptutorial",
-            "subTitle": "70.8B views",
+            "subTitle": "70.9B views",
             "description": "Show us your #MakeupTutorial.",
             "link": "/tag/makeuptutorial",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 70800000000,
+              "views": 70900000000,
               "challengeId": "39658",
               "challengeName": "makeuptutorial"
             }
