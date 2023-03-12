@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "158438610466201600",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1678831200&x-signature=i19iPhtCpQV1T9e%2FyS8qXyDS7%2FE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1678831200&x-signature=rFCGr9hPBGzEAN8FddcNbyKuhg8%3D",
             "title": "Karol G",
             "subTitle": "@karolg",
             "description": "☀️🌺🍃🌈🌧️🌸🐈‍⬛✨",
@@ -43,14 +43,14 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 44900000,
-              "likes": 267500000,
+              "fans": 45000000,
+              "likes": 267600000,
               "userId": "158438610466201600",
               "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
               "relation": -1,
               "video": 71,
               "following": 0,
-              "heart": 267500000,
+              "heart": 267600000,
               "digg": 310
             }
           }
@@ -69,14 +69,14 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 68500000,
-              "likes": 449900000,
+              "fans": 68600000,
+              "likes": 450000000,
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
               "relation": -1,
               "video": 139,
               "following": 1,
-              "heart": 449900000,
+              "heart": 450000000,
               "digg": 10
             }
           }
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1678831200&x-signature=rjybnmwBX%2BDBS6MsoIqa5uRQ3TI%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1678831200&x-signature=BMYOCBIng%2Fm9wXSfhsz0s9%2F%2BDlE%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -946,14 +946,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/190de3d3121908841fda2f8959f4633c.png",
             "title": "#artistsoftiktok",
-            "subTitle": "43.1B views",
+            "subTitle": "43.2B views",
             "description": "So you're an artist? Show us how you make your art.",
             "link": "/tag/artistsoftiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 43100000000,
+              "views": 43200000000,
               "challengeId": "1608887325435909",
               "challengeName": "artistsoftiktok"
             }
