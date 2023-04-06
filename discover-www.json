@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "158438610466201600",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1680976800&x-signature=994J8xYWabfmmlB6tcLHrK4XMvw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1680976800&x-signature=86klU8UkT0iNg2NmKdu0ghS4BCg%3D",
             "title": "Karol G",
             "subTitle": "@karolg",
             "description": "☀️🌺🍃🌈🌧️🌸🐈‍⬛✨",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/923af8fd9fc5122538bca91aa17e0641~c5_100x100.jpeg?x-expires=1680976800&x-signature=qrkhoTLMg4bvOFe08O%2FtgkY0YK0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/923af8fd9fc5122538bca91aa17e0641~c5_100x100.jpeg?x-expires=1680976800&x-signature=Ls15RJehbIoj11u4%2BYYIHwJ0DqY%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "My book, Sing Your Name Out Loud, available for preorder now, on-sale June 27",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1680976800&x-signature=d771x4Wfeva41IupVXBtDAH%2B%2FJ4%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1680976800&x-signature=MtJSoN0VhiYrg2XRBk66LrHS4rI%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1680976800&x-signature=7toJJ44FqHS4NmJrGkJSX7bjuhE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1680976800&x-signature=zgCUl1nAC4eJwWuZ6pkIMHNsu6k%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -467,7 +467,7 @@
               "video": 456,
               "following": 209,
               "heart": 214800000,
-              "digg": 3860
+              "digg": 3861
             }
           }
         },
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1680976800&x-signature=NlJs1IE4pomyy9IqOENoagrL9lc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1680976800&x-signature=PkYgN%2BEfLFDzGQ5MKsiGaNklQEE%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -946,14 +946,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/190de3d3121908841fda2f8959f4633c.png",
             "title": "#artistsoftiktok",
-            "subTitle": "45B views",
+            "subTitle": "45.1B views",
             "description": "So you're an artist? Show us how you make your art.",
             "link": "/tag/artistsoftiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 45000000000,
+              "views": 45100000000,
               "challengeId": "1608887325435909",
               "challengeName": "artistsoftiktok"
             }
