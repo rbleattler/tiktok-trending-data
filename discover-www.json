@@ -5,32 +5,6 @@
       "exploreList": [
         {
           "cardItem": {
-            "id": "97614653324771328",
-            "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1681027200&x-signature=dKLJOIQaB7YomZv66Wmgew%2BlipA%3D",
-            "title": "Selena Gomez",
-            "subTitle": "@selenagomez",
-            "description": "",
-            "link": "/@selenagomez",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 57900000,
-              "likes": 542000000,
-              "userId": "97614653324771328",
-              "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
-              "relation": -1,
-              "video": 185,
-              "following": 73,
-              "heart": 542000000,
-              "digg": 1972
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "6745191554350760966",
             "type": 2,
             "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1681027200&x-signature=wnmctFH3W2RVRA0wyU%2F3q7SDATo%3D",
@@ -57,9 +31,35 @@
         },
         {
           "cardItem": {
+            "id": "97614653324771328",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1681027200&x-signature=dKLJOIQaB7YomZv66Wmgew%2BlipA%3D",
+            "title": "Selena Gomez",
+            "subTitle": "@selenagomez",
+            "description": "",
+            "link": "/@selenagomez",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 57900000,
+              "likes": 542000000,
+              "userId": "97614653324771328",
+              "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
+              "relation": -1,
+              "video": 185,
+              "following": 73,
+              "heart": 542000000,
+              "digg": 1972
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "158438610466201600",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1681027200&x-signature=QYHkruAoRBFAN7JXsQcnS5ieUc8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1681027200&x-signature=sV7202MBVNQb1JM6eMASfCHecAQ%3D",
             "title": "Karol G",
             "subTitle": "@karolg",
             "description": "☀️🌺🍃🌈🌧️🌸🐈‍⬛✨",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/923af8fd9fc5122538bca91aa17e0641~c5_100x100.jpeg?x-expires=1681027200&x-signature=LtnqwuJV4JDTdNqerVgycRiXS10%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/923af8fd9fc5122538bca91aa17e0641~c5_100x100.jpeg?x-expires=1681027200&x-signature=Di8W9Vtk%2Bkm34VJCpvIrVwDvv%2Bo%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "My book, Sing Your Name Out Loud, available for preorder now, on-sale June 27",
@@ -182,6 +182,32 @@
               "following": 112,
               "heart": 117800000,
               "digg": 267
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "126223816648822784",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1681027200&x-signature=ajPY%2B1Y8zncLnDbIp2l%2FGnG5UOQ%3D",
+            "title": "rauwalejandro",
+            "subTitle": "@rauwalejandro",
+            "description": "Latin R&B/Reggaeton singer 🇵🇷",
+            "link": "/@rauwalejandro",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 13700000,
+              "likes": 92200000,
+              "userId": "126223816648822784",
+              "secUid": "MS4wLjABAAAA7pFJYt0Ui6BV6xS9xncL3Zi1NsHEmfdn2t6sMY1yulhbrSWQ29xtwpUQFml62_q0",
+              "relation": -1,
+              "video": 29,
+              "following": 68,
+              "heart": 92200000,
+              "digg": 127
             }
           }
         },
@@ -239,32 +265,6 @@
         },
         {
           "cardItem": {
-            "id": "126223816648822784",
-            "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1681027200&x-signature=ajPY%2B1Y8zncLnDbIp2l%2FGnG5UOQ%3D",
-            "title": "rauwalejandro",
-            "subTitle": "@rauwalejandro",
-            "description": "Latin R&B/Reggaeton singer 🇵🇷",
-            "link": "/@rauwalejandro",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 13700000,
-              "likes": 92200000,
-              "userId": "126223816648822784",
-              "secUid": "MS4wLjABAAAA7pFJYt0Ui6BV6xS9xncL3Zi1NsHEmfdn2t6sMY1yulhbrSWQ29xtwpUQFml62_q0",
-              "relation": -1,
-              "video": 29,
-              "following": 68,
-              "heart": 92200000,
-              "digg": 127
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "168541398546182144",
             "type": 2,
             "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1681027200&x-signature=f8rkMZ9SeMTM2Z%2BAyIpLjU6oQuU%3D",
@@ -312,58 +312,6 @@
               "following": 15,
               "heart": 177600000,
               "digg": 19
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "7047450743465477126",
-            "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1681027200&x-signature=NUN%2FQqvGgs%2FkqKEbMjffS4JWxVw%3D",
-            "title": "Bad Bunny",
-            "subTitle": "@badbunny",
-            "description": ".",
-            "link": "/@badbunny",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 30900000,
-              "likes": 310900000,
-              "userId": "7047450743465477126",
-              "secUid": "MS4wLjABAAAAhxvSFp8FPW1xhPCzgTzExrCo7Onwd2CuvldSXoUM5oSMLsfR8p6wBNMiWVgBg6V_",
-              "relation": -1,
-              "video": 43,
-              "following": 0,
-              "heart": 310900000,
-              "digg": 83
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "224891697648857088",
-            "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1681027200&x-signature=h8cEUcAbJV6IBLPPCJ8BkQF4Zb8%3D",
-            "title": "Nicki Minaj",
-            "subTitle": "@nickiminaj",
-            "description": "#RedRubyDaSleeze",
-            "link": "/@nickiminaj",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 17300000,
-              "likes": 99000000,
-              "userId": "224891697648857088",
-              "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
-              "relation": -1,
-              "video": 151,
-              "following": 0,
-              "heart": 99000000,
-              "digg": 5995
             }
           }
         },
@@ -447,6 +395,58 @@
         },
         {
           "cardItem": {
+            "id": "7047450743465477126",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1681027200&x-signature=5twNrmmFG%2FE6BvprNmLe9O053IU%3D",
+            "title": "Bad Bunny",
+            "subTitle": "@badbunny",
+            "description": ".",
+            "link": "/@badbunny",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 30900000,
+              "likes": 310900000,
+              "userId": "7047450743465477126",
+              "secUid": "MS4wLjABAAAAhxvSFp8FPW1xhPCzgTzExrCo7Onwd2CuvldSXoUM5oSMLsfR8p6wBNMiWVgBg6V_",
+              "relation": -1,
+              "video": 43,
+              "following": 0,
+              "heart": 310900000,
+              "digg": 83
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "224891697648857088",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1681027200&x-signature=h8cEUcAbJV6IBLPPCJ8BkQF4Zb8%3D",
+            "title": "Nicki Minaj",
+            "subTitle": "@nickiminaj",
+            "description": "#RedRubyDaSleeze",
+            "link": "/@nickiminaj",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 17300000,
+              "likes": 99000000,
+              "userId": "224891697648857088",
+              "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
+              "relation": -1,
+              "video": 151,
+              "following": 0,
+              "heart": 99000000,
+              "digg": 5995
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "142565009246584832",
             "type": 2,
             "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665504992747525~c5_100x100.jpeg?x-expires=1681027200&x-signature=3HWn20MNG5P1sW%2F4Ldu8o%2BZQzlY%3D",
@@ -525,6 +525,32 @@
         },
         {
           "cardItem": {
+            "id": "138635416672317440",
+            "type": 2,
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1681027200&x-signature=GYqTRMh%2Fei0l5u%2BBJJBAoR7fsf0%3D",
+            "title": "ladygaga",
+            "subTitle": "@ladygaga",
+            "description": "",
+            "link": "/@ladygaga",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 8700000,
+              "likes": 29800000,
+              "userId": "138635416672317440",
+              "secUid": "MS4wLjABAAAAXGEEfLfwPoycHwYf6qZF3gvYruavdCMGpVvu92V1PnV0f22V1SExGDJIFrpWJY0C",
+              "relation": -1,
+              "video": 29,
+              "following": 55,
+              "heart": 29800000,
+              "digg": 1969
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
             "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1681027200&x-signature=3iayUpCB498sGObGaTjEIF9%2BC8E%3D",
@@ -546,32 +572,6 @@
               "following": 0,
               "heart": 30200000,
               "digg": 20
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "138635416672317440",
-            "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1681027200&x-signature=FmLQ%2FjhqLaqxVsEJfZDxwOvWYz4%3D",
-            "title": "ladygaga",
-            "subTitle": "@ladygaga",
-            "description": "",
-            "link": "/@ladygaga",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 8700000,
-              "likes": 29800000,
-              "userId": "138635416672317440",
-              "secUid": "MS4wLjABAAAAXGEEfLfwPoycHwYf6qZF3gvYruavdCMGpVvu92V1PnV0f22V1SExGDJIFrpWJY0C",
-              "relation": -1,
-              "video": 29,
-              "following": 55,
-              "heart": 29800000,
-              "digg": 1969
             }
           }
         },
@@ -629,27 +629,27 @@
         },
         {
           "cardItem": {
-            "id": "7109458094568686634",
+            "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1681027200&x-signature=Lmqghf36qS%2B4C%2BPTpEmdfj4lctk%3D",
-            "title": "Chris Hemsworth",
-            "subTitle": "@chrishemsworth",
-            "description": "",
-            "link": "/@chrishemsworth",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1681027200&x-signature=%2B5UJmcXjG0Fm28%2FmrYoBxhCz2SI%3D",
+            "title": "Terry Crews",
+            "subTitle": "@terrycrews",
+            "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
+            "link": "/@terrycrews",
             "round": true,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 6300000,
-              "likes": 33300000,
-              "userId": "7109458094568686634",
-              "secUid": "MS4wLjABAAAAmn1z6X9DX22Aj0fMTnlKlyzFO0t1g7fygJniWWOqwOna72PNbyhqWc6OECMB3VDi",
+              "fans": 23600000,
+              "likes": 118000000,
+              "userId": "6746264168812659717",
+              "secUid": "MS4wLjABAAAAeorUnEgxFuiNspeal1-82s8pfmSKCojvGFhL3fDrspFgBDzg084_uu4KrGLwKVZD",
               "relation": -1,
-              "video": 29,
-              "following": 4,
-              "heart": 33300000,
-              "digg": 0
+              "video": 198,
+              "following": 82,
+              "heart": 118000000,
+              "digg": 432
             }
           }
         },
@@ -681,27 +681,27 @@
         },
         {
           "cardItem": {
-            "id": "6746264168812659717",
+            "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1681027200&x-signature=%2B5UJmcXjG0Fm28%2FmrYoBxhCz2SI%3D",
-            "title": "Terry Crews",
-            "subTitle": "@terrycrews",
-            "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
-            "link": "/@terrycrews",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1681027200&x-signature=O%2BneUIzggsRPdQEp9nFdPVqhCsE%3D",
+            "title": "Chris Hemsworth",
+            "subTitle": "@chrishemsworth",
+            "description": "",
+            "link": "/@chrishemsworth",
             "round": true,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 23600000,
-              "likes": 118000000,
-              "userId": "6746264168812659717",
-              "secUid": "MS4wLjABAAAAeorUnEgxFuiNspeal1-82s8pfmSKCojvGFhL3fDrspFgBDzg084_uu4KrGLwKVZD",
+              "fans": 6300000,
+              "likes": 33300000,
+              "userId": "7109458094568686634",
+              "secUid": "MS4wLjABAAAAmn1z6X9DX22Aj0fMTnlKlyzFO0t1g7fygJniWWOqwOna72PNbyhqWc6OECMB3VDi",
               "relation": -1,
-              "video": 198,
-              "following": 82,
-              "heart": 118000000,
-              "digg": 432
+              "video": 29,
+              "following": 4,
+              "heart": 33300000,
+              "digg": 0
             }
           }
         },
