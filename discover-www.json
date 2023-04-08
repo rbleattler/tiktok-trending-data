@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1681135200&x-signature=WttuIVV9p%2Bh0Wk6pBzLQ7ciKs6E%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1681135200&x-signature=DiFd2wk0zoqjBCesrU5WF8HhStQ%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1681135200&x-signature=kNK8R18BShBXa81O61X%2B61HzQcY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1681135200&x-signature=ZrBB0yJEjfGQ%2FXHpoOxZty6HcgA%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1681135200&x-signature=5Bz%2B2kOyHvrqr8UdAxJUcJF0awk%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1681135200&x-signature=w6PxYabiC4TnG18roojxJTaLJ0I%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "GLORIA is out now 💛⚓️",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1681135200&x-signature=YR3Rq%2FEIy8Inu%2Bs26HMETL4N19k%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1681135200&x-signature=vRvThDjZFuq5mzecFvXEjGslQ3k%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1681135200&x-signature=NBbeMMDqGrBZHosIxXoqt38RH%2Bg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1681135200&x-signature=ihtNzwbahD7uAvvBf2PzvAKAYAY%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1681135200&x-signature=HlMMUqRFCTXTFzbJ4rUD7cEQtZs%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1681135200&x-signature=XqFYQXv%2BVydMzATmeKgV1gpmOtQ%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "ACCOUNT RUN BY CAESAR THE DOG",
@@ -794,14 +794,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc43b89fed5808107f6ecfc274f36a90.jpeg",
             "title": "#couplestiktok",
-            "subTitle": "29B views",
+            "subTitle": "29.1B views",
             "description": "Cute pics, dinner dates, and more. Here's to the all the couples on TikTok.",
             "link": "/tag/couplestiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 29000000000,
+              "views": 29100000000,
               "challengeId": "1603828529424386",
               "challengeName": "couplestiktok"
             }
