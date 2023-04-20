@@ -304,13 +304,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 17900000,
-              "likes": 163700000,
+              "likes": 163800000,
               "userId": "6881290705605477381",
               "secUid": "MS4wLjABAAAAqB08cUbXaDWqbD6MCga2RbGTuhfO2EsHayBYx08NDrN7IE3jQuRDNNN6YwyfH6_6",
               "relation": -1,
               "video": 53,
               "following": 0,
-              "heart": 163700000,
+              "heart": 163800000,
               "digg": 2054
             }
           }
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1682121600&x-signature=LgxONGO5lUjW%2F7zyLimXxytx1os%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1682121600&x-signature=1eOMiwLBEW6WWNxjV7xT0nN3Ruk%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1682121600&x-signature=BlzELRcs670ESEyxMqHmY%2FF%2FDrw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1682121600&x-signature=Fi9SWQvvpYh7vziM29ng7%2BzoE%2Fg%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1682121600&x-signature=w5pSFyBkfK0h86Bzzs%2Bplv3huts%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1682121600&x-signature=hhK4PyMYUZcD%2BEvmPU3zz%2Bdmzqw%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Chemical out now 🥰🍻",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1682121600&x-signature=ppIbueqCJDaCJo4ZIqeZztdkBfs%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1682121600&x-signature=vGjwhjJuOQTHrLqKixuMSTP9GZ8%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -775,14 +775,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "84B views",
+            "subTitle": "84.1B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 84000000000,
+              "views": 84100000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
