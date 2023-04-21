@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1682287200&x-signature=WnsNto1ojJNQNBhUZubrnaSIgZk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1682287200&x-signature=UUHgqcISHevkOObr%2Fg0aqG7nMBY%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1682287200&x-signature=cl7fI0SFjse%2BBCy7p8gsNX0Qg0s%3D",
+            "cover": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1682287200&x-signature=kjk%2B%2FnNjmmOoTRAGyiT2xgIoyLk%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "GLORIA is out now 💛⚓️",
@@ -256,7 +256,7 @@
               "userId": "21609287",
               "secUid": "MS4wLjABAAAAC5mIlEsDQSlfaWV6PSINVnfJOJz-eGhbAffi9TDrURw",
               "relation": -1,
-              "video": 851,
+              "video": 850,
               "following": 17,
               "heart": 1200000000,
               "digg": 3485
@@ -363,7 +363,7 @@
               "video": 159,
               "following": 0,
               "heart": 100900000,
-              "digg": 6162
+              "digg": 6163
             }
           }
         },
@@ -408,13 +408,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 34800000,
-              "likes": 178500000,
+              "likes": 178600000,
               "userId": "6730007015793771525",
               "secUid": "MS4wLjABAAAA5bchfwPs-XIqIsp7AIaDrrs05b3VAC9A8qZj2T016CvP9d_uYZfyOuzvqj4cKACj",
               "relation": -1,
               "video": 121,
               "following": 15,
-              "heart": 178500000,
+              "heart": 178600000,
               "digg": 19
             }
           }
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1682287200&x-signature=EW78PfznjoWyRUyUkKwZe%2FLdYaQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1682287200&x-signature=V7LCg6p6paypOCP08bCR8MHQbCU%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Chemical out now 🥰🍻",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1682287200&x-signature=cm8%2Fp3tR1bLBZn0PPWmgOWYppMI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1682287200&x-signature=PQZDsgeftu1PeuZnp8EyuwNsZRs%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. OUT NOW.",
@@ -553,7 +553,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1682287200&x-signature=cS3k8rPzovjFtYK%2BIeQKUX20%2Ffc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1682287200&x-signature=b4OvqcVNGpUcW0myGXWli18DBks%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -615,7 +615,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 872700,
+              "fans": 872900,
               "likes": 4000000,
               "userId": "6650307866375618566",
               "secUid": "MS4wLjABAAAA-10td9W7IbRRsU71B47h077wRDPle3kuB2rfdEQRiy-noYMxiz5Bh0C2jO8VYGJ3",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1682287200&x-signature=cyO8r9eM35MCldUBFyiHyYi3e0A%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1682287200&x-signature=zRitVXrEMv6jjeb1oGXNipqzF7M%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "ACCOUNT RUN BY CAESAR THE DOG",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1682287200&x-signature=Ciz%2FdpQjucKmsV6c5oWSmVKmPyA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1682287200&x-signature=TntL5%2B%2BbNiNxh2cinhGtYLyDtIU%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -1018,13 +1018,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/d33ece898368470bbcc14c8e2220f5a4.jpeg",
             "title": "Hasta la Raíz",
-            "subTitle": "244.1K videos",
+            "subTitle": "244.2K videos",
             "description": "Natalia Lafourcade",
             "link": "/music/Hasta-la-Raíz-222453230176251905",
             "extraInfo": {
               "musicId": "222453230176251905",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
-              "posts": 244100
+              "posts": 244200
             }
           }
         },
