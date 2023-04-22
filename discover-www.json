@@ -18,13 +18,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 70100000,
-              "likes": 466900000,
+              "likes": 467000000,
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
               "relation": -1,
               "video": 150,
               "following": 1,
-              "heart": 466900000,
+              "heart": 467000000,
               "digg": 8
             }
           }
@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "158438610466201600",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1682334000&x-signature=QymI4sgpwDZWr9l6OdtXmrlsXyo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1682334000&x-signature=YINKwVSrXphP4GaItaSSLFiNthY%3D",
             "title": "Karol G",
             "subTitle": "@karolg",
             "description": "☀️🌺🍃🌈🌧️🌸🐈‍⬛✨",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1682334000&x-signature=C3BNNLy1q%2BI%2F8f7hBpv4LTolaew%3D",
+            "cover": "https://p77-sign-va-lite.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1682334000&x-signature=g2x2CsD8JowCURpBRu3C6I5WQek%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1682334000&x-signature=UhMS9hjW%2B7y2QQdU4W%2Blv6hEzy8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1682334000&x-signature=kST84xQvsoA%2FXoCYXK4W%2F6kKj4k%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "Pre-Save My New Song Glad U Came in the Link Below",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1682334000&x-signature=p6hjXgIt1a65ir7jbo%2FdSRclX4M%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1682334000&x-signature=%2F4HSnbDoBVh2wYd6LJ1pFmbYfVc%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -563,7 +563,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 876700,
+              "fans": 876800,
               "likes": 4000000,
               "userId": "6650307866375618566",
               "secUid": "MS4wLjABAAAA-10td9W7IbRRsU71B47h077wRDPle3kuB2rfdEQRiy-noYMxiz5Bh0C2jO8VYGJ3",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1682334000&x-signature=1PcR0PBEuU8auBXUvRJuBXUs6R0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1682334000&x-signature=8CDxCXfDbtZd1V4lek7F0G1qLFQ%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. OUT NOW.",
@@ -946,14 +946,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/190de3d3121908841fda2f8959f4633c.png",
             "title": "#artistsoftiktok",
-            "subTitle": "46.1B views",
+            "subTitle": "46.2B views",
             "description": "So you're an artist? Show us how you make your art.",
             "link": "/tag/artistsoftiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 46100000000,
+              "views": 46200000000,
               "challengeId": "1608887325435909",
               "challengeName": "artistsoftiktok"
             }
