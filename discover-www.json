@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1682902800&x-signature=Nqzg5xlFqHElB1dzxCFadwBzBXY%3D",
+            "cover": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/4e8ac4ecb98b25f2a1728b50c9ef9ec6~c5_100x100.jpeg?x-expires=1682902800&x-signature=IFgZznA5G3RjoKlHj3Q0mUfopRg%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "GLORIA is out now 💛⚓️",
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1682902800&x-signature=S9V3tNAmMjQg0sMnYsmbsWki81k%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1682902800&x-signature=PKxrduHHSdxB2txWh64ssHC1m9U%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1682902800&x-signature=XReJXECtDDCVtNjl5sCG00ybDZ0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1682902800&x-signature=e7YUJUFztWO7wJ6eLW6XBZo7eQY%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#RedRubyDaSleeze",
@@ -363,7 +363,7 @@
               "video": 160,
               "following": 0,
               "heart": 101500000,
-              "digg": 6253
+              "digg": 6257
             }
           }
         },
@@ -433,7 +433,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 14700000,
+              "fans": 14800000,
               "likes": 118100000,
               "userId": "141140993138962432",
               "secUid": "MS4wLjABAAAAIAXBSn6tARIqrHDAQM32h-AzSL8yqTbXrZE2HlhpxyctXIAxoYUlBfhmqe-jyzVf",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1682902800&x-signature=V652WAjKk6mjD0uvYGyWrsoKfqA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1682902800&x-signature=QYmRGWdjXAGNh10eiyNSQ2lPs%2F8%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "6930738942947017734",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1682902800&x-signature=7C8ZySxo%2FwqwN2LN9EruF7cu7gs%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1682902800&x-signature=m7DfCaw0RcKPdHbf4Z9O2ekPVXs%3D",
             "title": "Khalid",
             "subTitle": "@thegr8khalid",
             "description": "25",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1682902800&x-signature=CcSV4BDQToHxabVylkYFXi4oH0Q%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1682902800&x-signature=oQmdhtTY7XW35iMycrBIZmPB8z8%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. OUT NOW.",
@@ -589,7 +589,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 900300,
+              "fans": 900400,
               "likes": 4200000,
               "userId": "6650307866375618566",
               "secUid": "MS4wLjABAAAA-10td9W7IbRRsU71B47h077wRDPle3kuB2rfdEQRiy-noYMxiz5Bh0C2jO8VYGJ3",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1682902800&x-signature=v%2FdMbRRSR0C0JdvDRz2ok8BKu6E%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1682902800&x-signature=ZA30G6w%2FegSPGyPwi7mC87UovFE%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
