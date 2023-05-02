@@ -18,13 +18,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 46200000,
-              "likes": 291800000,
+              "likes": 291900000,
               "userId": "158438610466201600",
               "secUid": "MS4wLjABAAAAWtQeyLVoapTfztA1S10ZqTSazCVdlO3u8bO84LvxYTUL07tMu7zRBIv9sm9DZNzw",
               "relation": -1,
               "video": 82,
               "following": 0,
-              "heart": 291800000,
+              "heart": 291900000,
               "digg": 328
             }
           }
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1683158400&x-signature=ETkThroJ%2Fu5uMna%2BnAzMJqsoya0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1683158400&x-signature=C%2FnZIaF2TftyvyG2WwoqTKkafWU%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1683158400&x-signature=ZvHB75ws%2FPAlYI5BVidUNO%2BZvJc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1683158400&x-signature=lox0ceZxhPr8HYBspBR2IBB4vV4%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Chemical out now 🥰🍻",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1683158400&x-signature=uTWWzNl5HEhjgfg%2FSlgtxkj%2F1yk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1683158400&x-signature=p4UZixjWJTxY%2BTP%2B%2Bs8XzlW7f8Q%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#RedRubyDaSleeze",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "6930738942947017734",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1683158400&x-signature=h3yuJm0b7xoRHwAuK29vZJcQq4U%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1683158400&x-signature=fJn8Ya0DVSi7EzM8H1nUtKUwSoE%3D",
             "title": "Khalid",
             "subTitle": "@thegr8khalid",
             "description": "25",
@@ -553,7 +553,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1683158400&x-signature=tAvm%2B1iNuQ9K64QHlIF8ifr5hEQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1683158400&x-signature=pStSF0kougKAX6Os1uVH00VQa40%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -641,7 +641,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 903200,
+              "fans": 903300,
               "likes": 4200000,
               "userId": "6650307866375618566",
               "secUid": "MS4wLjABAAAA-10td9W7IbRRsU71B47h077wRDPle3kuB2rfdEQRiy-noYMxiz5Bh0C2jO8VYGJ3",
@@ -775,14 +775,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "85.9B views",
+            "subTitle": "86B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 85900000000,
+              "views": 86000000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
