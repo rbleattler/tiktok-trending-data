@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1683619200&x-signature=kh0uYh%2FttK%2Bf6%2F0icf1ntMJR9Lw%3D",
+            "cover": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1683619200&x-signature=6z0jZyI4oAcVLIpSC7oxCIXkyCk%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Subtract. Out now.",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1683619200&x-signature=PqrUjlFrFdVO5T1pS7z7z83JaxI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1683619200&x-signature=UYK4GQhmsudIVvYXDnC4WSSSaGw%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Chemical out now 🥰🍻",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1683619200&x-signature=Ym3k0npTkUGjKe9jbjvkN8XletM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1683619200&x-signature=r8YFEUjOo4PQf4q3crekfq6ofNM%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1683619200&x-signature=g1N4nlrj5H5ex%2BnyMv4tPHBSZxM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1683619200&x-signature=OTGw9OA7YO6FvFZKl%2BmRfuCJPSA%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "153416220371775488",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1683619200&x-signature=HSYV4vz%2BX%2Fyl5I92kmlS%2BJjnHf8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/40e487b3310805adf420ee1d05f71f45~c5_100x100.jpeg?x-expires=1683619200&x-signature=1Hxcktg1lGYXsP2oEdnA2oquKoU%3D",
             "title": "Camila Cabello",
             "subTitle": "@camilacabello",
             "description": "Sigue bailando. FAMILIA. Out now.",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1683619200&x-signature=Nv%2BoTMJGC4lVjSw3w6yo1AgErc4%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a65d48a7b45124bf6472b2ceb140de4d~c5_100x100.jpeg?x-expires=1683619200&x-signature=BgSVA7gC0i6nUSMUkR3gQWVOzVg%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. OUT NOW.",
@@ -832,14 +832,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5dc8ae8243bd7b028110837bf3b03e8f.jpeg",
             "title": "#WrestleMania",
-            "subTitle": "8.1B views",
+            "subTitle": "8.2B views",
             "description": "WrestleMania goes Hollywood for a special two-night Premium Live Event, Saturday, April 1, and Sunday, April 2, at 8 ET/5 PT, streaming live on Peacock in the United States and on WWE Network everywhere else.",
             "link": "/tag/WrestleMania",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 8100000000,
+              "views": 8200000000,
               "challengeId": "467758",
               "challengeName": "WrestleMania"
             }
