@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1684425600&x-signature=LQj1FeDJri6f96CXE9UG4LjDsw8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1684425600&x-signature=YeqnZIag6z0sIOWAq0awhWAiHso%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1684425600&x-signature=kbSqAHfHGmA2GrgzLT2ZdtVOtG0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1684425600&x-signature=ZNMxCEnTZQHoynIh3rlbeOlJzaU%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -148,13 +148,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 31300000,
-              "likes": 319200000,
+              "likes": 319300000,
               "userId": "7047450743465477126",
               "secUid": "MS4wLjABAAAAhxvSFp8FPW1xhPCzgTzExrCo7Onwd2CuvldSXoUM5oSMLsfR8p6wBNMiWVgBg6V_",
               "relation": 0,
               "video": 45,
               "following": 0,
-              "heart": 319200000,
+              "heart": 319300000,
               "digg": 92
             }
           }
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1684425600&x-signature=zSgFHepzobKZDI0Uq%2BYVPD09FMY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1684425600&x-signature=1zRQrERYXifOoqJO0a3MCztqtCI%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -698,7 +698,7 @@
               "userId": "228700074422296576",
               "secUid": "MS4wLjABAAAA7mkK82iTrmsU2bIS-imXrRhTLxznudE5HAJGptmsdCb_sSj-EYfPFITk2ZPVVHuD",
               "relation": 0,
-              "video": 213,
+              "video": 214,
               "following": 0,
               "heart": 171300000,
               "digg": 284
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "6930738942947017734",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1684425600&x-signature=BM7DTfjlt2SUePVU0iUjFpoUsbQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1684425600&x-signature=aw5teeHcCjUYbGYMKPw37nQvOXI%3D",
             "title": "Khalid",
             "subTitle": "@thegr8khalid",
             "description": "25",
@@ -813,14 +813,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/feb4c89b2b972560362fbf43209635bc.png",
             "title": "#makeuptutorial",
-            "subTitle": "82.4B views",
+            "subTitle": "82.5B views",
             "description": "Show us your #MakeupTutorial.",
             "link": "/tag/makeuptutorial",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 82400000000,
+              "views": 82500000000,
               "challengeId": "39658",
               "challengeName": "makeuptutorial"
             }
@@ -1037,13 +1037,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/986e69ef435047ec9f1292877bd1d147.jpeg",
             "title": "The Assignment",
-            "subTitle": "521.8K videos",
+            "subTitle": "521.7K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 521800
+              "posts": 521700
             }
           }
         },
