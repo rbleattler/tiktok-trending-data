@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "158438610466201600",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1684562400&x-signature=KzbMLcqGoIzY8Gt5BeyD1hqNT6I%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1684562400&x-signature=V1bpMTe13iJZg1TQ1LWfVsA5MKE%3D",
             "title": "Karol G",
             "subTitle": "@karolg",
             "description": "☀️🌺🍃🌈🌧️🌸🐈‍⬛✨",
@@ -77,7 +77,7 @@
               "video": 387,
               "following": 501,
               "heart": 594600000,
-              "digg": 711
+              "digg": 712
             }
           }
         },
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1684562400&x-signature=P%2B6S%2FzhkShqqYP4DyduZG8dIwYE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1684562400&x-signature=P%2FBoUqsMycIFjrvmsWWFzk0nLTA%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1684562400&x-signature=eH%2Ft9dSDPXaJyJpfqpYPt0IzgGU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1684562400&x-signature=9h3mZkgrho3Jlm90Q3urAQC1VAw%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1684562400&x-signature=Wc2hARE2i%2Brf02MDu8t6YyNd22c%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1684562400&x-signature=OU6u1STeevUgwxWxZt%2FelBFrtIc%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “STUCK” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼Watch the video👇🏼",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1684562400&x-signature=Ipb4kEwALZCM2uo9vlk50jtiLws%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1684562400&x-signature=4R9kY8TMB3sc7MeocCaCMqIBxv0%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -720,13 +720,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 8800000,
-              "likes": 31000000,
+              "likes": 31100000,
               "userId": "138635416672317440",
               "secUid": "MS4wLjABAAAAXGEEfLfwPoycHwYf6qZF3gvYruavdCMGpVvu92V1PnV0f22V1SExGDJIFrpWJY0C",
               "relation": 0,
               "video": 31,
               "following": 63,
-              "heart": 31000000,
+              "heart": 31100000,
               "digg": 2113
             }
           }
@@ -1056,13 +1056,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/23a0eff8a40648aa95af4ef1ffc85e58.jpeg",
             "title": "Triple S",
-            "subTitle": "193.8K videos",
+            "subTitle": "193.7K videos",
             "description": "YN Jay & Louie Ray",
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
-              "posts": 193800
+              "posts": 193700
             }
           }
         },
