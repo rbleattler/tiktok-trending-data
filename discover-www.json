@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1684548000&x-signature=2dPnz8Xpx6xEmcB73oXIJvQ939M%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1684548000&x-signature=ASPDDgAuxnV2Ng3VirQYpSOS5ZA%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1684548000&x-signature=BfPRnBnuGPdJre%2FUgQ9S50Esf2c%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1684548000&x-signature=xldz%2BZ5WmlChIL8eqLVUGb97Qk8%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Subtract. Out now.",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1684548000&x-signature=i6uoGglSzU4R6GVEzqTBldoEipE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1684548000&x-signature=fKTEzZC%2BHOrSm%2BYBkYNmsEJgZZM%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “STUCK” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼Watch the video👇🏼",
@@ -553,7 +553,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1684548000&x-signature=CLxj2G9792ji0tT0LO1mnhdxD9I%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1684548000&x-signature=46wANIXWEBmwIea90wIirffjibU%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1684548000&x-signature=wnnXF6asYSuJvOdakAytuwAz7Rk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1684548000&x-signature=2K%2BPE0LSrj221Tqr2XlIL%2Fv%2F%2BQ0%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6930738942947017734",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1684548000&x-signature=p1x6rqbaU5vysIZXBenHTWb6iOc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1684548000&x-signature=pGA%2Bs02RbUnd4zLir%2F1PTlnXzpw%3D",
             "title": "Khalid",
             "subTitle": "@thegr8khalid",
             "description": "25",
@@ -927,14 +927,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4b40975b597a7413971da88c1868ccbe.jpeg",
             "title": "#familytime",
-            "subTitle": "27.2B views",
+            "subTitle": "27.3B views",
             "description": "There's no time like #FamilyTime.",
             "link": "/tag/familytime",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 27200000000,
+              "views": 27300000000,
               "challengeId": "11510",
               "challengeName": "familytime"
             }
@@ -1037,13 +1037,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/986e69ef435047ec9f1292877bd1d147.jpeg",
             "title": "The Assignment",
-            "subTitle": "516.4K videos",
+            "subTitle": "516.3K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 516400
+              "posts": 516300
             }
           }
         },
@@ -1056,13 +1056,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/23a0eff8a40648aa95af4ef1ffc85e58.jpeg",
             "title": "Triple S",
-            "subTitle": "193.9K videos",
+            "subTitle": "193.8K videos",
             "description": "YN Jay & Louie Ray",
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
-              "posts": 193900
+              "posts": 193800
             }
           }
         },
@@ -1113,13 +1113,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f.jpeg",
             "title": "Holly Jolly Christmas",
-            "subTitle": "99.8K videos",
+            "subTitle": "99.7K videos",
             "description": "Michael Bublé",
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
-              "posts": 99800
+              "posts": 99700
             }
           }
         },
