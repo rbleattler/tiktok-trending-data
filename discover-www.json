@@ -147,7 +147,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 16100000,
+              "fans": 16200000,
               "likes": 61900000,
               "userId": "6611099612067856390",
               "secUid": "MS4wLjABAAAA2EvW1E1RwMcww5EY5bG0z2TeJ3dusTXaAKNJBQatp8IGSbOvWYWRm6TIIZ46Q40v",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1685764800&x-signature=xgXx4P6NjlCtKUfYHLRarjXWnNY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1685764800&x-signature=TEqy3PCmBHHX%2FROdShZPLgKzaM8%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1685764800&x-signature=EuELQfydYdURaQFNC4wqcKO2tGw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1685764800&x-signature=BfZthbg5f0RdBEwPZGqUBqE58y8%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "“Glad U Came” Out Now",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1685764800&x-signature=iF4zSyCa02iONyek7XwMQKzma0c%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1685764800&x-signature=2S8ZTuQKMzfI%2BWBcj055mINpkwA%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "If y’all weren’t here, I’d be crying",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1685764800&x-signature=CA7oPX9QDo0M5uJQmLBVTCsglWQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1685764800&x-signature=E8m6y59AxkILkbemErsFidOQIRY%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “STUCK” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼Watch the video👇🏼",
@@ -1037,13 +1037,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/986e69ef435047ec9f1292877bd1d147.jpeg",
             "title": "The Assignment",
-            "subTitle": "506.5K videos",
+            "subTitle": "506.4K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 506500
+              "posts": 506400
             }
           }
         },
