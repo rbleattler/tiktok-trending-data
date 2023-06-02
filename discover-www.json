@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1685836800&x-signature=LGiwwz8vU0KAvwjXR5l5NHz30cY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1685836800&x-signature=edfNEHX9m5eFFhl58N%2FZaxYS158%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1685836800&x-signature=qgWxk16YbQMKMx4m8DlbA8Ol5Vc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1685836800&x-signature=2CVuUOLsqfPHwXVNE18Kyxl9HwA%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1685836800&x-signature=kWQnwFBuBlDItVHlavEvkZzuqsU%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1685836800&x-signature=iBwA4Hwhg7VjhJezyw7GLg1Mdtw%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1685836800&x-signature=SMk6k2y50e0jyRxzLg2pedcJWe0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1685836800&x-signature=g8Te4zKfEb1GkzuTP8cNoYYra%2FE%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "ACCOUNT RUN BY CAESAR THE DOG",
@@ -750,10 +750,10 @@
               "userId": "85228440332730368",
               "secUid": "MS4wLjABAAAAtBGdHy8_cZCxKRqL4b8y_Lai6He42r3Aqe3xEmaU-ANTnQRK2h-y1xB_xy2z-GE2",
               "relation": 0,
-              "video": 69,
+              "video": 70,
               "following": 10,
               "heart": 60800000,
-              "digg": 3201
+              "digg": 3202
             }
           }
         }
