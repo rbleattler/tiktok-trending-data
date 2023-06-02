@@ -70,13 +70,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 37500000,
-              "likes": 597600000,
+              "likes": 597700000,
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": 0,
               "video": 391,
               "following": 505,
-              "heart": 597600000,
+              "heart": 597700000,
               "digg": 733
             }
           }
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1685854800&x-signature=C7aIjkXc1lqv%2BwPhlFwDRr%2FtiCo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/663f153ab91dcb970feae167fd15a277~c5_100x100.jpeg?x-expires=1685854800&x-signature=mTxKuue4z3sfs4W138NbQYriH74%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/15f785b082115ea3bae2feac16baf60c~c5_100x100.jpeg?x-expires=1685854800&x-signature=RQFXinH86LRLvJOEfr%2BsK7LtT8k%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/15f785b082115ea3bae2feac16baf60c~c5_100x100.jpeg?x-expires=1685854800&x-signature=t6ZuMvYvmgH6LDooqDBX1dWczG0%3D",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "VULGAR WITH MADONNA. JUNE 9TH.",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1685854800&x-signature=LfvEOzYZDcRP5nPDZF0ujq%2BUGuo%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1685854800&x-signature=L6HyVY8zprASH4ZoxUBr2DpQ8Ck%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1685854800&x-signature=2z%2FXrTDIDRvQ0bc5Nu%2FIVL%2F9JNg%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1685854800&x-signature=YEBT9LzNuJrRtptsZxQBLrY19cY%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "“Glad U Came” Out Now",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1685854800&x-signature=3FPU74L45YXTlCN1t%2BB1GtmxohY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1685854800&x-signature=3UdkZZ71NpdvVfWivMmEek8CTMU%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "ACCOUNT RUN BY CAESAR THE DOG",
@@ -597,7 +597,7 @@
               "video": 170,
               "following": 0,
               "heart": 103000000,
-              "digg": 6788
+              "digg": 6789
             }
           }
         },
@@ -753,7 +753,7 @@
               "video": 69,
               "following": 10,
               "heart": 60800000,
-              "digg": 3215
+              "digg": 3217
             }
           }
         }
