@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "158438610466201600",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1687255200&x-signature=AsY9LhmPjW0s7L%2B4RYVJl5810XY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/895b5fade102ad3537535e25a69b0259~c5_100x100.jpeg?x-expires=1687255200&x-signature=itdOMIsgWk%2B06nCUiEAsaXWaQMs%3D",
             "title": "Karol G",
             "subTitle": "@karolg",
             "description": "☀️🌺🍃🌈🌧️🌸🐈‍⬛✨",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1687255200&x-signature=KhsLP1kpZHXfKDyNJKRqXQmRwVI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1687255200&x-signature=DwL4Ddx2XqzRkgXxBmlUheQcmRs%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now 💚",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1687255200&x-signature=g9ARXB2aVVD5mYGFJyQytH%2B8tfg%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1687255200&x-signature=gW55jZKzCgc72KIhWx0XiOwdDAY%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1687255200&x-signature=5OuWPmT6lr8JGuSdaLx89D3qGHk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1687255200&x-signature=2TMEelYxLWpklyeBOOmSgriAIeM%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1687255200&x-signature=W8wKxUM60HRs1NSZsMDIJ5ISVYE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1687255200&x-signature=5pR2Vzj4ylw%2BG9wNeA8Xe3hFPAs%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1687255200&x-signature=MapBaBzydueDmn2x8uyNwdJUz%2FU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1687255200&x-signature=lQmynmxtYJaSilNW%2FyJH8iFLi1g%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -1120,13 +1120,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/34b723d31d6d4cd49f5ef94a969321c4.jpeg",
             "title": "Afterglow",
-            "subTitle": "236.3K videos",
+            "subTitle": "236.4K videos",
             "description": "Ed Sheeran",
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
-              "posts": 236300
+              "posts": 236400
             }
           }
         },
