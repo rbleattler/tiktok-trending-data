@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1687773600&x-signature=3cZjDu5X%2FTB%2FSt8X7oeX1x3ZOOo%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1687773600&x-signature=SxRiQbEn6yTdDQCoZYm6EaozGd4%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "99320625143398400",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b5f277e22fe15192a2cde480b4675f2b~c5_100x100.jpeg?x-expires=1687773600&x-signature=hEOb7NwzyRrrCMznRCXbgo6SrrI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b5f277e22fe15192a2cde480b4675f2b~c5_100x100.jpeg?x-expires=1687773600&x-signature=FPvOXvNMn6yulkECyFhwKrcuk%2FY%3D",
             "title": "arianagrande",
             "subTitle": "@arianagrande",
             "description": "currently somewhere over the rainbow",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1687773600&x-signature=6h5XQMcoOI8yyUXhMliLoj%2BmR38%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1687773600&x-signature=y%2BPFl5EFMwKUgbau1bq4RjiuXFY%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1687773600&x-signature=MUqfjnAdgLBOxN9Knx8Q9djRz6I%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1687773600&x-signature=ieEZ3Iayp8knndZjKdi2%2Fup%2FQwk%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1687773600&x-signature=hegXz%2Fuv0gBhtY%2FobkdvBk%2FAoV4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1687773600&x-signature=E12AV4O%2F4PUgkdWMx3AbYPuSn2s%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "138635416672317440",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1687773600&x-signature=Oljwlo7rdM4jw4dUyZver3q8Mgo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2fb38fd49d8e4afa5b59b505e9147656~c5_100x100.jpeg?x-expires=1687773600&x-signature=oPgCA1fEMJYhPGcP%2FXiRikgfWgI%3D",
             "title": "ladygaga",
             "subTitle": "@ladygaga",
             "description": "",
@@ -915,14 +915,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/00b4dfe7ae8826a0b85d982115fedb89.png",
             "title": "#diyproject",
-            "subTitle": "32.1B views",
+            "subTitle": "32.2B views",
             "description": "From start to finish, show us your latest #DIYProject.",
             "link": "/tag/diyproject",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 32100000000,
+              "views": 32200000000,
               "challengeId": "1334984",
               "challengeName": "diyproject"
             }
