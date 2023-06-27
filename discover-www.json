@@ -178,7 +178,7 @@
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
               "relation": 0,
-              "video": 183,
+              "video": 184,
               "following": 0,
               "heart": 107600000,
               "digg": 7063
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1688050800&x-signature=WnyakFc2slT9nPfP7uDVopO9jbg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1688050800&x-signature=E1ECARfg7Sd60HMuxRFyAk3Vfgk%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "Pre Order \"Sing Your Name Out Loud\"",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1688050800&x-signature=0zjQt4sEAQJ97KW3mwlcYcYI1ZE%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1688050800&x-signature=vzMLPdDhUFswvf%2BGkvbfB0bT8PQ%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "THE IDOL EVERY SUNDAY ON HBO",
@@ -668,13 +668,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 23800000,
-              "likes": 121200000,
+              "likes": 121300000,
               "userId": "6746264168812659717",
               "secUid": "MS4wLjABAAAAeorUnEgxFuiNspeal1-82s8pfmSKCojvGFhL3fDrspFgBDzg084_uu4KrGLwKVZD",
               "relation": 0,
               "video": 214,
               "following": 82,
-              "heart": 121200000,
+              "heart": 121300000,
               "digg": 439
             }
           }
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1688050800&x-signature=UE3llvBIMnjmdaN8mB8QXzju9l0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1688050800&x-signature=8dpinaHgiIq3fVCGfC%2Bb1KgjTEY%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "If y’all weren’t here, I’d be crying",
@@ -1063,13 +1063,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/986e69ef435047ec9f1292877bd1d147.jpeg",
             "title": "The Assignment",
-            "subTitle": "501.6K videos",
+            "subTitle": "501.5K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 501600
+              "posts": 501500
             }
           }
         },
