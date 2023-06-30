@@ -126,7 +126,7 @@
               "userId": "168541398546182144",
               "secUid": "MS4wLjABAAAAMTSBCxTaYvqbcRpT924iKILvChaXJEW2t8QEMK3s5NtXENf85cwPjT-biAUnsUfb",
               "relation": 0,
-              "video": 220,
+              "video": 221,
               "following": 59,
               "heart": 232300000,
               "digg": 2575
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1688328000&x-signature=hGJhEeP59AcShlub3VrHTVXZLCg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1688328000&x-signature=O5jdv3yBNfy1k23w5KBoSlx%2FyDc%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1688328000&x-signature=408xURlqwC4tDgbrvfVXdcn1M3U%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1688328000&x-signature=wKfeYbtKP3UkuMGQgepFPMtsBlM%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "THE IDOL EVERY SUNDAY ON HBO",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1688328000&x-signature=abu%2FX9zFjtK%2BY1HiThq0dzGtDBc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1688328000&x-signature=Dgcqq6Cl%2B4b2mUMDvAGMd9KvanM%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now 💚",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1688328000&x-signature=zRx3HqOCUq2o%2B3RYSnAFLocrsnQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1688328000&x-signature=GpFlHS59NGT1Q%2BYDhDAyy8EIWoU%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -564,13 +564,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 3100000,
-              "likes": 28300000,
+              "likes": 28400000,
               "userId": "6930646914937930757",
               "secUid": "MS4wLjABAAAAfXjcYoR1XGi3ox2_2f_2bZjmlYmOu222adadnAcXD6Y6-qeMTJql-x0xBNlZPkU3",
               "relation": 0,
               "video": 45,
               "following": 1,
-              "heart": 28300000,
+              "heart": 28400000,
               "digg": 0
             }
           }
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1688328000&x-signature=99ZN7QjVvkfwquMW0aDw7z9H5%2Bs%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1688328000&x-signature=CfgCQLrEVkPtI%2F6Oh1v4v7Tj0Cc%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -1082,13 +1082,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/o4SAA85emF1IfK5m1GeIXDNAAc1DAJ2ERBePHY.jpeg",
             "title": "Triple S",
-            "subTitle": "186.7K videos",
+            "subTitle": "186.6K videos",
             "description": "YN Jay & Louie Ray",
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
-              "posts": 186700
+              "posts": 186600
             }
           }
         },
