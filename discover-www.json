@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1689267600&x-signature=rKX0dr%2FWAUfrHzuWwaJOIuYoEV4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1689267600&x-signature=diCaHz2fyK01ReY%2BzITw33rUHdg%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1689267600&x-signature=CRqoIby%2F%2FewekcMlmigHY4%2Fb1sc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1689267600&x-signature=6J0nKg27ZMIEODvpipUHuNKIbXU%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "Pre-order my new album AUSTIN 🩵🍻 (out July 28)",
@@ -408,13 +408,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 3100000,
-              "likes": 29700000,
+              "likes": 29800000,
               "userId": "6930646914937930757",
               "secUid": "MS4wLjABAAAAfXjcYoR1XGi3ox2_2f_2bZjmlYmOu222adadnAcXD6Y6-qeMTJql-x0xBNlZPkU3",
               "relation": 0,
               "video": 48,
               "following": 1,
-              "heart": 29700000,
+              "heart": 29800000,
               "digg": 0
             }
           }
@@ -568,7 +568,7 @@
               "userId": "6650307866375618566",
               "secUid": "MS4wLjABAAAA-10td9W7IbRRsU71B47h077wRDPle3kuB2rfdEQRiy-noYMxiz5Bh0C2jO8VYGJ3",
               "relation": 0,
-              "video": 53,
+              "video": 54,
               "following": 2,
               "heart": 9300000,
               "digg": 72
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png",
             "title": "#longervideos",
-            "subTitle": "964.7M views",
+            "subTitle": "965.9M views",
             "description": "Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok",
             "link": "/tag/longervideos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 964700000,
+              "views": 965900000,
               "challengeId": "1604297750222853",
               "challengeName": "longervideos"
             }
