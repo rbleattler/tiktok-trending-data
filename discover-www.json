@@ -44,13 +44,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 58700000,
-              "likes": 574700000,
+              "likes": 574800000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
               "video": 192,
               "following": 73,
-              "heart": 574700000,
+              "heart": 574800000,
               "digg": 2013
             }
           }
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1689454800&x-signature=lA%2B8MfG43SU4beVGqMUSZ0ToD2c%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1689454800&x-signature=09gzUDuw9NVzAuMiJW%2Bn9nSQLqM%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1689454800&x-signature=IDqce1rTweQ7UDjDJvHL%2FX7v2HI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1689454800&x-signature=3OjvtoynxRL29gsDr3G2nrgMfPM%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "",
@@ -363,7 +363,7 @@
               "video": 271,
               "following": 117,
               "heart": 124100000,
-              "digg": 272
+              "digg": 273
             }
           }
         },
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1689454800&x-signature=Q%2FJj1xnU%2F%2FJsw0EdtuAbVkCssVo%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1689454800&x-signature=0B2ZjX0ynnK8JdC9nVqCaxtyifg%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1689454800&x-signature=g57NhZbvzNbCSf3XP91tdlsOtyU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1689454800&x-signature=yVJjMOx9Dr98XPyRkNoI9yuLUxo%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1689454800&x-signature=MM012456TzoQHuT6YRZh97B7Kus%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1689454800&x-signature=BuehjWp%2BfjzOLjKdOEtKVQGcbL8%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "423.4M views",
+            "subTitle": "423.5M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 423400000,
+              "views": 423500000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
