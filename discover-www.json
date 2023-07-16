@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1689699600&x-signature=grVAvwaey9RqDL4CEpy%2BuwhRVQk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1689699600&x-signature=vDWtIi3%2F%2FvCQdF2Ysa3M%2BF4Os0A%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1689699600&x-signature=L6fm6m9AXYL3g5Z3wwKClBdUDFw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1689699600&x-signature=782RUQzgtjxbb7Gzl024pnC%2BYdc%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1689699600&x-signature=PPyKi%2ByirtrTuvQIynwy9nKDOHY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1689699600&x-signature=dql%2Bz39s%2B3SWVcM7Pvbl6fzQAk8%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "my new album AUSTIN 🩵🍻 (out July 28)",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1689699600&x-signature=pYC1khGux24UJyB6K3NbWpl4FDA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1689699600&x-signature=RBj3uj62yH%2FjK9pbkrvTM6m5zGU%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7d62867da5a04d12342dd224bba00a87~c5_100x100.jpeg?x-expires=1689699600&x-signature=MiaXmEXl9SxSaRQKgaGH4Ag6lkY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7d62867da5a04d12342dd224bba00a87~c5_100x100.jpeg?x-expires=1689699600&x-signature=Uvz8cOJfoXtIyv30XYMOSqBKn%2BA%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. OUT NOW.",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1689699600&x-signature=B7JF7qYJ1Ovf3EsoBzNvE%2FI2kKI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1689699600&x-signature=JygL4wFiOO9YZ5DfQcPdJjrleO0%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "437.2M views",
+            "subTitle": "437.8M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 437200000,
+              "views": 437800000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
