@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1689706800&x-signature=MtPr4eKk6s9hMtiJP3%2F38tPDcCg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1689706800&x-signature=KZ5d3cVwuE%2F0APZ0xUhgG9beUFo%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -226,13 +226,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 3300000,
-              "likes": 32100000,
+              "likes": 32200000,
               "userId": "6930646914937930757",
               "secUid": "MS4wLjABAAAAfXjcYoR1XGi3ox2_2f_2bZjmlYmOu222adadnAcXD6Y6-qeMTJql-x0xBNlZPkU3",
               "relation": 0,
               "video": 51,
               "following": 1,
-              "heart": 32100000,
+              "heart": 32200000,
               "digg": 0
             }
           }
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1689706800&x-signature=sWvmmUCUlOj7otfWZZgb0XAzatc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1689706800&x-signature=EZA3Jznk05j2UBblH8eUs7NeNq0%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "currently touring… 🌎",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1689706800&x-signature=Ry4V3xKnZBrAbiit2hPPLY0xsGw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1689706800&x-signature=UbZ5FsB8NDr4OjllDlsQNAKnkIM%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "my new album AUSTIN 🩵🍻 (out July 28)",
@@ -389,7 +389,7 @@
               "video": 486,
               "following": 216,
               "heart": 218800000,
-              "digg": 4137
+              "digg": 4138
             }
           }
         },
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1689706800&x-signature=Y1FLlHApmLfPPlgQ1BGJ%2BuDPyco%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1689706800&x-signature=ADGsVjotqxd%2FelvPBmSdWMi8FnE%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1689706800&x-signature=m06XHPLQhcMHg4d%2F98ayeci9OfQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1689706800&x-signature=72WcIH6KEZFRzCSciruX11LVyt0%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "438.3M views",
+            "subTitle": "438.5M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 438300000,
+              "views": 438500000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
