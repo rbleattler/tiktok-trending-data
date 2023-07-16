@@ -18,13 +18,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 58800000,
-              "likes": 580500000,
+              "likes": 580600000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
               "video": 193,
               "following": 73,
-              "heart": 580500000,
+              "heart": 580600000,
               "digg": 2019
             }
           }
@@ -44,13 +44,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 38700000,
-              "likes": 614900000,
+              "likes": 615000000,
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": 0,
               "video": 405,
               "following": 512,
-              "heart": 614900000,
+              "heart": 615000000,
               "digg": 777
             }
           }
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1689710400&x-signature=xmA%2By%2FKIVD9NBOd0X8fTKywIjtc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1689710400&x-signature=u2azeJ4T2Cq6J6mboy8l5mYe5fE%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1689710400&x-signature=ziu%2BntcEPVFDa%2FMHFJI%2BDoj%2B8JQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1689710400&x-signature=mCzsgiXlXiHSGJqkt4jdQOGQ5%2F4%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1689710400&x-signature=Ne2biaeflsivFZQMaQtZybbsQCc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1689710400&x-signature=7Me5lfKv5UFZGW1C%2Bd5mXiNAU70%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "438.6M views",
+            "subTitle": "438.7M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 438600000,
+              "views": 438700000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
