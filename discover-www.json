@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1690282800&x-signature=ZYtvahbuZzT%2FTGN9eRFfuPz3K6U%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1690282800&x-signature=M2%2BshfhP189ckWGy5dowP229SVI%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1690282800&x-signature=OW9AO9nSBp%2FsK3f1mPhthNO3FGQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1690282800&x-signature=XrJWGw523498e6gZSwYnDoc2cWc%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1690282800&x-signature=pciSnA0d7lYgIyyVUlqdDMGRXtI%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1690282800&x-signature=MEKEQTvWWsMQ08ldhQQo97aYP%2Fc%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “Get Up Kid” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "480M views",
+            "subTitle": "480.2M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 480000000,
+              "views": 480200000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
@@ -1062,13 +1062,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7bd1db5ef2a246fc99ac1137347a61df.jpeg",
             "title": "The Assignment",
-            "subTitle": "513K videos",
+            "subTitle": "513.1K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 513000
+              "posts": 513100
             }
           }
         },
