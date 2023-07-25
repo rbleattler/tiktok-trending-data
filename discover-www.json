@@ -96,13 +96,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 14600000,
-              "likes": 105600000,
+              "likes": 105700000,
               "userId": "126223816648822784",
               "secUid": "MS4wLjABAAAA7pFJYt0Ui6BV6xS9xncL3Zi1NsHEmfdn2t6sMY1yulhbrSWQ29xtwpUQFml62_q0",
               "relation": 0,
               "video": 41,
               "following": 73,
-              "heart": 105600000,
+              "heart": 105700000,
               "digg": 135
             }
           }
@@ -553,7 +553,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1690430400&x-signature=6Luwz3eDoLOX2%2FX%2FUWrvQ8DkAck%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1690430400&x-signature=A4gW4MbgsXZS2iFuP2kl%2F5kWjU8%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1690430400&x-signature=BIdRvzgnBIecO7%2FsOANNVxFvVzw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1690430400&x-signature=p5vNUT0y3TXpRn5xNOnOxYw%2Fj%2BQ%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7d62867da5a04d12342dd224bba00a87~c5_100x100.jpeg?x-expires=1690430400&x-signature=9prSKfbxQJhYupUEX1REF7WhWMI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7d62867da5a04d12342dd224bba00a87~c5_100x100.jpeg?x-expires=1690430400&x-signature=w5b0asfGq80TzbsG27gh%2BTiJeas%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. OUT NOW.",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6930738942947017734",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1690430400&x-signature=HDogRjfhIX3rcGgCxxK7vtbF8DQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f6b8520c7468b26e35860ca40a86999f~c5_100x100.jpeg?x-expires=1690430400&x-signature=Cd0FNjcCY2RYxTJh4Y23R%2FTDmJI%3D",
             "title": "Khalid",
             "subTitle": "@thegr8khalid",
             "description": "25",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "496.2M views",
+            "subTitle": "496.3M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 496200000,
+              "views": 496300000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
