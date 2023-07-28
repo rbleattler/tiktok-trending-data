@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1690750800&x-signature=ryNdml00QwM6XjkgTFP7XGu%2BuOM%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1690750800&x-signature=SiSD5ttrgYDnwxT%2BIfq83dRSjKU%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -70,13 +70,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 38900000,
-              "likes": 618700000,
+              "likes": 618800000,
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": 0,
               "video": 408,
               "following": 516,
-              "heart": 618700000,
+              "heart": 618800000,
               "digg": 791
             }
           }
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1690750800&x-signature=GW5xLQbF9H604H4NjYCjXCT%2FMs0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1690750800&x-signature=vnxCf1jxExkendKI4e%2FYWKlmgPg%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1690750800&x-signature=pKM6IkMaBdAt2PnCPxid%2Bp25PjA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1690750800&x-signature=rqAnmFXVwilW3MQm6p4oeAo8DtI%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now 💚",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1690750800&x-signature=OkaiQpnXXKr3EvE94MS16ZYrgVQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1690750800&x-signature=7vaiLKB3sT7%2Fn8QhdyUwyJUMFpw%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "6738864848179299333",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1690750800&x-signature=3FQxjMWn%2BA%2FoUbLljnQElzGQYWU%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1690750800&x-signature=alNEoAG84puspTiViLdGnJwzDI4%3D",
             "title": "HSHQ",
             "subTitle": "@hshq",
             "description": "",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "529M views",
+            "subTitle": "529.2M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 529000000,
+              "views": 529200000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
