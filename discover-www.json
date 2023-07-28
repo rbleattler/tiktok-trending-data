@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1690707600&x-signature=XORXPrWNV1ip9YV9z9aXZTEimls%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1690707600&x-signature=bc4nj2Fzrt3LUm5JEQNSPd7h23Y%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#RedRubyDaSleeze",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1690707600&x-signature=I%2BJ%2F0%2FRqctqzjz1TVEZf7KozJaA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1690707600&x-signature=kVBz9kBNgkpgQ3KiZ%2FhtkxUbuWw%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1690707600&x-signature=UPDQULJuUU9yfwje3xbt1Hfg02A%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1690707600&x-signature=%2F091gGNducDruoan0h6pdm6jp8U%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1690707600&x-signature=J9fZ6NSv7M20%2F26382Ne9zDklVk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1690707600&x-signature=ynFxuSJz2HhhaUwEonVE3%2FwZZP4%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1690707600&x-signature=WyIMQCLXFi4DseAg7bL8U0xi4vY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1690707600&x-signature=BUX3mXxHVINrYb2rGWAO3drlcmw%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png",
             "title": "#longervideos",
-            "subTitle": "2.7B views",
+            "subTitle": "2.8B views",
             "description": "Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok",
             "link": "/tag/longervideos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 2700000000,
+              "views": 2800000000,
               "challengeId": "1604297750222853",
               "challengeName": "longervideos"
             }
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "523.8M views",
+            "subTitle": "523.9M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 523800000,
+              "views": 523900000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
