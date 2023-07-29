@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1690830000&x-signature=v%2FZ13YEXthJ7O4S5n1QO69PHUnU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1690830000&x-signature=tkLt92v4b3%2BJrXSqKPrixtYZzbI%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1690830000&x-signature=iMAMd26QjewJ1UbQS5YdDupOfOs%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1690830000&x-signature=aFlGI5%2BvzhuBurpMKTecT78ZKYc%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1690830000&x-signature=56fnOoIp8Dbs%2Bkaiuk0NzJ9tvMc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1690830000&x-signature=5JSrV1oBRHBfMXy5C1MD9YBVY%2Bg%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1690830000&x-signature=wZzcPhHLGAz4hTbGNDRE3Zkjg8U%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1690830000&x-signature=Bx5H%2FuH1BRcrmJ5FvX9jDOSeMUc%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1690830000&x-signature=zL1DCEe4rF5e69rksht4Tf6YKm0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1690830000&x-signature=lhTsIipY5vnNqR3KtSS3oNbO82w%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1690830000&x-signature=71e%2FXEIVSfuSP8eArSeDRpywhB8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1690830000&x-signature=fSkZPX%2BTp1148tsQdCmAR4g4Mf8%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "536.6M views",
+            "subTitle": "536.8M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 536600000,
+              "views": 536800000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
