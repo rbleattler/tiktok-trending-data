@@ -226,13 +226,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 8700000,
-              "likes": 124600000,
+              "likes": 124700000,
               "userId": "6711995161218286598",
               "secUid": "MS4wLjABAAAAo6owCzQgiv9Xm_6O6lJHs85_whEc5JAjUDlmRO4vOH164H4zF2M3PYXBJtPhzXMz",
               "relation": 0,
               "video": 278,
               "following": 118,
-              "heart": 124600000,
+              "heart": 124700000,
               "digg": 273
             }
           }
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1690794000&x-signature=pTALrP7qgF%2FhOBLR7yJufF694zA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1690794000&x-signature=6Ws5Iy2cAyOAya6jjPMoR7DjTY4%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "currently touring… 🌎",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1690794000&x-signature=ejRcROIqxurak1hLd5B6UptiKss%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1690794000&x-signature=ieCXtKxm4p0TfVZLny5aXYM7WJc%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “Get Up Kid” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1690794000&x-signature=f8rmYLFEziMOjd8ktqyBeVVYrHM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1690794000&x-signature=bshshCL%2Bh8f3obDnjrg3pMfR%2Bok%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now 💚",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1690794000&x-signature=0zZ8qOgxoABvhGRNPVfy7CCIm5U%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1690794000&x-signature=Jp0jrLfGc5fglOgIzLOQ1FLZoIw%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1690794000&x-signature=dIZ1ObgVdPZs%2BrTVFvpTxskF7pI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1690794000&x-signature=k7bQgykZhQC%2F1h0N1wzfL%2F1G3AA%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "532.8M views",
+            "subTitle": "533M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 532800000,
+              "views": 533000000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
