@@ -207,7 +207,7 @@
               "video": 872,
               "following": 19,
               "heart": 1300000000,
-              "digg": 3622
+              "digg": 3623
             }
           }
         },
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1690804800&x-signature=lOV3wnAqEF2xiKMVr6fZfu0kdlg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1690804800&x-signature=j%2FNFcxxX1n%2FBKfLyw3LSw7FMj68%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “Get Up Kid” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1690804800&x-signature=sbeMc08c5n6T76kqT%2BgDkA1Axg0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1690804800&x-signature=uOB8GGs%2FxDdgIm0LuAOSQPnVxIM%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#RedRubyDaSleeze",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1690804800&x-signature=tT8lNgBPRV6aIhYAe7NZPm7maGM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1690804800&x-signature=VP7%2FR0%2Fg78isLETO0YCShU%2FsEIs%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1690804800&x-signature=t1r%2FSEOPR8oyRoM1doIn4i%2F2e5Y%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1690804800&x-signature=w3SVkmWMwcj7EATMprYmTnknU7I%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "533.8M views",
+            "subTitle": "534.1M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 533800000,
+              "views": 534100000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
