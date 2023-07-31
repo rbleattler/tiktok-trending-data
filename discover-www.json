@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1691002800&x-signature=G7PWaZ0kogru8ey1G5JnX%2Bq32FY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1691002800&x-signature=T01Wqxwrct%2FvaugBjmQYPPkK5K4%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1691002800&x-signature=kEezAfFlHMmI9vY76ZK7sYGml3M%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1691002800&x-signature=zBJKdTQWZzl%2FoqUK76ByHtAOVg0%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1691002800&x-signature=PeXrLGstg7gK92EM5MJElgODbas%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1691002800&x-signature=3hhjAhkgWLW2Di3QFsP%2BV1Zj0n8%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7d62867da5a04d12342dd224bba00a87~c5_100x100.jpeg?x-expires=1691002800&x-signature=YCD88qJfXO8JDLxq%2BvQsDjkYtW8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7d62867da5a04d12342dd224bba00a87~c5_100x100.jpeg?x-expires=1691002800&x-signature=5Xp%2BqirtZirfEKXbkmYXOOBF%2BKM%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. OUT NOW.",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1691002800&x-signature=2L19OsGqWO6zYyc1ViQ74Pfb7Eg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ec3a1126d3a3d12ba9a2a899645444ea~c5_100x100.jpeg?x-expires=1691002800&x-signature=aC4bnBhAHM9cbCyMvnfXDpM3V%2B4%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "552.5M views",
+            "subTitle": "552.7M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 552500000,
+              "views": 552700000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
@@ -1157,13 +1157,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5.jpeg",
             "title": "真夜中のドア〜stay with me",
-            "subTitle": "418.5K videos",
+            "subTitle": "418.4K videos",
             "description": "松原みき",
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 418500
+              "posts": 418400
             }
           }
         }
