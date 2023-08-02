@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1691179200&x-signature=np%2F2PqJj%2BOHp1%2Fl7lhlcvJ0SJtg%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1691179200&x-signature=%2FSsOyGZ3rMLduFvTXTktLukvzsM%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1691179200&x-signature=wn8ZiEEq%2FZ1FOhUWarXeeDhTTfw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1691179200&x-signature=QkUOXHXJbYt7KIX%2F5IAQSfnfVw4%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -74,10 +74,10 @@
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": 0,
-              "video": 409,
+              "video": 410,
               "following": 516,
               "heart": 620500000,
-              "digg": 793
+              "digg": 795
             }
           }
         },
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1691179200&x-signature=IX%2F8M3P8DYtIQ%2Be2a2hT0iWrL7g%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1691179200&x-signature=7gqj4xAUiSPc6%2BEdJ1ZqPKh%2Fdag%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1691179200&x-signature=GPqGsVItSrUoVVeo6kTxGzUOoSQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1691179200&x-signature=ccLaMJm7QVpOGC89trVkSAm%2Bqx0%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “Get Up Kid” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6738864848179299333",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1691179200&x-signature=1gxfI8S5AU0Q9JxhrPRLgKNQo0E%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1691179200&x-signature=xupEwA5Ip0yQc6oTG7mTkuPPyMg%3D",
             "title": "HSHQ",
             "subTitle": "@hshq",
             "description": "",
@@ -772,13 +772,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 1600000,
-              "likes": 12100000,
+              "likes": 12200000,
               "userId": "6783167515188429829",
               "secUid": "MS4wLjABAAAACQ2Czmmsl5AjQZ7TEwOJ8ZPv1_VGfbCFBUQVN4VNDpIfnHmYNFuBqLqR2BrXLYhe",
               "relation": 0,
               "video": 160,
               "following": 43,
-              "heart": 12100000,
+              "heart": 12200000,
               "digg": 619
             }
           }
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "574.3M views",
+            "subTitle": "574.5M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 574300000,
+              "views": 574500000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
@@ -1081,13 +1081,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/23a0eff8a40648aa95af4ef1ffc85e58.jpeg",
             "title": "Triple S",
-            "subTitle": "184.8K videos",
+            "subTitle": "184.7K videos",
             "description": "YN Jay & Louie Ray",
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
-              "posts": 184800
+              "posts": 184700
             }
           }
         },
