@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1691254800&x-signature=6yl%2F1pI%2FsGhYj17hrmS6Q%2BPdvdc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1691254800&x-signature=hRd814cwmaCzOeFO2iWmI3FUWlY%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -48,7 +48,7 @@
               "userId": "168541398546182144",
               "secUid": "MS4wLjABAAAAMTSBCxTaYvqbcRpT924iKILvChaXJEW2t8QEMK3s5NtXENf85cwPjT-biAUnsUfb",
               "relation": 0,
-              "video": 233,
+              "video": 234,
               "following": 60,
               "heart": 239500000,
               "digg": 2577
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1691254800&x-signature=GLD5DXuT9k4KU68Qv8tpJvX1CwE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1691254800&x-signature=A2T0vJo6Wv7%2BuUkPSYLHTes47mY%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -233,7 +233,7 @@
               "video": 872,
               "following": 19,
               "heart": 1300000000,
-              "digg": 3644
+              "digg": 3646
             }
           }
         },
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1691254800&x-signature=hZFiym33fM1LQP7o7RLGl%2BdFQEM%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1691254800&x-signature=dpRVLyyGFM36%2FtYHn7dXS0AGGG4%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "currently touring… 🌎",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1691254800&x-signature=2MujAdtHLlW%2Fd%2BdD%2Bi4V03oGsMQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1691254800&x-signature=4p6zVYb94uWOZuuyVIddJ3O3blw%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -542,7 +542,7 @@
               "userId": "6650307866375618566",
               "secUid": "MS4wLjABAAAA-10td9W7IbRRsU71B47h077wRDPle3kuB2rfdEQRiy-noYMxiz5Bh0C2jO8VYGJ3",
               "relation": 0,
-              "video": 68,
+              "video": 69,
               "following": 2,
               "heart": 10700000,
               "digg": 79
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7d62867da5a04d12342dd224bba00a87~c5_100x100.jpeg?x-expires=1691254800&x-signature=%2FVITyhYPmfGW0mi8NiHEwplkw5Q%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7d62867da5a04d12342dd224bba00a87~c5_100x100.jpeg?x-expires=1691254800&x-signature=S3FQACD47z4N%2FK5CuvsIgNJwQUk%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "ENDLESS SUMMER VACATION. THE ALBUM. OUT NOW.",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "582.3M views",
+            "subTitle": "582.5M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 582300000,
+              "views": 582500000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
