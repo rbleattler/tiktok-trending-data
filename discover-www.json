@@ -44,13 +44,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 37500000,
-              "likes": 241500000,
+              "likes": 241600000,
               "userId": "168541398546182144",
               "secUid": "MS4wLjABAAAAMTSBCxTaYvqbcRpT924iKILvChaXJEW2t8QEMK3s5NtXENf85cwPjT-biAUnsUfb",
               "relation": 0,
               "video": 234,
               "following": 60,
-              "heart": 241500000,
+              "heart": 241600000,
               "digg": 2577
             }
           }
@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1691373600&x-signature=SwhiSYdsrDqpN7wteSfsy4XiXyM%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1691373600&x-signature=1jvhOebbzruvsX%2BnFkfcnxh9avc%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1691373600&x-signature=AoZM%2FVBM9SvkbhusLwM8utFlayk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1691373600&x-signature=ecmD5CTEJLhV2G1sDonl2he1RR8%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1691373600&x-signature=Vd1VfwFTQsfDfRHKixCA4peJOuA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1691373600&x-signature=9%2FX6rTlNf%2BXk0hPso3NnAtmlpYU%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "6738864848179299333",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1691373600&x-signature=wQe40VCoVqZ9AunCHoHoXBfAoG0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1691373600&x-signature=kIyAxLHBceO0v15vD%2BxQogsjNXU%3D",
             "title": "HSHQ",
             "subTitle": "@hshq",
             "description": "",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "605.3M views",
+            "subTitle": "605.4M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 605300000,
+              "views": 605400000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
@@ -838,14 +838,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "96.7B views",
+            "subTitle": "96.8B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 96700000000,
+              "views": 96800000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
