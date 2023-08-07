@@ -148,13 +148,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 16500000,
-              "likes": 119300000,
+              "likes": 119400000,
               "userId": "6760381874016912390",
               "secUid": "MS4wLjABAAAAnb7UrYm7BoqTzDSu6XphP68sueqPwuXJeHhJcYMye9NNlA7-nh427qHb_e-Al5ES",
               "relation": 0,
               "video": 31,
               "following": 0,
-              "heart": 119300000,
+              "heart": 119400000,
               "digg": 5197
             }
           }
@@ -334,7 +334,7 @@
               "userId": "6711995161218286598",
               "secUid": "MS4wLjABAAAAo6owCzQgiv9Xm_6O6lJHs85_whEc5JAjUDlmRO4vOH164H4zF2M3PYXBJtPhzXMz",
               "relation": 0,
-              "video": 280,
+              "video": 281,
               "following": 118,
               "heart": 124800000,
               "digg": 273
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "637.6M views",
+            "subTitle": "637.8M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 637600000,
+              "views": 637800000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
