@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1691683200&x-signature=ULe%2F7UODeW09%2FPOmLXBZZ%2BPlNms%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1691683200&x-signature=sGA1IhpEyMneaNMfLv7NCAaNbtM%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1691683200&x-signature=krQdsVYnMj9BaHW7%2FFwD8zslirU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1691683200&x-signature=f5p%2Brb%2BN2QiOw2Iq0FEr8%2BXmecc%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now 💚",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "173245838817808384",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1691683200&x-signature=BJh7BP5wNS4509ea1zflrXy%2BN7Y%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1691683200&x-signature=BT5P3ls9QPpLtsxosAbuBDs5XyE%3D",
             "title": "Ed Sheeran",
             "subTitle": "@edsheeran",
             "description": "Subtract. Out now.",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1691683200&x-signature=9jp4nhBr%2BX4kOwVt%2BpVgEGCJR78%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1691683200&x-signature=FPUfZqDAO%2FWhjek5rvvetYJoXWM%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “Get Up Kid” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼",
@@ -615,7 +615,7 @@
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 9653,
+              "fans": 9932,
               "likes": 219500000,
               "userId": "142565009246584832",
               "secUid": "MS4wLjABAAAAoIjsp53EitSm7GKWMT2VaeDZA25CzmzbvLDyFUJwpCZk7B5PmCoYlO2cV4y_-it9",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6738864848179299333",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1691683200&x-signature=WFFD1oqzwWmt3f0FCUSvXPivpgE%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1691683200&x-signature=Rph5yHDzHDgUzsyPWbp3NJ%2F6IVg%3D",
             "title": "HSHQ",
             "subTitle": "@hshq",
             "description": "",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "648.2M views",
+            "subTitle": "648.5M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 648200000,
+              "views": 648500000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
