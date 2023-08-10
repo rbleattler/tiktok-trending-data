@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1691859600&x-signature=6N9WwCPec5xzbGDRP6Si1sJu1Gs%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1691859600&x-signature=DjGSE8SymFD13xOTH2%2BC%2BHaHTxY%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1691859600&x-signature=iLyd9GNjSLW0A80YnRsc%2Ba10Rcw%3D",
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1691859600&x-signature=CKI2Xfr3iTSGTPtCBo9mwieF860%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1691859600&x-signature=4VmBhznUvM6OdM9BTpzPOaKFDIA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1691859600&x-signature=4Y4z%2FOvTmytT2lhiQOjgg5BbYfg%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1691859600&x-signature=XBmzf%2FE3WbseBOOmNlmBIlSmuew%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1691859600&x-signature=P11Tjy4H9WuZKcJU0FCv8JEegR0%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1691859600&x-signature=wgW5cSHLrlEAoyUoFLQOfWZ8gIs%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1691859600&x-signature=P8DZemoc7SQiVXPy8LGDjNo8aCM%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "currently touring… 🌎",
@@ -360,7 +360,7 @@
               "userId": "6711995161218286598",
               "secUid": "MS4wLjABAAAAo6owCzQgiv9Xm_6O6lJHs85_whEc5JAjUDlmRO4vOH164H4zF2M3PYXBJtPhzXMz",
               "relation": 0,
-              "video": 285,
+              "video": 286,
               "following": 118,
               "heart": 125000000,
               "digg": 273
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1691859600&x-signature=7QgFSIVbjXgqDuuG9nWdWh%2F5ZF8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1691859600&x-signature=V5ITkBVsANDquXu%2B82yx%2Blj3X4g%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "674.3M views",
+            "subTitle": "674.6M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 674300000,
+              "views": 674600000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
