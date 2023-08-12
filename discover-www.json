@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692003600&x-signature=Vquxk9BeA54KU%2BDhgDNrJX8%2BLbU%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692003600&x-signature=ZL5vCxP43cC7QAMU1i%2FJwSTXUSU%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -259,7 +259,7 @@
               "video": 874,
               "following": 20,
               "heart": 1300000000,
-              "digg": 3666
+              "digg": 3667
             }
           }
         },
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1692003600&x-signature=eD7gcRjGc7%2BV0fZWfWuP2ctoS8E%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1692003600&x-signature=KpD2Dyy%2BItJQu86WhvsJ%2F%2FHZBxw%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now 💚",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1692003600&x-signature=buYXgek6oFWy5g2vorQg3R0no5M%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1692003600&x-signature=KiFZEVUrTYlbaWoMjG03Ng6efsw%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6738864848179299333",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1692003600&x-signature=z5T0WS1d%2BjTbOa%2B%2FTUQhLOi%2FxEo%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1692003600&x-signature=lQfIfyytWxOMkitjOgwGwVtQPgc%3D",
             "title": "HSHQ",
             "subTitle": "@hshq",
             "description": "",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "695.1M views",
+            "subTitle": "695.3M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 695100000,
+              "views": 695300000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
