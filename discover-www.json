@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1691982000&x-signature=eoYdvwfQjMb%2FHOcrpqHroM2XrUA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1691982000&x-signature=N72baXFlOLjesk7SGW8O3MBhbEw%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1691982000&x-signature=WozczNy%2F1KhOFT%2BL9JnjL9Qf%2BDk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1691982000&x-signature=mIMj4i0HGbIGwSh5DqlYexNwEbs%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#RedRubyDaSleeze",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "6738864848179299333",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1691982000&x-signature=dK0dPN47dRfGrtdY7P1ZBWSMqAY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1691982000&x-signature=Xb%2B2Z6e%2FCpyTmhSBxFHbXwbYp%2BY%3D",
             "title": "HSHQ",
             "subTitle": "@hshq",
             "description": "",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1691982000&x-signature=IdJPBPME2lMfNh0tAd6d8GFfIPw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1691982000&x-signature=EnrK%2FtPrDa%2BNa1wucpx93MTuf9U%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6750750848748930054",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a7fb0d58a580d2924d8db765af97c95~c5_100x100.jpeg?x-expires=1691982000&x-signature=FHhgU25sTL01VOFV4rffU34%2FhWc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a7fb0d58a580d2924d8db765af97c95~c5_100x100.jpeg?x-expires=1691982000&x-signature=N2cdZLpmMeffSmb%2FTVxlNgfNj%2B0%3D",
             "title": "FARRU",
             "subTitle": "@farrukoofficialpr",
             "description": "",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "692.2M views",
+            "subTitle": "692.4M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 692200000,
+              "views": 692400000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
