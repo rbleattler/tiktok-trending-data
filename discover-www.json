@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1692172800&x-signature=N1UMQVZne3r1xn4sbb0bRpZd%2B60%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1692172800&x-signature=4YhC7FSJlfmaclxG2TRNEGGmb1A%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -83,32 +83,6 @@
         },
         {
           "cardItem": {
-            "id": "6747935906352907269",
-            "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1692172800&x-signature=GirK9I%2B5QgXUiNCxSI8L1GhMdn4%3D",
-            "title": "Gordon Ramsay",
-            "subTitle": "@gordonramsayofficial",
-            "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
-            "link": "/@gordonramsayofficial",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 39100000,
-              "likes": 622400000,
-              "userId": "6747935906352907269",
-              "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
-              "relation": 0,
-              "video": 413,
-              "following": 516,
-              "heart": 622400000,
-              "digg": 809
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "6760381874016912390",
             "type": 2,
             "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/a494db5109ee8381a3ce1428a3fce841~c5_100x100.jpeg?x-expires=1692172800&x-signature=dmdgHkIDiwhVSXYSGaxrmJuRfZM%3D",
@@ -130,6 +104,32 @@
               "following": 0,
               "heart": 124300000,
               "digg": 5208
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "6747935906352907269",
+            "type": 2,
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1692172800&x-signature=GirK9I%2B5QgXUiNCxSI8L1GhMdn4%3D",
+            "title": "Gordon Ramsay",
+            "subTitle": "@gordonramsayofficial",
+            "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
+            "link": "/@gordonramsayofficial",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 39100000,
+              "likes": 622400000,
+              "userId": "6747935906352907269",
+              "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
+              "relation": 0,
+              "video": 413,
+              "following": 516,
+              "heart": 622400000,
+              "digg": 809
             }
           }
         },
@@ -187,9 +187,35 @@
         },
         {
           "cardItem": {
+            "id": "6621955904844021765",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1692172800&x-signature=MrmnJFENfPhzYXIgrm68BbTRMCY%3D",
+            "title": "Rihanna",
+            "subTitle": "@rihanna",
+            "description": "",
+            "link": "/@rihanna",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 8900000,
+              "likes": 11900000,
+              "userId": "6621955904844021765",
+              "secUid": "MS4wLjABAAAAd04PpJrQJrRv5QpeLCz-tj41zTwuemXz6WBpyycnVNGeYqJjlOzJ5fpV9QWK5h4B",
+              "relation": 0,
+              "video": 4,
+              "following": 0,
+              "heart": 11900000,
+              "digg": 0
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1692172800&x-signature=qpG65d6lbFkADJhqE61FfLM464I%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1692172800&x-signature=LAsVKFsAcMGM%2F%2Bz6KoHi1JLvWc0%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -241,7 +267,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1692172800&x-signature=WwlxvL66CXkKXRgVp5WIi8dvncI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1692172800&x-signature=viH50X6m4qy18%2FpWVJVNKQ%2FQalA%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -260,32 +286,6 @@
               "following": 21,
               "heart": 1300000000,
               "digg": 3673
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "6621955904844021765",
-            "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1692172800&x-signature=MrmnJFENfPhzYXIgrm68BbTRMCY%3D",
-            "title": "Rihanna",
-            "subTitle": "@rihanna",
-            "description": "",
-            "link": "/@rihanna",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 8900000,
-              "likes": 11900000,
-              "userId": "6621955904844021765",
-              "secUid": "MS4wLjABAAAAd04PpJrQJrRv5QpeLCz-tj41zTwuemXz6WBpyycnVNGeYqJjlOzJ5fpV9QWK5h4B",
-              "relation": 0,
-              "video": 4,
-              "following": 0,
-              "heart": 11900000,
-              "digg": 0
             }
           }
         },
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692172800&x-signature=Sx6chtcNr2CHB6P6V5NBEyrA3io%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692172800&x-signature=sQtLH58hJbTLSxdDRySDqXokFPE%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -364,6 +364,32 @@
               "following": 13,
               "heart": 116200000,
               "digg": 111
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "224891697648857088",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1692172800&x-signature=Tyi4aEv07%2BoqxYa%2F5W8OgpoxQ%2Fo%3D",
+            "title": "Nicki Minaj",
+            "subTitle": "@nickiminaj",
+            "description": "#RedRubyDaSleeze",
+            "link": "/@nickiminaj",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 18200000,
+              "likes": 111200000,
+              "userId": "224891697648857088",
+              "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
+              "relation": 0,
+              "video": 190,
+              "following": 0,
+              "heart": 111200000,
+              "digg": 7595
             }
           }
         },
@@ -395,61 +421,9 @@
         },
         {
           "cardItem": {
-            "id": "224891697648857088",
-            "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1692172800&x-signature=ufT6RAsO0%2BcOnoN6Zp9crIQJdFU%3D",
-            "title": "Nicki Minaj",
-            "subTitle": "@nickiminaj",
-            "description": "#RedRubyDaSleeze",
-            "link": "/@nickiminaj",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 18200000,
-              "likes": 111200000,
-              "userId": "224891697648857088",
-              "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
-              "relation": 0,
-              "video": 189,
-              "following": 0,
-              "heart": 111200000,
-              "digg": 7595
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "173245838817808384",
-            "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1692172800&x-signature=RDiLOnrPGqXVipVA5w3t1x6gOxU%3D",
-            "title": "Ed Sheeran",
-            "subTitle": "@edsheeran",
-            "description": "Subtract. Out now.",
-            "link": "/@edsheeran",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 14200000,
-              "likes": 156400000,
-              "userId": "173245838817808384",
-              "secUid": "MS4wLjABAAAAW-m9le-3IwWQcihDj2Io53yCuEgz0wb1Np_JY3chG8vAsK_fzWmK2NWaz1nzttoD",
-              "relation": 0,
-              "video": 273,
-              "following": 1,
-              "heart": 156400000,
-              "digg": 121
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1692172800&x-signature=t%2BWjXwWtSR46%2BdlB2C8ZjH%2BKJQo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6ddd0e7d384d4e3fc8e9265795ba93fb~c5_100x100.jpeg?x-expires=1692172800&x-signature=To1bKSkn7jxzOQYD8IqZaK9uLRg%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me … Now 💚",
@@ -473,9 +447,61 @@
         },
         {
           "cardItem": {
+            "id": "85228440332730368",
+            "type": 2,
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1692172800&x-signature=CysIeNtv8zLalSFo9BNYycp7m2s%3D",
+            "title": "daddyyankee",
+            "subTitle": "@daddyyankee",
+            "description": "New music #BEACHY🏝☀️👙",
+            "link": "/@daddyyankee",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 14700000,
+              "likes": 63400000,
+              "userId": "85228440332730368",
+              "secUid": "MS4wLjABAAAAtBGdHy8_cZCxKRqL4b8y_Lai6He42r3Aqe3xEmaU-ANTnQRK2h-y1xB_xy2z-GE2",
+              "relation": 0,
+              "video": 78,
+              "following": 11,
+              "heart": 63400000,
+              "digg": 3475
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "173245838817808384",
+            "type": 2,
+            "cover": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/293d4a966a91358ee40d3ca1151eee30~c5_100x100.jpeg?x-expires=1692172800&x-signature=HBqWgzF1hjclCjH1ZKa524aXUNc%3D",
+            "title": "Ed Sheeran",
+            "subTitle": "@edsheeran",
+            "description": "Subtract. Out now.",
+            "link": "/@edsheeran",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 14200000,
+              "likes": 156400000,
+              "userId": "173245838817808384",
+              "secUid": "MS4wLjABAAAAW-m9le-3IwWQcihDj2Io53yCuEgz0wb1Np_JY3chG8vAsK_fzWmK2NWaz1nzttoD",
+              "relation": 0,
+              "video": 273,
+              "following": 1,
+              "heart": 156400000,
+              "digg": 121
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1692172800&x-signature=LVzOGJmBz9iRGJj5%2BfSNpPfCpN4%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1692172800&x-signature=sFrPYJhQlBhyPTZKxa7HIxV2FLQ%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “Get Up Kid” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼",
@@ -551,27 +577,53 @@
         },
         {
           "cardItem": {
-            "id": "85228440332730368",
+            "id": "142565009246584832",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1692172800&x-signature=Q2jgRaWKPlD%2FzgM525B%2FclSXryA%3D",
-            "title": "daddyyankee",
-            "subTitle": "@daddyyankee",
-            "description": "New music #BEACHY🏝☀️👙",
-            "link": "/@daddyyankee",
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665504992747525~c5_100x100.jpeg?x-expires=1692172800&x-signature=ZN8KebPB3z7Rv2YegYtiyRlv41Y%3D",
+            "title": "marshmello",
+            "subTitle": "@marshmello",
+            "description": "Be a good person ⛳️",
+            "link": "/@marshmello",
             "round": true,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
               "verified": true,
-              "fans": 14700000,
-              "likes": 63400000,
-              "userId": "85228440332730368",
-              "secUid": "MS4wLjABAAAAtBGdHy8_cZCxKRqL4b8y_Lai6He42r3Aqe3xEmaU-ANTnQRK2h-y1xB_xy2z-GE2",
+              "fans": 23700000,
+              "likes": 219800000,
+              "userId": "142565009246584832",
+              "secUid": "MS4wLjABAAAAoIjsp53EitSm7GKWMT2VaeDZA25CzmzbvLDyFUJwpCZk7B5PmCoYlO2cV4y_-it9",
               "relation": 0,
-              "video": 78,
-              "following": 11,
-              "heart": 63400000,
-              "digg": 3475
+              "video": 493,
+              "following": 216,
+              "heart": 219800000,
+              "digg": 4189
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "6746264168812659717",
+            "type": 2,
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1692172800&x-signature=vNW1YbpTI91ZIVRRZJr%2FnY0DX4o%3D",
+            "title": "Terry Crews",
+            "subTitle": "@terrycrews",
+            "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
+            "link": "/@terrycrews",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 23800000,
+              "likes": 122100000,
+              "userId": "6746264168812659717",
+              "secUid": "MS4wLjABAAAAeorUnEgxFuiNspeal1-82s8pfmSKCojvGFhL3fDrspFgBDzg084_uu4KrGLwKVZD",
+              "relation": 0,
+              "video": 219,
+              "following": 82,
+              "heart": 122100000,
+              "digg": 441
             }
           }
         },
@@ -603,61 +655,9 @@
         },
         {
           "cardItem": {
-            "id": "142565009246584832",
-            "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1665504992747525~c5_100x100.jpeg?x-expires=1692172800&x-signature=ZN8KebPB3z7Rv2YegYtiyRlv41Y%3D",
-            "title": "marshmello",
-            "subTitle": "@marshmello",
-            "description": "Be a good person ⛳️",
-            "link": "/@marshmello",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 23700000,
-              "likes": 219800000,
-              "userId": "142565009246584832",
-              "secUid": "MS4wLjABAAAAoIjsp53EitSm7GKWMT2VaeDZA25CzmzbvLDyFUJwpCZk7B5PmCoYlO2cV4y_-it9",
-              "relation": 0,
-              "video": 493,
-              "following": 216,
-              "heart": 219800000,
-              "digg": 4189
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "6746264168812659717",
-            "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1692172800&x-signature=mysKrzIGlZs0DzuIvBVxBCan32Y%3D",
-            "title": "Terry Crews",
-            "subTitle": "@terrycrews",
-            "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
-            "link": "/@terrycrews",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 23800000,
-              "likes": 122100000,
-              "userId": "6746264168812659717",
-              "secUid": "MS4wLjABAAAAeorUnEgxFuiNspeal1-82s8pfmSKCojvGFhL3fDrspFgBDzg084_uu4KrGLwKVZD",
-              "relation": 0,
-              "video": 219,
-              "following": 82,
-              "heart": 122100000,
-              "digg": 441
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1692172800&x-signature=zHUiI8idPWWagI8lFMMZadVYFt8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1692172800&x-signature=DQsFqv3hS34SX9S8noVyXhu6Y0U%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "723.8M views",
+            "subTitle": "723.9M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 723800000,
+              "views": 723900000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
