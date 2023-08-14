@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692162000&x-signature=G0fbbWQqBpIhzzpI8SvmeYlEWow%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692162000&x-signature=Vwwe5aqjt0Tu9GBq9rlGBVpqsS0%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1692162000&x-signature=Dx8HAKhmtt1ZasU03bWWDQk29v0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1692162000&x-signature=R6m2k2DugZHjLcK1eUD9YPcKrYQ%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1692162000&x-signature=ntWrryeDNkJe0zzTjbdZTlaFxNo%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1692162000&x-signature=tBLU%2B0UcEx0wee4DON8AOog0i8Q%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692162000&x-signature=UCLhRU9tNe2SrdhHfWXPgXAv7Es%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692162000&x-signature=HCz4pZ1mu6uNAY%2FOcEkj2waRA8U%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1692162000&x-signature=%2FwhWhU82J22S8cRE9kucwpekdEM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1692162000&x-signature=XQ7YoqvwKqmTnEGMC504K%2Fobc%2BA%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1692162000&x-signature=xOh7R7T8anmctBpEiD5MbyzAIo8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1692162000&x-signature=36qx6EEfnO09ThjRU%2FJ%2Fl6Odhs8%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "722.9M views",
+            "subTitle": "723M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 722900000,
+              "views": 723000000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
