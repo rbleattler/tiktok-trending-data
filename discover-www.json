@@ -31,32 +31,6 @@
         },
         {
           "cardItem": {
-            "id": "97614653324771328",
-            "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692345600&x-signature=P7o0K4gaKWlW1pWvgXTps3m32Zw%3D",
-            "title": "Selena Gomez",
-            "subTitle": "@selenagomez",
-            "description": "",
-            "link": "/@selenagomez",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 59100000,
-              "likes": 593900000,
-              "userId": "97614653324771328",
-              "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
-              "relation": 0,
-              "video": 196,
-              "following": 73,
-              "heart": 593900000,
-              "digg": 2035
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "6881290705605477381",
             "type": 2,
             "cover": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/13f2a0d585f3cd8578da0d18c36a18c4~c5_100x100.jpeg?x-expires=1692345600&x-signature=heVYfx3xjHVlysVlJ%2F%2FH446PVHE%3D",
@@ -109,6 +83,32 @@
         },
         {
           "cardItem": {
+            "id": "97614653324771328",
+            "type": 2,
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692345600&x-signature=uwkLwslyejWffyxpb5c4UK%2FHwxA%3D",
+            "title": "Selena Gomez",
+            "subTitle": "@selenagomez",
+            "description": "",
+            "link": "/@selenagomez",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 59100000,
+              "likes": 593900000,
+              "userId": "97614653324771328",
+              "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
+              "relation": 0,
+              "video": 196,
+              "following": 73,
+              "heart": 593900000,
+              "digg": 2035
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
             "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1692345600&x-signature=Un%2B%2BDfghVRRVJT6nTcgzkaoSq1I%3D",
@@ -135,32 +135,6 @@
         },
         {
           "cardItem": {
-            "id": "6745191554350760966",
-            "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1692345600&x-signature=mCi4Ldo%2F98lj0n0NCMIXLUERr%2FU%3D",
-            "title": "The Rock",
-            "subTitle": "@therock",
-            "description": "CEO of #RockTok\nLife’s so much sweeter when you’re not an asshole",
-            "link": "/@therock",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 71400000,
-              "likes": 488600000,
-              "userId": "6745191554350760966",
-              "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
-              "relation": 0,
-              "video": 166,
-              "following": 1,
-              "heart": 488600000,
-              "digg": 9
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
             "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1692345600&x-signature=Uj5CWawbhdBJfC7MVFdidJuhHNg%3D",
@@ -182,6 +156,32 @@
               "following": 0,
               "heart": 12600000,
               "digg": 0
+            }
+          }
+        },
+        {
+          "cardItem": {
+            "id": "6745191554350760966",
+            "type": 2,
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1692345600&x-signature=mCi4Ldo%2F98lj0n0NCMIXLUERr%2FU%3D",
+            "title": "The Rock",
+            "subTitle": "@therock",
+            "description": "CEO of #RockTok\nLife’s so much sweeter when you’re not an asshole",
+            "link": "/@therock",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 71400000,
+              "likes": 488600000,
+              "userId": "6745191554350760966",
+              "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
+              "relation": 0,
+              "video": 166,
+              "following": 1,
+              "heart": 488600000,
+              "digg": 9
             }
           }
         },
@@ -317,32 +317,6 @@
         },
         {
           "cardItem": {
-            "id": "6711995161218286598",
-            "type": 2,
-            "cover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/9c24b560b0d0f350ea22481d0bd316f2~c5_100x100.jpeg?x-expires=1692345600&x-signature=xRwFV%2BruG2KzXuSE8dZNdg0%2BIXA%3D",
-            "title": "Sam Smith",
-            "subTitle": "@samsmith",
-            "description": "DESIRE \nCALVIN HARRIS",
-            "link": "/@samsmith",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 8700000,
-              "likes": 125200000,
-              "userId": "6711995161218286598",
-              "secUid": "MS4wLjABAAAAo6owCzQgiv9Xm_6O6lJHs85_whEc5JAjUDlmRO4vOH164H4zF2M3PYXBJtPhzXMz",
-              "relation": 0,
-              "video": 289,
-              "following": 120,
-              "heart": 125200000,
-              "digg": 273
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
             "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1692345600&x-signature=wDQYZyGG4Hif0tOH76zfKTWiPsk%3D",
@@ -369,9 +343,35 @@
         },
         {
           "cardItem": {
+            "id": "6711995161218286598",
+            "type": 2,
+            "cover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/9c24b560b0d0f350ea22481d0bd316f2~c5_100x100.jpeg?x-expires=1692345600&x-signature=xRwFV%2BruG2KzXuSE8dZNdg0%2BIXA%3D",
+            "title": "Sam Smith",
+            "subTitle": "@samsmith",
+            "description": "DESIRE \nCALVIN HARRIS",
+            "link": "/@samsmith",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 8700000,
+              "likes": 125200000,
+              "userId": "6711995161218286598",
+              "secUid": "MS4wLjABAAAAo6owCzQgiv9Xm_6O6lJHs85_whEc5JAjUDlmRO4vOH164H4zF2M3PYXBJtPhzXMz",
+              "relation": 0,
+              "video": 289,
+              "following": 120,
+              "heart": 125200000,
+              "digg": 273
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692345600&x-signature=IRMHeIldOZ7qU9lR6WzaOXu2%2Bro%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692345600&x-signature=ZxS33PkR%2BdVQXHJlbE55ru%2Fi9IQ%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1692345600&x-signature=fATn%2Bf0%2Bb56Ust%2BqTddBJ2wu9a8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1692345600&x-signature=J6dlGKDiVvRubZlX9vu2U1lel5Q%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -707,32 +707,6 @@
         },
         {
           "cardItem": {
-            "id": "6730007015793771525",
-            "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652392319210501~c5_100x100.jpeg?x-expires=1692345600&x-signature=SyDJivtMUCQXsXlNaqTzKs4HHMw%3D",
-            "title": "Kevin Hart",
-            "subTitle": "@imkevinhart",
-            "description": "\"Live Love & Laugh\" \nFacebook.com/HartKevin",
-            "link": "/@imkevinhart",
-            "round": true,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "verified": true,
-              "fans": 35000000,
-              "likes": 182200000,
-              "userId": "6730007015793771525",
-              "secUid": "MS4wLjABAAAA5bchfwPs-XIqIsp7AIaDrrs05b3VAC9A8qZj2T016CvP9d_uYZfyOuzvqj4cKACj",
-              "relation": 0,
-              "video": 127,
-              "following": 15,
-              "heart": 182200000,
-              "digg": 20
-            }
-          }
-        },
-        {
-          "cardItem": {
             "id": "6738864848179299333",
             "type": 2,
             "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/86ea78cd28914f5c451914f80e71d7aa~c5_100x100.jpeg?x-expires=1692345600&x-signature=F2QcQq3gJ9HjbKlaQIIX37hlmmY%3D",
@@ -759,9 +733,35 @@
         },
         {
           "cardItem": {
+            "id": "6730007015793771525",
+            "type": 2,
+            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1652392319210501~c5_100x100.jpeg?x-expires=1692345600&x-signature=SyDJivtMUCQXsXlNaqTzKs4HHMw%3D",
+            "title": "Kevin Hart",
+            "subTitle": "@imkevinhart",
+            "description": "\"Live Love & Laugh\" \nFacebook.com/HartKevin",
+            "link": "/@imkevinhart",
+            "round": true,
+            "playToken": "",
+            "keyToken": "",
+            "extraInfo": {
+              "verified": true,
+              "fans": 35000000,
+              "likes": 182200000,
+              "userId": "6730007015793771525",
+              "secUid": "MS4wLjABAAAA5bchfwPs-XIqIsp7AIaDrrs05b3VAC9A8qZj2T016CvP9d_uYZfyOuzvqj4cKACj",
+              "relation": 0,
+              "video": 127,
+              "following": 15,
+              "heart": 182200000,
+              "digg": 20
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1692345600&x-signature=wW3UtIIU3kwNEEqL469XritXcsU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1692345600&x-signature=DCxFT7nBJiEiDPe4gxIwhAdWK1s%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "747.8M views",
+            "subTitle": "748.2M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 747800000,
+              "views": 748200000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
@@ -1138,13 +1138,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f.jpeg",
             "title": "Holly Jolly Christmas",
-            "subTitle": "95.6K videos",
+            "subTitle": "95.5K videos",
             "description": "Michael Bublé",
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
-              "posts": 95600
+              "posts": 95500
             }
           }
         },
@@ -1157,13 +1157,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5.jpeg",
             "title": "真夜中のドア〜stay with me",
-            "subTitle": "419.7K videos",
+            "subTitle": "419.6K videos",
             "description": "松原みき",
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 419700
+              "posts": 419600
             }
           }
         }
