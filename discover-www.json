@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692410400&x-signature=kl8SBhyulXbwh9wp5qPI78YZwWk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692410400&x-signature=RHB2KnTbFbx3L6QtmBigove6eV0%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1692410400&x-signature=kHLlQHNiSkBtAg4XuBOMaDacEdI%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1692410400&x-signature=2o9PqgPgWDN5ICiMLxRdt4%2Bb0%2FQ%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1692410400&x-signature=0gXnixGewHmLPVWUQorcWfdrrHA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1692410400&x-signature=3r9PzdEHJ%2BQZEJ8tc%2BUYEq73Gh8%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -415,7 +415,7 @@
               "video": 78,
               "following": 11,
               "heart": 63400000,
-              "digg": 3484
+              "digg": 3490
             }
           }
         },
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6653097460997521414",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1692410400&x-signature=79HUZaMpX4IWH%2FFyAcyUCjlq5I0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg?x-expires=1692410400&x-signature=QWN8IBTZmdnGvawyIYzf0WShrZk%3D",
             "title": "Steve Harvey",
             "subTitle": "@steveharvey",
             "description": "It’s your man here, now let imagination lead the way.",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "764.7M views",
+            "subTitle": "765.1M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 764700000,
+              "views": 765100000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
