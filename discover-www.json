@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1692496800&x-signature=is7ZqvB%2F3cd8F9IqJzcDjHM%2FfhY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1692496800&x-signature=9NDQaP33A%2BiavJN4IzuVG26EAac%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692496800&x-signature=eLDVzEkWieK0P8M1mcvGwdMyVf4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1692496800&x-signature=HQfkikxV2r91cCHoaLpkm1rMIEw%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -285,7 +285,7 @@
               "video": 875,
               "following": 21,
               "heart": 1300000000,
-              "digg": 3684
+              "digg": 3686
             }
           }
         },
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1692496800&x-signature=xZ4F1JtDuRIjyjICW%2BGiOTNzfc4%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1692496800&x-signature=QKYIBO3FLD8y1FjQQR8QQNN%2Fn8s%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -571,7 +571,7 @@
               "video": 494,
               "following": 217,
               "heart": 219900000,
-              "digg": 4200
+              "digg": 4201
             }
           }
         },
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "788.2M views",
+            "subTitle": "788.5M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 788200000,
+              "views": 788500000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
