@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1692738000&x-signature=V55UXq3wtpubGe1mnL3SsIi8dMg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1692738000&x-signature=BtSYT2dEAdUtRm9MUrQhmclHnow%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -337,7 +337,7 @@
               "video": 191,
               "following": 1,
               "heart": 112300000,
-              "digg": 7717
+              "digg": 7718
             }
           }
         },
@@ -415,7 +415,7 @@
               "video": 78,
               "following": 11,
               "heart": 63500000,
-              "digg": 3536
+              "digg": 3537
             }
           }
         },
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1692738000&x-signature=jrxwKZaIwxmphngTo33TGUUOEYk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1692738000&x-signature=l000Vv1dqmv4Muap7d1rY1jyTBM%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -642,13 +642,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 14200000,
-              "likes": 156600000,
+              "likes": 156700000,
               "userId": "173245838817808384",
               "secUid": "MS4wLjABAAAAW-m9le-3IwWQcihDj2Io53yCuEgz0wb1Np_JY3chG8vAsK_fzWmK2NWaz1nzttoD",
               "relation": 0,
               "video": 274,
               "following": 1,
-              "heart": 156600000,
+              "heart": 156700000,
               "digg": 130
             }
           }
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1692738000&x-signature=ZU7lMnwEW9bpJIxXCw96AyiBvr8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1692738000&x-signature=1FlbWVW6fiw6ZlZdbGJWP%2FrIj%2FU%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "",
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "843M views",
+            "subTitle": "843.4M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 843000000,
+              "views": 843400000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
