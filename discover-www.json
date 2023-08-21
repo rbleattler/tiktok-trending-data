@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1692799200&x-signature=W3Jp8iWmEA0dgmDWpO5gFIkBRNc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1692799200&x-signature=vMhnKX8uiGjW2i%2FsXCg4D8vxLYg%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692799200&x-signature=TPCZwzrYs%2Bta8HSQNcY7%2BAsRizY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692799200&x-signature=V%2FPlLyBVdijjY%2FvSqh7CKRFhJ5E%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1692799200&x-signature=JdNbyC8aEP8xsLBSb8CLmo553Ok%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1692799200&x-signature=8UYWfKzQd1dHHZghyVTdclDC8PY%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6779798771846431749",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ff2644668bd0045f74dad1b09d9f3a3~c5_100x100.jpeg?x-expires=1692799200&x-signature=WL9bhverch4C1hP%2BkDq%2BnxpVxFo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ff2644668bd0045f74dad1b09d9f3a3~c5_100x100.jpeg?x-expires=1692799200&x-signature=FfyEn3wD8%2FAWcw2ZGIOK6i61g0A%3D",
             "title": "Usher Raymond",
             "subTitle": "@usher",
             "description": "‘Boyfriend’ OUT NOW \nRendez-Vous à Paris | Sept 2023 🇫🇷",
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png",
             "title": "#longervideos",
-            "subTitle": "17.8B views",
+            "subTitle": "17.9B views",
             "description": "Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok",
             "link": "/tag/longervideos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 17800000000,
+              "views": 17900000000,
               "challengeId": "1604297750222853",
               "challengeName": "longervideos"
             }
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "853.7M views",
+            "subTitle": "854.1M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 853700000,
+              "views": 854100000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
