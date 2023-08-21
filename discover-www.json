@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1692828000&x-signature=bHNf2UhZSFXZHDBOChLXbqeU9eo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1692828000&x-signature=5%2FRh9lb15VmsJj7kIox1E8tJR5w%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1692828000&x-signature=vf5ttdvqaYACFKKZFpYNRVfo%2FTU%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1692828000&x-signature=64H6rZihuhy4zKjhP8WjqO32TFQ%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#RedRubyDaSleeze",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "6961458548681819142",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692828000&x-signature=jZ6DCpPWRMrL72ocYo713s84Ll0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/169691a54e874aeaabccf8adc3bed048~c5_100x100.jpeg?x-expires=1692828000&x-signature=Pj1HjFar0Et0rjv5YGCqybvLu1c%3D",
             "title": "Ryan Reynolds",
             "subTitle": "@vancityreynolds",
             "description": "Owner of Aviation Gin, Mint Mobile, Maximum Effort and Wrexham AFC",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1692828000&x-signature=2n75ZcTvCLNWsSiQG6Ibuez%2FTPE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1692828000&x-signature=%2FWSdHF1zhc45YyFXSUYohhB5Wg4%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1692828000&x-signature=nR784qj9Pu15%2F0vUYzooEVgKtvo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/3dc2e75dc353cad96bd31f6c859bbfa3~c5_100x100.jpeg?x-expires=1692828000&x-signature=kihTqrSERhBEKhOglnAJ2y%2B18wE%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "",
@@ -720,13 +720,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 18000000,
-              "likes": 174700000,
+              "likes": 174800000,
               "userId": "228700074422296576",
               "secUid": "MS4wLjABAAAA7mkK82iTrmsU2bIS-imXrRhTLxznudE5HAJGptmsdCb_sSj-EYfPFITk2ZPVVHuD",
               "relation": 0,
               "video": 224,
               "following": 0,
-              "heart": 174700000,
+              "heart": 174800000,
               "digg": 286
             }
           }
@@ -819,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "859.5M views",
+            "subTitle": "859.8M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 859500000,
+              "views": 859800000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
