@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1693533600&x-signature=r0rusx2SK76FGrpUZOw%2FA3lFOJc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1693533600&x-signature=HYRIpitj9thvfEWo2k3tHONAo5o%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -51,7 +51,7 @@
               "video": 198,
               "following": 73,
               "heart": 605100000,
-              "digg": 2049
+              "digg": 2050
             }
           }
         },
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1693533600&x-signature=H%2BG%2FVqjvJjX9HhjZWhXcKiL6RqI%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1693533600&x-signature=qBrS%2Fo7nkicCNPLnXuEUeV%2FUmNw%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "USED TO BE YOUNG. OUT NOW.",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1693533600&x-signature=wpP2yRPZ3vN0KMBw9VNrRNpO1LU%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1693533600&x-signature=Bb08TjGs95upFZq%2BENxSMVnP%2BhQ%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -386,7 +386,6 @@
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
               "relation": 0,
-              "roomId": "7272927407072725802",
               "video": 194,
               "following": 2,
               "heart": 113300000,
@@ -450,7 +449,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1693533600&x-signature=eNIrZzfPGrpaFIzTtFLq8PLKibw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1693533600&x-signature=DDxx6Ex0H%2BGSwL02kSOeYWv11gM%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -658,7 +657,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1693533600&x-signature=Hr%2FDeU%2Flcq9YS0ml%2BQUEc13%2Fp3g%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cdfc610d719108f952b455dd81b278de~c5_100x100.jpeg?x-expires=1693533600&x-signature=I0wrS9kaJJZNqafhFhKAb91cbkw%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “SEASONS” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼",
@@ -820,14 +819,14 @@
             "id": "235463",
             "type": 3,
             "title": "#1min",
-            "subTitle": "991.7M views",
+            "subTitle": "991.9M views",
             "description": "",
             "link": "/tag/1min",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 991700000,
+              "views": 991900000,
               "challengeId": "235463",
               "challengeName": "1min"
             }
