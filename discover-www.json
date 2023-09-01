@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1693753200&x-signature=WfQmDWE7DepZT%2BCcqv%2BQ3PMK3i8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1693753200&x-signature=LyneR9A6hojZLEmgS0OzziBKuVU%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -44,13 +44,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 59300000,
-              "likes": 606000000,
+              "likes": 606100000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
               "video": 198,
               "following": 73,
-              "heart": 606000000,
+              "heart": 606100000,
               "digg": 2059
             }
           }
@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1693753200&x-signature=ZekRJ55WK7Omtvo7tAoFSvODB%2Bk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1693753200&x-signature=wWLskdjhiCgaYm9MQz%2BzXp8tiL8%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1693753200&x-signature=gOAr1YaXS1cMex06eT2KW4TfIyI%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1693753200&x-signature=j5TX1QnmdtUovbjSGQGohcNYGjQ%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1693753200&x-signature=h25n0cN%2B8lMzZKe82Ry6cI1hMmg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1693753200&x-signature=r8%2BiAIOq87QQfhhGcr8cchjzzOs%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#LastTimeISawYou",
@@ -564,13 +564,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 14300000,
-              "likes": 157300000,
+              "likes": 157400000,
               "userId": "173245838817808384",
               "secUid": "MS4wLjABAAAAW-m9le-3IwWQcihDj2Io53yCuEgz0wb1Np_JY3chG8vAsK_fzWmK2NWaz1nzttoD",
               "relation": 0,
               "video": 278,
               "following": 1,
-              "heart": 157300000,
+              "heart": 157400000,
               "digg": 134
             }
           }
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6608112662742138886",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1ad725f549e4e0a3da316c72ec8144da~c5_100x100.jpeg?x-expires=1693753200&x-signature=tkqqNYhmv6qhaUSDnu1yQjAbgHQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1ad725f549e4e0a3da316c72ec8144da~c5_100x100.jpeg?x-expires=1693753200&x-signature=ofXr7RrtLflF9bLSaN8yrtPsrbo%3D",
             "title": "madonna",
             "subTitle": "@madonna",
             "description": "❤️🧡💛💚💙💜",
@@ -838,14 +838,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "99.3B views",
+            "subTitle": "99.4B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 99300000000,
+              "views": 99400000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
