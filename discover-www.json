@@ -70,13 +70,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 17200000,
-              "likes": 142900000,
+              "likes": 143000000,
               "userId": "6760381874016912390",
               "secUid": "MS4wLjABAAAAnb7UrYm7BoqTzDSu6XphP68sueqPwuXJeHhJcYMye9NNlA7-nh427qHb_e-Al5ES",
               "relation": 0,
               "video": 44,
               "following": 0,
-              "heart": 142900000,
+              "heart": 143000000,
               "digg": 5256
             }
           }
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1694854800&x-signature=gLU%2BMeVpwz4mWnVYbttnbWmn6L0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1694854800&x-signature=CptS6UBrq4uznVhtUWXaSp3A5M8%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1694854800&x-signature=H4vnbaM4ESj9%2Fe937Q9uJH1qswk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1694854800&x-signature=ahzA4O4hkh996zkW0HcbzwlyGLg%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "USED TO BE YOUNG. OUT NOW.",
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1694854800&x-signature=QjoZCRM94gxDxjLnVhbo%2B%2B%2BVTTc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1694854800&x-signature=Vtck17ywp0ZZL9NzY6WyXKecvvw%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "6779798771846431749",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ff2644668bd0045f74dad1b09d9f3a3~c5_100x100.jpeg?x-expires=1694854800&x-signature=bnp2I758kFbQTovC8YvcYXGhPBQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ff2644668bd0045f74dad1b09d9f3a3~c5_100x100.jpeg?x-expires=1694854800&x-signature=0XvX7MXrxoQuxfRykteUeakTg%2Bw%3D",
             "title": "Usher Raymond",
             "subTitle": "@usher",
             "description": "‘Good Good’ Official Music Video OUT NOW \nRendez-Vous à Paris | Sept 2023 🇫🇷",
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png",
             "title": "#longervideos",
-            "subTitle": "32.2B views",
+            "subTitle": "32.3B views",
             "description": "Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok",
             "link": "/tag/longervideos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 32200000000,
+              "views": 32300000000,
               "challengeId": "1604297750222853",
               "challengeName": "longervideos"
             }
