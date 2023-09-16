@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1695009600&x-signature=IQJY3UPgZqqlFkJUrpFZZKlhDHw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1695009600&x-signature=wpN%2B%2BDZOoPw4xIbEc%2F%2FxyNXl8to%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -44,14 +44,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 59400000,
-              "likes": 608500000,
+              "likes": 608700000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
-              "video": 197,
+              "video": 198,
               "following": 73,
-              "heart": 608500000,
-              "digg": 2064
+              "heart": 608700000,
+              "digg": 2063
             }
           }
         },
@@ -70,13 +70,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 17400000,
-              "likes": 148100000,
+              "likes": 148200000,
               "userId": "6760381874016912390",
               "secUid": "MS4wLjABAAAAnb7UrYm7BoqTzDSu6XphP68sueqPwuXJeHhJcYMye9NNlA7-nh427qHb_e-Al5ES",
               "relation": 0,
               "video": 46,
               "following": 0,
-              "heart": 148100000,
+              "heart": 148200000,
               "digg": 5257
             }
           }
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1695009600&x-signature=cY5TPhAwY3XtTZ5kFYc4PdU1Gl4%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1695009600&x-signature=kY7eV5EVLhbt0PT8SsSeybkm%2FL8%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1695009600&x-signature=Q9kdoAhQ%2F%2Fu0QHGbMG8iV1EBgXM%3D",
+            "cover": "https://p77-sign-va-lite.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1695009600&x-signature=uDKAeEPrPg%2FHYK47JgFCsOJ25o8%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1695009600&x-signature=hXjCpmPbklxWMMhoYWDoTZlq2dw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1695009600&x-signature=EFQbGkP%2FEcDThinvPh2FviS2bYU%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -278,14 +278,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 18600000,
-              "likes": 116200000,
+              "likes": 116400000,
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
               "relation": 0,
               "video": 207,
               "following": 2,
-              "heart": 116200000,
-              "digg": 8171
+              "heart": 116400000,
+              "digg": 8204
             }
           }
         },
@@ -330,13 +330,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 4100000,
-              "likes": 45600000,
+              "likes": 45700000,
               "userId": "6930646914937930757",
               "secUid": "MS4wLjABAAAAfXjcYoR1XGi3ox2_2f_2bZjmlYmOu222adadnAcXD6Y6-qeMTJql-x0xBNlZPkU3",
               "relation": 0,
               "video": 66,
               "following": 1,
-              "heart": 45600000,
+              "heart": 45700000,
               "digg": 0
             }
           }
@@ -423,7 +423,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1695009600&x-signature=AgHlWXlr5mJyBe4%2B1L1raWH9Q%2Fo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1695009600&x-signature=TZDegkMH2XH9d7L9zWHhgy%2B%2BkCk%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "6779798771846431749",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ff2644668bd0045f74dad1b09d9f3a3~c5_100x100.jpeg?x-expires=1695009600&x-signature=2dIlKryqMBK%2FE7fRxA18MhEZ0HE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ff2644668bd0045f74dad1b09d9f3a3~c5_100x100.jpeg?x-expires=1695009600&x-signature=bsi6WsR6YHEX2Cv3FqA4ul27ZRU%3D",
             "title": "Usher Raymond",
             "subTitle": "@usher",
             "description": "‘Good Good’ Official Music Video OUT NOW \nRendez-Vous à Paris | Sept 2023 🇫🇷",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5f750bdf859bcc231003a68a96478088~c5_100x100.jpeg?x-expires=1695009600&x-signature=g64CjNWl9VRUTpUEbKJ6GZYKH98%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5f750bdf859bcc231003a68a96478088~c5_100x100.jpeg?x-expires=1695009600&x-signature=WZrVUHwEOsWwnBEEUMSVbrlIMEM%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New single “WORLD ON FIRE” OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1695009600&x-signature=UvOj%2Fre3bJRKwTUIypY%2BlL575j0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1695009600&x-signature=btxR5t%2FpzuF6Q4M7H14jkXq%2BNi4%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
