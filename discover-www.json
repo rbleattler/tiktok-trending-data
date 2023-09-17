@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1695117600&x-signature=AihRDUhiWA9tlzmoXR2A4Ju3qw4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1695117600&x-signature=UIMaJlsobSw%2F9JJVJMrgSADiKCY%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "USED TO BE YOUNG. OUT NOW.",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1695117600&x-signature=8i7aaVqLvRbcWXJgEvB8n2suAsE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1695117600&x-signature=7Z1kt%2B7uZvdpRriktgQwDgLdKUQ%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1695117600&x-signature=VzgsPfSIXzlQ7oLPawlpx5lPAvI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/751556c65be266b973dca10b753bd73d~c5_100x100.jpeg?x-expires=1695117600&x-signature=YhPNLy2gXQRZL%2Bi1cnQHqpCovVw%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#LastTimeISawYou",
@@ -285,7 +285,7 @@
               "video": 209,
               "following": 2,
               "heart": 116900000,
-              "digg": 8283
+              "digg": 8284
             }
           }
         },
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/959147e5bb928c06f78a9c8df5d3bbe9~c5_100x100.jpeg?x-expires=1695117600&x-signature=o2kQFAqUaJ%2FMGciZRdBlh1pipy0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/959147e5bb928c06f78a9c8df5d3bbe9~c5_100x100.jpeg?x-expires=1695117600&x-signature=Q3FR%2FSyarjATCbaL7M5%2FK0J%2B3TE%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "Enseñame los dientes 🦷",
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png",
             "title": "#longervideos",
-            "subTitle": "34.1B views",
+            "subTitle": "34.2B views",
             "description": "Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok",
             "link": "/tag/longervideos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 34100000000,
+              "views": 34200000000,
               "challengeId": "1604297750222853",
               "challengeName": "longervideos"
             }
@@ -1062,13 +1062,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/oAkS3emtDIGIg60tslbnsAmCZAxbknQmBAGeBR.jpeg",
             "title": "The Assignment",
-            "subTitle": "536.1K videos",
+            "subTitle": "536.2K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 536100
+              "posts": 536200
             }
           }
         },
