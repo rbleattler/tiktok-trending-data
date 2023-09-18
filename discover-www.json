@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1695186000&x-signature=hf1kQNfghkiBi8YTwoWUuE5mp6c%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1695186000&x-signature=GjqXkc1RegenZsahBNhNfh52H3I%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1695186000&x-signature=h38Jq3znUFZATlz6NPGnxo70K%2Fk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1695186000&x-signature=kF0ipwe2r8SH3PgP%2FiLv0cSdQDU%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -356,13 +356,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 2200000,
-              "likes": 6700000,
+              "likes": 6800000,
               "userId": "7050076999289521158",
               "secUid": "MS4wLjABAAAAFFnnU79C5yrDL_Sm1pWwOGAPt3fFpfCDxP9HgGgn16dSovFSSRpfTdV9B0cURnxP",
               "relation": 0,
               "video": 10,
               "following": 114,
-              "heart": 6700000,
+              "heart": 6800000,
               "digg": 119
             }
           }
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/959147e5bb928c06f78a9c8df5d3bbe9~c5_100x100.jpeg?x-expires=1695186000&x-signature=4uo7FaZO80ogqAST54DwR%2Bly85A%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/959147e5bb928c06f78a9c8df5d3bbe9~c5_100x100.jpeg?x-expires=1695186000&x-signature=UteKvKrtcasilkpvpNpzsrbvY6E%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "Enseñame los dientes 🦷",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1695186000&x-signature=ttYi095lzIk97qvETJyUpPanEfc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1695186000&x-signature=LbO8Q9fYtclskzHYf5F5UYNn85s%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -1157,13 +1157,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5.jpeg",
             "title": "真夜中のドア〜stay with me",
-            "subTitle": "420.8K videos",
+            "subTitle": "420.9K videos",
             "description": "松原みき",
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 420800
+              "posts": 420900
             }
           }
         }
