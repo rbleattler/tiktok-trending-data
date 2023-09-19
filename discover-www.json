@@ -48,7 +48,7 @@
               "userId": "6760381874016912390",
               "secUid": "MS4wLjABAAAAnb7UrYm7BoqTzDSu6XphP68sueqPwuXJeHhJcYMye9NNlA7-nh427qHb_e-Al5ES",
               "relation": 0,
-              "video": 47,
+              "video": 48,
               "following": 0,
               "heart": 151700000,
               "digg": 5263
@@ -70,14 +70,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 59500000,
-              "likes": 609200000,
+              "likes": 608900000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
-              "video": 198,
+              "video": 197,
               "following": 73,
-              "heart": 609200000,
-              "digg": 2063
+              "heart": 608900000,
+              "digg": 2064
             }
           }
         },
@@ -85,7 +85,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1695326400&x-signature=u4yVYjX1VdBaND%2FgWVXl3p2UavA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/822e1be1e40a71d7c494b8a7158b7afc~c5_100x100.jpeg?x-expires=1695326400&x-signature=VAa9SQ1WLuytIDHEK8VdCJvbro0%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1695326400&x-signature=ISOZOWQ0BWrhunIfXLj54p2zVNs%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1695326400&x-signature=pJY9pf5dLThPWSgvgP%2BVDfityyA%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1695326400&x-signature=X8QtFIH3qZpTKCip8WKpKgr%2Bwnk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1695326400&x-signature=U0lWD6PgkpuVr4Cs1xwggtC%2Bdi4%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "USED TO BE YOUNG. OUT NOW.",
@@ -252,14 +252,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 18700000,
-              "likes": 117200000,
+              "likes": 117100000,
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
               "relation": 0,
               "video": 209,
               "following": 2,
-              "heart": 117200000,
-              "digg": 8299
+              "heart": 117100000,
+              "digg": 8266
             }
           }
         },
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1695326400&x-signature=PLlhSJ1zR6mKg8tG9sKlzhI2k14%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1695326400&x-signature=%2F%2Bm7qhCZ%2FJuGAJ7nZCkyy2ZfnoQ%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -304,13 +304,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 2300000,
-              "likes": 8300000,
+              "likes": 8400000,
               "userId": "7050076999289521158",
               "secUid": "MS4wLjABAAAAFFnnU79C5yrDL_Sm1pWwOGAPt3fFpfCDxP9HgGgn16dSovFSSRpfTdV9B0cURnxP",
               "relation": 0,
               "video": 10,
               "following": 114,
-              "heart": 8300000,
+              "heart": 8400000,
               "digg": 120
             }
           }
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1695326400&x-signature=C6cXRLZqOKGlfPNNfcawcZVvycs%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1695326400&x-signature=J%2B%2BbTp7Kw3IE7LrwPsDNfhgHdYw%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -668,13 +668,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 8600000,
-              "likes": 61400000,
+              "likes": 61500000,
               "userId": "6719942663279739909",
               "secUid": "MS4wLjABAAAAmjzSM_FdNtE8lPL1gxsZmvZJ2cvCEwdt1d8aN9WJ9_8AtWeVhaGEpyoY1oIcaYJt",
               "relation": 0,
               "video": 83,
               "following": 20,
-              "heart": 61400000,
+              "heart": 61500000,
               "digg": 203
             }
           }
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1695326400&x-signature=J%2Fp4zzrXZ0aNKKVxxh8xyXcRZ9g%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1695326400&x-signature=k%2BBenQZCKEiYoolPiNuP%2FBF6Kls%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
