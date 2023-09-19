@@ -70,14 +70,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 59500000,
-              "likes": 609200000,
+              "likes": 608900000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
-              "video": 198,
+              "video": 197,
               "following": 73,
-              "heart": 609200000,
-              "digg": 2063
+              "heart": 608900000,
+              "digg": 2064
             }
           }
         },
@@ -96,13 +96,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 38000000,
-              "likes": 252400000,
+              "likes": 252300000,
               "userId": "168541398546182144",
               "secUid": "MS4wLjABAAAAMTSBCxTaYvqbcRpT924iKILvChaXJEW2t8QEMK3s5NtXENf85cwPjT-biAUnsUfb",
               "relation": 0,
               "video": 245,
               "following": 60,
-              "heart": 252400000,
+              "heart": 252300000,
               "digg": 2579
             }
           }
@@ -252,14 +252,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 18700000,
-              "likes": 117200000,
+              "likes": 117100000,
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
               "relation": 0,
               "video": 209,
               "following": 2,
-              "heart": 117200000,
-              "digg": 8299
+              "heart": 117100000,
+              "digg": 8266
             }
           }
         },
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "21609287",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1695315600&x-signature=YjJjdigxhy3uLve5%2F%2FiwBa%2FVAx0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28893723a8bfd57b1e9935587930aab4~c5_100x100.jpeg?x-expires=1695315600&x-signature=4Q%2B0TlJDV0SqvP0PUol2Nkyypoc%3D",
             "title": "Jason Derulo",
             "subTitle": "@jasonderulo",
             "description": "\"Sing Your Name Out Loud\" Out Now",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1695315600&x-signature=Zp0ufKD%2FeVwSYPt8Hj6M%2FAksIys%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1695315600&x-signature=ZMYeIyUU1tqpb3tKq8RnTCFoCPk%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/959147e5bb928c06f78a9c8df5d3bbe9~c5_100x100.jpeg?x-expires=1695315600&x-signature=IDcIuAH7TM1yvxz3TLXxER2XNEM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/959147e5bb928c06f78a9c8df5d3bbe9~c5_100x100.jpeg?x-expires=1695315600&x-signature=TuWRmpcSw4VI5SlwCUbjwplXrHs%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "Enseñame los dientes 🦷",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1695315600&x-signature=FxN3O24dNfOLexe7S5JPoclnxNc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1695315600&x-signature=bhe20A8HftvARGG%2BfaWpRhHXotM%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -668,13 +668,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 8600000,
-              "likes": 61400000,
+              "likes": 61500000,
               "userId": "6719942663279739909",
               "secUid": "MS4wLjABAAAAmjzSM_FdNtE8lPL1gxsZmvZJ2cvCEwdt1d8aN9WJ9_8AtWeVhaGEpyoY1oIcaYJt",
               "relation": 0,
               "video": 83,
               "following": 20,
-              "heart": 61400000,
+              "heart": 61500000,
               "digg": 203
             }
           }
@@ -694,13 +694,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 14700000,
-              "likes": 108300000,
+              "likes": 108200000,
               "userId": "126223816648822784",
               "secUid": "MS4wLjABAAAA7pFJYt0Ui6BV6xS9xncL3Zi1NsHEmfdn2t6sMY1yulhbrSWQ29xtwpUQFml62_q0",
               "relation": 0,
               "video": 42,
               "following": 73,
-              "heart": 108300000,
+              "heart": 108200000,
               "digg": 135
             }
           }
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6750750848748930054",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a7fb0d58a580d2924d8db765af97c95~c5_100x100.jpeg?x-expires=1695315600&x-signature=j6upKO1pzDj0Mlc%2Fxx%2B7PjHOkLc%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a7fb0d58a580d2924d8db765af97c95~c5_100x100.jpeg?x-expires=1695315600&x-signature=Gtruqov4M%2FSPnJ%2BgaMSEBddw4Yw%3D",
             "title": "FARRU",
             "subTitle": "@farrukoofficialpr",
             "description": "",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1695315600&x-signature=xgIg6bxTG4fLIHc400ZHpDrssfk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1695315600&x-signature=oTa7%2BwnmJXf50KXb6JmeRvYvtVs%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
