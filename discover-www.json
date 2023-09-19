@@ -59,7 +59,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1695333600&x-signature=b%2B2Saavn2OVCE6zEdgSgmj20Aw0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1695333600&x-signature=68AltNm3r8EF5QU2Q9CL15tTKEw%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1695333600&x-signature=fExmtQi6PxSP7eIa%2FYYKtQgvdbc%3D",
+            "cover": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1647754017437702~c5_100x100.jpeg?x-expires=1695333600&x-signature=zBqG6nl3zGP7Ub05OjvYCQVv6RQ%3D",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....\n\nRecipes here 👇🏻",
@@ -259,7 +259,7 @@
               "video": 209,
               "following": 2,
               "heart": 117300000,
-              "digg": 8299
+              "digg": 8303
             }
           }
         },
@@ -465,7 +465,7 @@
               "secUid": "MS4wLjABAAAAoIjsp53EitSm7GKWMT2VaeDZA25CzmzbvLDyFUJwpCZk7B5PmCoYlO2cV4y_-it9",
               "relation": 0,
               "video": 503,
-              "following": 218,
+              "following": 219,
               "heart": 220600000,
               "digg": 4241
             }
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6750750848748930054",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a7fb0d58a580d2924d8db765af97c95~c5_100x100.jpeg?x-expires=1695333600&x-signature=ZWQ8bk73q8i5DKiVIMUqKz%2FFaDg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a7fb0d58a580d2924d8db765af97c95~c5_100x100.jpeg?x-expires=1695333600&x-signature=Tqnw9lkrYwve7iw5wT33GvmXpkM%3D",
             "title": "FARRU",
             "subTitle": "@farrukoofficialpr",
             "description": "",
@@ -1062,13 +1062,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/oAkS3emtDIGIg60tslbnsAmCZAxbknQmBAGeBR.jpeg",
             "title": "The Assignment",
-            "subTitle": "537.9K videos",
+            "subTitle": "538K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 537900
+              "posts": 538000
             }
           }
         },
