@@ -70,13 +70,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 38100000,
-              "likes": 252900000,
+              "likes": 253000000,
               "userId": "168541398546182144",
               "secUid": "MS4wLjABAAAAMTSBCxTaYvqbcRpT924iKILvChaXJEW2t8QEMK3s5NtXENf85cwPjT-biAUnsUfb",
               "relation": 0,
               "video": 247,
               "following": 60,
-              "heart": 252900000,
+              "heart": 253000000,
               "digg": 2579
             }
           }
@@ -96,14 +96,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 59500000,
-              "likes": 609000000,
+              "likes": 609300000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
-              "video": 197,
+              "video": 198,
               "following": 73,
-              "heart": 609000000,
-              "digg": 2064
+              "heart": 609300000,
+              "digg": 2063
             }
           }
         },
@@ -200,14 +200,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 18700000,
-              "likes": 117200000,
+              "likes": 117400000,
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
               "relation": 0,
               "video": 209,
               "following": 2,
-              "heart": 117200000,
-              "digg": 8295
+              "heart": 117400000,
+              "digg": 8328
             }
           }
         },
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1695466800&x-signature=SRIQBdFC2s2J3diDgYs0O8VFuzY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1695466800&x-signature=yPwMvEUyd8c5OW7H%2FoHUcTeErK8%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1695466800&x-signature=TV%2B8pHmBPVwYLEaZxu%2BeX0nuI9s%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1695466800&x-signature=OjwWebhiEqnY9fzDkdhbt8k5o0k%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -616,13 +616,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 26700000,
-              "likes": 154800000,
+              "likes": 154900000,
               "userId": "6644633379692199942",
               "secUid": "MS4wLjABAAAAd_FL7FSUAR9eyQ0FbVWj2FbSbF7ch--LV4APbDXDSRPNAdp4PxsDzTtrwuDOwghx",
               "relation": 0,
               "video": 234,
               "following": 118,
-              "heart": 154800000,
+              "heart": 154900000,
               "digg": 263
             }
           }
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6750750848748930054",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a7fb0d58a580d2924d8db765af97c95~c5_100x100.jpeg?x-expires=1695466800&x-signature=mlab7tmrxyxllCfT8Pgm9n8cLR8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5a7fb0d58a580d2924d8db765af97c95~c5_100x100.jpeg?x-expires=1695466800&x-signature=37d3SC2uIRZ7cIFUGFAlCJsEmqg%3D",
             "title": "FARRU",
             "subTitle": "@farrukoofficialpr",
             "description": "",
