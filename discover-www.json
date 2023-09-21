@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1695456000&x-signature=K5GhGT6NN%2FoRdmhQh2j0SZ9X59Y%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1695456000&x-signature=2E8d54Q3Z4eGWlDNooTfvx6fv84%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1695456000&x-signature=zF9jb1Egxn%2FDhgqhRsFdK%2FwCXhQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1695456000&x-signature=QuyNNbGklzL8fC6zQ%2Fd7jT%2FIWfk%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1695456000&x-signature=9SZKLXO4Hvfsw9biM8nS%2FwlVOPE%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1695456000&x-signature=bL6n2XjYqjq0fdfrGu1VMqKvi4w%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "currently touring… 🌎",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/959147e5bb928c06f78a9c8df5d3bbe9~c5_100x100.jpeg?x-expires=1695456000&x-signature=xzvUDvZngJR3jOhOgqw1D7wcyO8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/959147e5bb928c06f78a9c8df5d3bbe9~c5_100x100.jpeg?x-expires=1695456000&x-signature=M6vcmVgMsrcjBE%2B5YCREX17Tf78%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "Enseñame los dientes 🦷",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1695456000&x-signature=VjcUkU4fWxdp4r6TI3MvZcu4wAU%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1695456000&x-signature=GzEiwG2zTYYNeDVRieKoYAwEWXI%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1695456000&x-signature=pOb1o%2BaHu3IjhjsMyQ%2BJc6RKHjE%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1695456000&x-signature=d5ldz30ZOBQWbnTg59cbggENfiU%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -876,14 +876,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/feb4c89b2b972560362fbf43209635bc.png",
             "title": "#makeuptutorial",
-            "subTitle": "102.5B views",
+            "subTitle": "102.6B views",
             "description": "Show us your #MakeupTutorial.",
             "link": "/tag/makeuptutorial",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 102500000000,
+              "views": 102600000000,
               "challengeId": "39658",
               "challengeName": "makeuptutorial"
             }
