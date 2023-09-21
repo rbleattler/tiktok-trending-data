@@ -44,13 +44,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 17500000,
-              "likes": 153300000,
+              "likes": 153400000,
               "userId": "6760381874016912390",
               "secUid": "MS4wLjABAAAAnb7UrYm7BoqTzDSu6XphP68sueqPwuXJeHhJcYMye9NNlA7-nh427qHb_e-Al5ES",
               "relation": 0,
               "video": 49,
               "following": 0,
-              "heart": 153300000,
+              "heart": 153400000,
               "digg": 5265
             }
           }
@@ -233,7 +233,7 @@
               "video": 209,
               "following": 2,
               "heart": 117400000,
-              "digg": 8323
+              "digg": 8326
             }
           }
         },
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1695448800&x-signature=8Z0ZDCtzLABai6jqPQzWj2VPxUA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1695448800&x-signature=IAVCQ9wafKf1aUlxRLtl%2FSl6T5o%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1695448800&x-signature=byvTeH4Y1nTKSqe6jjdPRHgh9%2FI%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1695448800&x-signature=MEqkhf7oYzVTRod%2FbLVD65roxQw%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "USED TO BE YOUNG. OUT NOW.",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1695448800&x-signature=1kz4i5KtIpjfCwdnkGFgSogVgsI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1695448800&x-signature=x2sypLe3dK4gVZDNLu2Z5%2B2wM5A%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "currently touring… 🌎",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1695448800&x-signature=02qnBNBRCg5QJkzbSaAkpbgF%2FJw%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1695448800&x-signature=XcPaeatFqYwpSDJPFvnMddlvGts%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -838,14 +838,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "101.1B views",
+            "subTitle": "101.2B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 101100000000,
+              "views": 101200000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
