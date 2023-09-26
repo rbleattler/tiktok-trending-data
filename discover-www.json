@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "228700074422296576",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1695924000&x-signature=3juYpjrHC%2FrA8OHJMxVgEtRqoe8%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bca454fa8d25434f2f97c74b3134ebb1~c5_100x100.jpeg?x-expires=1695924000&x-signature=4GNk5iQXuP%2F0NL42OpdTB%2FJqi1o%3D",
             "title": "Miley Cyrus",
             "subTitle": "@mileycyrus",
             "description": "USED TO BE YOUNG. OUT NOW.",
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1695924000&x-signature=STmYfoM%2Bpb5sbc0N2O2ayxW5qyk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1695924000&x-signature=gVUKnVIoAJJ8MaaWAtjvXAkL8nk%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1695924000&x-signature=aaKlOOWGBcetcUP8yJDFQp0%2Bujg%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1695924000&x-signature=b5jO%2B7%2FM9Adb4gyGDlKRsigkIcU%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "currently touring… 🌎",
@@ -620,10 +620,10 @@
               "userId": "6644633379692199942",
               "secUid": "MS4wLjABAAAAd_FL7FSUAR9eyQ0FbVWj2FbSbF7ch--LV4APbDXDSRPNAdp4PxsDzTtrwuDOwghx",
               "relation": 0,
-              "video": 235,
+              "video": 236,
               "following": 119,
               "heart": 155000000,
-              "digg": 267
+              "digg": 268
             }
           }
         },
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1695924000&x-signature=eKh5eDFOoP3xQc%2F%2BPMUVMb%2FF0tA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1695924000&x-signature=1qIAJqT13gU68aqy38CLORdWoCE%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1695924000&x-signature=9FMWszGCDIcceT2MB6c4lbyjtdQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1695924000&x-signature=7XDpnIhxDUO%2BmlWbR6K51%2FJUWuE%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png",
             "title": "#longervideos",
-            "subTitle": "39.6B views",
+            "subTitle": "39.7B views",
             "description": "Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok",
             "link": "/tag/longervideos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 39600000000,
+              "views": 39700000000,
               "challengeId": "1604297750222853",
               "challengeName": "longervideos"
             }
