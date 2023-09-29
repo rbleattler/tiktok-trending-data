@@ -148,13 +148,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 31500000,
-              "likes": 330700000,
+              "likes": 330800000,
               "userId": "7047450743465477126",
               "secUid": "MS4wLjABAAAAhxvSFp8FPW1xhPCzgTzExrCo7Onwd2CuvldSXoUM5oSMLsfR8p6wBNMiWVgBg6V_",
               "relation": 0,
               "video": 47,
               "following": 0,
-              "heart": 330700000,
+              "heart": 330800000,
               "digg": 98
             }
           }
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1696125600&x-signature=HncFMWAVk8zG64H5S9bbCsoygLo%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1696125600&x-signature=x1FysenmCyOQxKegVLHP%2F3Y1DmI%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1696125600&x-signature=3nVbVl9R4wXV1F7XJlyZtqYmN70%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1696125600&x-signature=8RCR5gPYKtpOx2Gcce6RTgC1VaY%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "126223816648822784",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1696125600&x-signature=bmWtyGO8FPT%2BlbwKR2GohabOtrc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e35be65e41929e02c0fcd48db4a93a54~c5_100x100.jpeg?x-expires=1696125600&x-signature=4L5haFnJa9%2FL5uXN2g37fRzrcws%3D",
             "title": "rauwalejandro",
             "subTitle": "@rauwalejandro",
             "description": "Latin R&B/Reggaeton singer 🇵🇷",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5f750bdf859bcc231003a68a96478088~c5_100x100.jpeg?x-expires=1696125600&x-signature=DbPBRbsoVqCKYyQcmKeHNxA6nm0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5f750bdf859bcc231003a68a96478088~c5_100x100.jpeg?x-expires=1696125600&x-signature=WfKM50DBsAZMyZallUoSONnNTMo%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "New album OUT NOW!!!   🕺🏻🕺🏻\n\n👇🏼",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/60897a1465e3e8ab9504aae6ed1802e1~c5_100x100.jpeg?x-expires=1696125600&x-signature=Z%2FJWD%2BOyu41EVY7hhElFFY3Uv9g%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/60897a1465e3e8ab9504aae6ed1802e1~c5_100x100.jpeg?x-expires=1696125600&x-signature=SylnMn9JrnK2PbVbf5bzzwJmyT0%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me…Now 💚",
@@ -1062,13 +1062,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/oAkS3emtDIGIg60tslbnsAmCZAxbknQmBAGeBR.jpeg",
             "title": "The Assignment",
-            "subTitle": "542.8K videos",
+            "subTitle": "542.9K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 542800
+              "posts": 542900
             }
           }
         },
