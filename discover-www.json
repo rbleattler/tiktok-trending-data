@@ -22,7 +22,7 @@
               "userId": "6745191554350760966",
               "secUid": "MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ",
               "relation": 0,
-              "video": 180,
+              "video": 181,
               "following": 4,
               "heart": 511500000,
               "digg": 9
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1696334400&x-signature=ePFsgFTIj%2FctAom66df1BRuJ9L8%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1696334400&x-signature=7EtJg19bMzLu8TTL2fuyTauzqeY%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1696334400&x-signature=pqLkhoJt4geJ3%2B3ynN0%2Bg4ZAO%2Fk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1696334400&x-signature=9JCaXbI7wGDc7Tgw4fBExbi4qnw%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1696334400&x-signature=kwlhLOENqPTsMyud2Z2zonp5WFk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1696334400&x-signature=1%2B32krCh1D5hn5JLh49SjeXZTt8%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "currently touring… 🌎",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "6779798771846431749",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ff2644668bd0045f74dad1b09d9f3a3~c5_100x100.jpeg?x-expires=1696334400&x-signature=JdizUCnYvhAZqe7%2BV2yMN2nSqDs%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5ff2644668bd0045f74dad1b09d9f3a3~c5_100x100.jpeg?x-expires=1696334400&x-signature=0ZIJE5kc%2BomKRwy67ARsmjhXBD8%3D",
             "title": "Usher Raymond",
             "subTitle": "@usher",
             "description": "‘Good Good’ OUT NOW \nRendez-Vous à Paris | Sept 2023 🇫🇷",
@@ -735,7 +735,7 @@
           "cardItem": {
             "id": "85228440332730368",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1696334400&x-signature=Aly7Zn1OFFBHdaLMOaGvoDJ%2Bbu4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/635bc1dd20145d173d4255e703a50ffc~c5_100x100.jpeg?x-expires=1696334400&x-signature=4eeY0VKBMtg5r9QYusXIj2bVVvg%3D",
             "title": "daddyyankee",
             "subTitle": "@daddyyankee",
             "description": "New music #BEACHY🏝☀️👙",
@@ -876,14 +876,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/feb4c89b2b972560362fbf43209635bc.png",
             "title": "#makeuptutorial",
-            "subTitle": "104B views",
+            "subTitle": "104.1B views",
             "description": "Show us your #MakeupTutorial.",
             "link": "/tag/makeuptutorial",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 104000000000,
+              "views": 104100000000,
               "challengeId": "39658",
               "challengeName": "makeuptutorial"
             }
