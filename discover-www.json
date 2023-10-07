@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "7109458094568686634",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1696870800&x-signature=QVJaXYW2FewEi9QC2GN9%2B0cfTfw%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ca07ee8f40b66eeace2175c8759ed36a~c5_100x100.jpeg?x-expires=1696870800&x-signature=mmkuke2MnhlRYiXjdXAs%2F%2FzztgY%3D",
             "title": "Chris Hemsworth",
             "subTitle": "@chrishemsworth",
             "description": "",
@@ -152,7 +152,7 @@
               "userId": "6747935906352907269",
               "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
               "relation": 0,
-              "video": 431,
+              "video": 432,
               "following": 515,
               "heart": 640000000,
               "digg": 829
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1696870800&x-signature=SMtng9LJgJ3PUr3wJuZ0gueLTB4%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg?x-expires=1696870800&x-signature=cFs%2FWmaRs%2BBzVh3jUrHdAobyO7Q%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "14388294",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1696870800&x-signature=G6%2BGV7wlHg41Jiop%2BGsvs%2BDu38k%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/db1d29a82104cc8552c941da6ae08f6c~c5_100x100.jpeg?x-expires=1696870800&x-signature=J%2Fa34hRbnA3wfTx%2FCjbGGibW%2BAQ%3D",
             "title": "ShaqDieselONeal",
             "subTitle": "@shaq",
             "description": "",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "6771955742204707845",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/131f3b14b134fee9be7715f5a1cff28c~c5_100x100.jpeg?x-expires=1696870800&x-signature=cgB%2FVNgcpH67HxN5PlFvJigu9xM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/131f3b14b134fee9be7715f5a1cff28c~c5_100x100.jpeg?x-expires=1696870800&x-signature=gWAQhsEactUbzNTinMtQ6Zvl9Uo%3D",
             "title": "Christina Aguilera",
             "subTitle": "@xtina",
             "description": "",
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png",
             "title": "#longervideos",
-            "subTitle": "46B views",
+            "subTitle": "46.1B views",
             "description": "Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok",
             "link": "/tag/longervideos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 46000000000,
+              "views": 46100000000,
               "challengeId": "1604297750222853",
               "challengeName": "longervideos"
             }
@@ -857,14 +857,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc43b89fed5808107f6ecfc274f36a90.jpeg",
             "title": "#couplestiktok",
-            "subTitle": "39.2B views",
+            "subTitle": "39.3B views",
             "description": "Cute pics, dinner dates, and more. Here's to the all the couples on TikTok.",
             "link": "/tag/couplestiktok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 39200000000,
+              "views": 39300000000,
               "challengeId": "1603828529424386",
               "challengeName": "couplestiktok"
             }
