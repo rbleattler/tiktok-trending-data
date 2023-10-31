@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "86328792343818240",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b31a14259e76a15b8eb3e4283ece704d~c5_100x100.jpeg?x-expires=1698955200&x-signature=znNF9uPT3boJaRjOPaxmrkvyaEk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b31a14259e76a15b8eb3e4283ece704d~c5_100x100.jpeg?x-expires=1698955200&x-signature=P2eiqFS7pGH75NpcABmc0wWpLD4%3D",
             "title": "tate mcrae",
             "subTitle": "@tatemcrae",
             "description": "ya",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1698955200&x-signature=hFQ34ing3WNlgS0sJETl8%2FBBxvA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1698955200&x-signature=0fCg8bFGCM3cA2%2Fg%2BepbIpdtC%2B4%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "6879693940111901701",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?x-expires=1698955200&x-signature=Skr3cug2L%2FOvGhTPC%2BxGP2Cu2Hk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?x-expires=1698955200&x-signature=OQQs0za8t9fCBikQN0Euy1WyIng%3D",
             "title": "BILLIE EILISH",
             "subTitle": "@billieeilish",
             "description": "",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1698955200&x-signature=c9Ui5Wc5U5aOrB2nwk0sh3ebB5U%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1698955200&x-signature=2Qk5N8P3PXuIukhr6fwZT48FczE%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7084315756325782570",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bdc643c8e44c68d9da8cb20e0597b2e3~c5_100x100.jpeg?x-expires=1698955200&x-signature=YJxhSYhG0XCRbGtZUjD6hiv7RiM%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bdc643c8e44c68d9da8cb20e0597b2e3~c5_100x100.jpeg?x-expires=1698955200&x-signature=%2FEHdrOedchpwmyolXNWzfJGilFE%3D",
             "title": "Cooking With Marshmello",
             "subTitle": "@cookingwithmarshmello",
             "description": "Full-Time Chef, Part-Time DJ\nPreorder my new cookbook 👇",
@@ -952,14 +952,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/00b4dfe7ae8826a0b85d982115fedb89.png",
             "title": "#diyproject",
-            "subTitle": "38.9B views",
+            "subTitle": "39B views",
             "description": "From start to finish, show us your latest #DIYProject.",
             "link": "/tag/diyproject",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 38900000000,
+              "views": 39000000000,
               "challengeId": "1334984",
               "challengeName": "diyproject"
             }
