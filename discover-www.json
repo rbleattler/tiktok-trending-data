@@ -22,7 +22,7 @@
               "userId": "86328792343818240",
               "secUid": "MS4wLjABAAAA-0bQT0CqebTRr6I4IkYvMDMKSRSJHLNPBo5HrSklJwyA2psXLSZG5FP-LMNpHnJd",
               "relation": 0,
-              "video": 745,
+              "video": 746,
               "following": 328,
               "heart": 231600000,
               "digg": 66500
@@ -44,13 +44,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 32000000,
-              "likes": 344200000,
+              "likes": 344300000,
               "userId": "7047450743465477126",
               "secUid": "MS4wLjABAAAAhxvSFp8FPW1xhPCzgTzExrCo7Onwd2CuvldSXoUM5oSMLsfR8p6wBNMiWVgBg6V_",
               "relation": 0,
               "video": 50,
               "following": 0,
-              "heart": 344200000,
+              "heart": 344300000,
               "digg": 117
             }
           }
@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1699135200&x-signature=vdcE8lD%2BslsyXTxib8anvhlwjn4%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1699135200&x-signature=0bXC0U0UhuJe%2B6wfBPx2ygsbjd0%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "6879693940111901701",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?x-expires=1699135200&x-signature=glHzEsDAYdT0twKG6o48izPJsj0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?x-expires=1699135200&x-signature=0CCzMf6NIM8qelM1mujANmSMxAQ%3D",
             "title": "BILLIE EILISH",
             "subTitle": "@billieeilish",
             "description": "",
@@ -493,7 +493,7 @@
               "video": 452,
               "following": 285,
               "heart": 139800000,
-              "digg": 4899
+              "digg": 4900
             }
           }
         },
@@ -553,7 +553,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/60897a1465e3e8ab9504aae6ed1802e1~c5_100x100.jpeg?x-expires=1699135200&x-signature=wo5AhcZvZ%2FwNE%2Fk7lJzNh%2B78%2FEY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/60897a1465e3e8ab9504aae6ed1802e1~c5_100x100.jpeg?x-expires=1699135200&x-signature=tp9ASuGN30cZJANPjyCzldsVSLg%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me…Now 💚",
@@ -952,14 +952,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/00b4dfe7ae8826a0b85d982115fedb89.png",
             "title": "#diyproject",
-            "subTitle": "39B views",
+            "subTitle": "39.1B views",
             "description": "From start to finish, show us your latest #DIYProject.",
             "link": "/tag/diyproject",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 39000000000,
+              "views": 39100000000,
               "challengeId": "1334984",
               "challengeName": "diyproject"
             }
@@ -1081,13 +1081,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/23a0eff8a40648aa95af4ef1ffc85e58.jpeg",
             "title": "Triple S",
-            "subTitle": "177.9K videos",
+            "subTitle": "177.8K videos",
             "description": "YN Jay & Louie Ray",
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
-              "posts": 177900
+              "posts": 177800
             }
           }
         },
@@ -1100,13 +1100,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e53f10b707b24357927b49292c24df3b.jpeg",
             "title": "drivers license",
-            "subTitle": "987.9K videos",
+            "subTitle": "987.8K videos",
             "description": "Olivia Rodrigo",
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/71eb68a50dfd4877b0a5660a415f5655",
-              "posts": 987900
+              "posts": 987800
             }
           }
         },
