@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "86328792343818240",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b31a14259e76a15b8eb3e4283ece704d~c5_100x100.jpeg?x-expires=1700506800&x-signature=gW7Lt9p3LzgnbUGgNYyNxaA80VU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b31a14259e76a15b8eb3e4283ece704d~c5_100x100.jpeg?x-expires=1700506800&x-signature=Jkw56QOVJrKBDiLcUYpefTBtn8Y%3D",
             "title": "tate mcrae",
             "subTitle": "@tatemcrae",
             "description": "ya",
@@ -18,13 +18,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 5700000,
-              "likes": 242200000,
+              "likes": 242300000,
               "userId": "86328792343818240",
               "secUid": "MS4wLjABAAAA-0bQT0CqebTRr6I4IkYvMDMKSRSJHLNPBo5HrSklJwyA2psXLSZG5FP-LMNpHnJd",
               "relation": 0,
               "video": 772,
               "following": 331,
-              "heart": 242200000,
+              "heart": 242300000,
               "digg": 67000
             }
           }
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1700506800&x-signature=Nw%2FRvP%2Fuadahx%2BsoqGkpdykO50c%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1700506800&x-signature=jYWtRFiL8Zak8%2Bx%2F3XUnlV8lefc%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "59363135073038336",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d745664a25c4f162d9591182b895533~c5_100x100.jpeg?x-expires=1700506800&x-signature=fw0jlHrI16PjLD%2F0zQ4GZZ8beX0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d745664a25c4f162d9591182b895533~c5_100x100.jpeg?x-expires=1700506800&x-signature=tQn7DvgxSPsB5s1hQqAsjYS8FCg%3D",
             "title": "BebeRexha",
             "subTitle": "@beberexha",
             "description": "One in a Million (with David Guetta) is out now 💫",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5f750bdf859bcc231003a68a96478088~c5_100x100.jpeg?x-expires=1700506800&x-signature=az9YIjPp7iyAjJoN1pTw0Lx%2F9RY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5f750bdf859bcc231003a68a96478088~c5_100x100.jpeg?x-expires=1700506800&x-signature=1xTOQd%2FPe0d%2Fw%2BlEBpJeJdlhynw%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "SEASONS WORLD TOUR - TICKETS & MORE INFO 👇🏻",
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png",
             "title": "#longervideos",
-            "subTitle": "69.8B views",
+            "subTitle": "69.9B views",
             "description": "Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok",
             "link": "/tag/longervideos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 69800000000,
+              "views": 69900000000,
               "challengeId": "1604297750222853",
               "challengeName": "longervideos"
             }
@@ -876,14 +876,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/feb4c89b2b972560362fbf43209635bc.png",
             "title": "#makeuptutorial",
-            "subTitle": "111.6B views",
+            "subTitle": "111.7B views",
             "description": "Show us your #MakeupTutorial.",
             "link": "/tag/makeuptutorial",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 111600000000,
+              "views": 111700000000,
               "challengeId": "39658",
               "challengeName": "makeuptutorial"
             }
