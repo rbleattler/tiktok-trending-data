@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d42f473c361560654e2b6e75515cfe57~c5_100x100.jpeg?x-expires=1702036800&x-signature=QCvfly6qmEtEbwtttCaikUPKeDQ%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d42f473c361560654e2b6e75515cfe57~c5_100x100.jpeg?x-expires=1702036800&x-signature=n7WT1eslPLB%2FT34KbxioLKMvfN8%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1702036800&x-signature=sNmRYLUHxxfOVyd6P952CbRzNeM%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8820ca42234ee11c5f7b878dfec0f1dd~c5_100x100.jpeg?x-expires=1702036800&x-signature=evCaU9qpnwCIqyON3Ki9lsQ78dA%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1702036800&x-signature=NHHwR%2FIqdHWvgqN%2FejlO%2B%2Bi52GU%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?x-expires=1702036800&x-signature=TCncglLgTmBH%2B5Yy27kNdQ78VOs%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "AUSTIN 🩵🍻",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~c5_100x100.jpeg?x-expires=1702036800&x-signature=Y%2F7SSyNBvHMXyIagnhN8Z6U8S5s%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~c5_100x100.jpeg?x-expires=1702036800&x-signature=qFu0rDrwS8f3rOApCib3dQKOmFM%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "♥️🎀🎁PRESAVE #PinkFriday2 & GET A SURPRISE EVERY FRIDAY UNTIL DECEMBER 8th!!!!!",
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1702036800&x-signature=5uSHGMS5kSojcrKjDzfVmHmKMjg%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d389b9600b595bf25ed7a0e066ebd84~c5_100x100.jpeg?x-expires=1702036800&x-signature=KzDURuc5mC5mQSChpj0t7JuzKZI%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4bde143e38feb91ee52b8f9e893fd58f~c5_100x100.jpeg?x-expires=1702036800&x-signature=bmie1hibiHHDhpHtAizM9vYNO6Y%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4bde143e38feb91ee52b8f9e893fd58f~c5_100x100.jpeg?x-expires=1702036800&x-signature=8qrJcrWWhjhnNNZR78Yq8VawKYY%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "El amigo de todo el mundo \n📲 +19179205445 ⚡️",
@@ -408,14 +408,15 @@
             "extraInfo": {
               "verified": true,
               "fans": 20900000,
-              "likes": 113700000,
+              "likes": 113800000,
               "userId": "132667022575992832",
               "secUid": "MS4wLjABAAAAYbp6OaRgezXn4Bp5dmoM2dfBYOASM9M5I3bMLpjp0OdD7Y6JLua2DSAs1EUaVJ45",
               "relation": 0,
+              "roomId": "7309456591776910122",
               "video": 178,
               "following": 7,
-              "heart": 113700000,
-              "digg": 773
+              "heart": 113800000,
+              "digg": 791
             }
           }
         },
@@ -449,7 +450,7 @@
           "cardItem": {
             "id": "6879693940111901701",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?x-expires=1702036800&x-signature=jyIaaPbm9mq85HlM63o9CPTrTbg%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?x-expires=1702036800&x-signature=jM45iHp%2BovmBExaK%2F4tUXPqh9Nc%3D",
             "title": "BILLIE EILISH",
             "subTitle": "@billieeilish",
             "description": "",
@@ -475,7 +476,7 @@
           "cardItem": {
             "id": "7084315756325782570",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bdc643c8e44c68d9da8cb20e0597b2e3~c5_100x100.jpeg?x-expires=1702036800&x-signature=g7%2BlZ5R6j3OF7hLY1%2BvMcsM2A%2Bk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/bdc643c8e44c68d9da8cb20e0597b2e3~c5_100x100.jpeg?x-expires=1702036800&x-signature=ufnTs135vxb55ULl6r57fGlLtLs%3D",
             "title": "Cooking With Marshmello",
             "subTitle": "@cookingwithmarshmello",
             "description": "Full-Time Chef, Part-Time DJ\nOrder my new cookbook 👇",
@@ -501,7 +502,7 @@
           "cardItem": {
             "id": "59363135073038336",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d745664a25c4f162d9591182b895533~c5_100x100.jpeg?x-expires=1702036800&x-signature=ESP%2BNL%2BnptZcNXdUAOjwNjUljvk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2d745664a25c4f162d9591182b895533~c5_100x100.jpeg?x-expires=1702036800&x-signature=n4D%2BnP4urpJgg1GvOhdCzecfGIY%3D",
             "title": "BebeRexha",
             "subTitle": "@beberexha",
             "description": "One in a Million (with David Guetta) is out now 💫",
@@ -605,7 +606,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1702036800&x-signature=AYywP45Iw%2F44PWiHF%2BQUlQUiJAk%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg?x-expires=1702036800&x-signature=f9boMw6PrA4zomRzRjZOondAm2Q%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "",
@@ -683,7 +684,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1702036800&x-signature=m9OrC6ZqUgne1WpyAp1pMHiDxA0%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d2ffa81b73b8de3e3885a403ddefef3~c5_100x100.jpeg?x-expires=1702036800&x-signature=aIrgOa0mRKJWa1%2Fg7%2BkEGsOOTLg%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -761,7 +762,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1702036800&x-signature=no4ZdioUIRDb3LnutCEgYdiXvUc%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1702036800&x-signature=hph%2FeGzTostbz9XfaK6LxFpbtcc%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -971,14 +972,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/42c64b254aff3ebfcf2edff291733409.jpeg",
             "title": "#treatyourself",
-            "subTitle": "3.5B views",
+            "subTitle": "3.6B views",
             "description": "Sometimes you just have to #TreatYourself.",
             "link": "/tag/treatyourself",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 3500000000,
+              "views": 3600000000,
               "challengeId": "5183700",
               "challengeName": "treatyourself"
             }
