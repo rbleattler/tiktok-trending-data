@@ -22,7 +22,7 @@
               "userId": "86328792343818240",
               "secUid": "MS4wLjABAAAA-0bQT0CqebTRr6I4IkYvMDMKSRSJHLNPBo5HrSklJwyA2psXLSZG5FP-LMNpHnJd",
               "relation": 0,
-              "video": 798,
+              "video": 799,
               "following": 336,
               "heart": 256000000,
               "digg": 67900
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d42f473c361560654e2b6e75515cfe57~c5_100x100.jpeg?x-expires=1703289600&x-signature=7DquDmFq0UjU4fk2LQFyzUeYzpQ%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d42f473c361560654e2b6e75515cfe57~c5_100x100.jpeg?x-expires=1703289600&x-signature=VALm7G%2B9Y%2F88qBZBvrf5wScIuCc%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Official account / perfil oficial",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310047350691463214~c5_100x100.jpeg?x-expires=1703289600&x-signature=qaKz8kL%2BnUK5wuzb2HqVY4Cm9%2Fs%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310047350691463214~c5_100x100.jpeg?x-expires=1703289600&x-signature=9taMrqzTpTn73lDOL2s34jdeAqc%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "6879693940111901701",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?x-expires=1703289600&x-signature=Gv%2FT0S%2BJ7q5%2BqnsjUmCH4%2B1z7cs%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?x-expires=1703289600&x-signature=866yvqLe4c0gcpQNz0jX8lkmimE%3D",
             "title": "BILLIE EILISH",
             "subTitle": "@billieeilish",
             "description": "",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310681718439034926~c5_100x100.jpeg?x-expires=1703289600&x-signature=gGWZYw9XBCJVEUnclDC9%2Bw3DF0o%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310681718439034926~c5_100x100.jpeg?x-expires=1703289600&x-signature=gOSSDBItzjAr2tQgP0StqI5SGOs%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "",
@@ -657,7 +657,7 @@
           "cardItem": {
             "id": "6650307866375618566",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5f750bdf859bcc231003a68a96478088~c5_100x100.jpeg?x-expires=1703289600&x-signature=G0Ih66PnNc3MCDMLP5ek%2Fw28rLo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5f750bdf859bcc231003a68a96478088~c5_100x100.jpeg?x-expires=1703289600&x-signature=33Snyc24UlkakuUoBVOadSv8PwY%3D",
             "title": "jaredleto",
             "subTitle": "@jaredleto",
             "description": "SEASONS WORLD TOUR - TICKETS, VIP & MORE INFO 👇🏻",
@@ -1062,13 +1062,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/oAkS3emtDIGIg60tslbnsAmCZAxbknQmBAGeBR.jpeg",
             "title": "The Assignment",
-            "subTitle": "605K videos",
+            "subTitle": "605.1K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 605000
+              "posts": 605100
             }
           }
         },
