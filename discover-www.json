@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310298084372660270~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=rRhfQEO4WLZrguZ7J1akMq8j3ik%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310298084372660270~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=Us8E69W6rnTFwesLJKKcLwWpJhs%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "6881290705605477381",
             "type": 2,
-            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/f8c7cad75f3a12205d31d6662d2555d5~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=g1MZwfPib7E2Iegnvh8WIecP2JE%3D",
+            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/f8c7cad75f3a12205d31d6662d2555d5~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=wUVFnrR0tzgRowD846v1t95O5iw%3D",
             "title": "Taylor Swift",
             "subTitle": "@taylorswift",
             "description": "This is pretty much just a cat account",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310047350691463214~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=sPOPfe8af8nvxhUeJ6VnuwN6hlY%3D",
+            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310047350691463214~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=t66CH8zve7nZkXqRY4YQ%2BJp2jxs%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -226,14 +226,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 58800000,
-              "likes": 623300000,
+              "likes": 623000000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
-              "video": 204,
+              "video": 203,
               "following": 73,
-              "heart": 623300000,
-              "digg": 2133
+              "heart": 623000000,
+              "digg": 2134
             }
           }
         },
@@ -241,7 +241,7 @@
           "cardItem": {
             "id": "141140993138962432",
             "type": 2,
-            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=p18qiuwxRB9AuifgzmyptKRLJro%3D",
+            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9d16bae42d087e3add0f4604c120f3c9~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=NXpWTXzE0uDkMZqcwRz72XPJXeU%3D",
             "title": "Post Malone",
             "subTitle": "@postmalone",
             "description": "",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=HMb6b3wW5cbiqVVq4pUWvEFk8kE%3D",
+            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=djZwtEC79tJi%2FZ35PSHsQ01S42U%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#PinkFriday2 THE ALBUM is OUT NOW 🎀",
@@ -304,14 +304,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 20300000,
-              "likes": 150400000,
+              "likes": 150300000,
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
               "relation": 0,
               "video": 292,
               "following": 6,
-              "heart": 150400000,
-              "digg": 9859
+              "heart": 150300000,
+              "digg": 9826
             }
           }
         },
@@ -345,7 +345,7 @@
           "cardItem": {
             "id": "6811538513018012677",
             "type": 2,
-            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/620a4aa08d06806f3ed64dd74c0911c1~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=KQYjVXv6RovjotLczi6u0SzhWyM%3D",
+            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/620a4aa08d06806f3ed64dd74c0911c1~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=kvo0SwECVpSFlnktWV%2BcxqnfRT0%3D",
             "title": "Sia",
             "subTitle": "@sia",
             "description": "",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "6879693940111901701",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=3XEy7hAhjGyQRC8nQXBQ9RW%2FCp0%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/46646b888a8a03d1f2530ed90f0c17a1~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=2i9bLBzjw%2BVucK%2BZRdMgoD5jZoc%3D",
             "title": "BILLIE EILISH",
             "subTitle": "@billieeilish",
             "description": "",
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "7084315756325782570",
             "type": 2,
-            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=0ZhsV0HM%2BbdC%2Bt46oOHNNnpnFQQ%3D",
+            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=U%2BsnIZBaV3BQ%2BQDffxIW%2FkHbk7g%3D",
             "title": "Cooking With Marshmello",
             "subTitle": "@cookingwithmarshmello",
             "description": "Full-Time Chef, Part-Time DJ\nMello cookbook 👇",
@@ -527,7 +527,7 @@
           "cardItem": {
             "id": "6761177948009956358",
             "type": 2,
-            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1ad94d4a0a76cf2d59b97de1d96319b3~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=Hia5OYdjSjpgyED9A4CuT4n6H1A%3D",
+            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/1ad94d4a0a76cf2d59b97de1d96319b3~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=ZFlErHTX4reBDoRh7vDdSja68UE%3D",
             "title": "OZUNA",
             "subTitle": "@ozuna",
             "description": "COSMO OUT NOW !! 💿🖤",
@@ -564,13 +564,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 4600000,
-              "likes": 54300000,
+              "likes": 54200000,
               "userId": "6930646914937930757",
               "secUid": "MS4wLjABAAAAfXjcYoR1XGi3ox2_2f_2bZjmlYmOu222adadnAcXD6Y6-qeMTJql-x0xBNlZPkU3",
               "relation": 0,
               "video": 86,
               "following": 1,
-              "heart": 54300000,
+              "heart": 54200000,
               "digg": 0
             }
           }
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "6807605867299603461",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9741a9d16e737c021e2f34afd8ff1e16~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=y3orb%2FharddVOB3LNuJE%2FA3lMOM%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9741a9d16e737c021e2f34afd8ff1e16~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=eaNvTyUYoP9skaaNqIEgh3OokXA%3D",
             "title": "chrisbrownofficial",
             "subTitle": "@chrisbrownofficial",
             "description": "",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/835b874c7db4b1b052026819fe1b88a2~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=c1ga%2F2uwghC3CiH%2B0suTk%2ByRahk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/835b874c7db4b1b052026819fe1b88a2~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=5ykm0jrqHdds0KHr0HyinA5rrQA%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "JLO LIVE Summer Tour Tickets Available Now 💎",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/59d86801aec13e838ff4542960db504e~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=iqk6afy9hRIYSDljjLoRNgNYACY%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/59d86801aec13e838ff4542960db504e~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1710986400&x-signature=HnetsKTSvThjp1FEkA5N055V0pc%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -701,7 +701,7 @@
               "video": 53,
               "following": 121,
               "heart": 17500000,
-              "digg": 422
+              "digg": 423
             }
           }
         },
@@ -801,14 +801,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png",
             "title": "#longervideos",
-            "subTitle": "148.7B views",
+            "subTitle": "148.8B views",
             "description": "Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok",
             "link": "/tag/longervideos",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 148700000000,
+              "views": 148800000000,
               "challengeId": "1604297750222853",
               "challengeName": "longervideos"
             }
