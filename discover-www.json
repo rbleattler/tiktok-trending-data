@@ -33,7 +33,7 @@
           "cardItem": {
             "id": "7047450743465477126",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310298084372660270~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=rdtOqFqtpaMtU1f0D3VqvIx0uMI%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310298084372660270~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=UG1K2Qgzj753VPhlhG%2FUeEJ6VU8%3D",
             "title": "Bad Bunny",
             "subTitle": "@badbunny",
             "description": ".",
@@ -137,7 +137,7 @@
           "cardItem": {
             "id": "168541398546182144",
             "type": 2,
-            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/343dc0f14b6ddb106a5fdf86934d3b03~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=pzXCvly5TCR%2BrapAOreSaTADJnU%3D",
+            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/343dc0f14b6ddb106a5fdf86934d3b03~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=9ZHLXjUQ6iM7bOwI5oLFy5g6nhs%3D",
             "title": "Shakira",
             "subTitle": "@shakira",
             "description": "Las mujeres ya no lloran (Women no longer cry) OUT NOW ❌💧",
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "142565009246584832",
             "type": 2,
-            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f925b70a1f1b6276194c15ca8d999ed3~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=Is6DsimWX8%2Fes3i7EIJb6jnWYwE%3D",
+            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f925b70a1f1b6276194c15ca8d999ed3~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=FjDkIJWwcFCdqbDpn%2By9FGF%2Fu14%3D",
             "title": "Marshmello",
             "subTitle": "@marshmello",
             "description": "",
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310047350691463214~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=cEaQ84J2Glz3izt%2BBXhV%2BDksXEI%3D",
+            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310047350691463214~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=tPi0x8ukRM88LiiWfkNTGCJhv90%3D",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -226,14 +226,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 58800000,
-              "likes": 625400000,
+              "likes": 625100000,
               "userId": "97614653324771328",
               "secUid": "MS4wLjABAAAATtFKZYaOb-9nF_w7QRi4y64d45mvuWuwf5ACEd3c6f-GTlfW9rJJlKfV2vWhg0aw",
               "relation": 0,
-              "video": 206,
+              "video": 205,
               "following": 73,
-              "heart": 625400000,
-              "digg": 2168
+              "heart": 625100000,
+              "digg": 2169
             }
           }
         },
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=m7fDRvz0Z8w%2B7HSH4wNCKV92w2k%3D",
+            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=SGWkesKGuXH6k%2BvIXt%2F4yNp4FAg%3D",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "#PinkFriday2 THE ALBUM is OUT NOW 🎀",
@@ -304,14 +304,14 @@
             "extraInfo": {
               "verified": true,
               "fans": 20300000,
-              "likes": 150600000,
+              "likes": 150400000,
               "userId": "224891697648857088",
               "secUid": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
               "relation": 0,
               "video": 293,
               "following": 6,
-              "heart": 150600000,
-              "digg": 9859
+              "heart": 150400000,
+              "digg": 9826
             }
           }
         },
@@ -371,7 +371,7 @@
           "cardItem": {
             "id": "6746264168812659717",
             "type": 2,
-            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310500778328719406~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=xKO1hYuC6x3%2FZh%2BGXyi41zOHpoM%3D",
+            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310500778328719406~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=snppOlJ%2Bpu0GEK5HI0U2soD1JGQ%3D",
             "title": "Terry Crews",
             "subTitle": "@terrycrews",
             "description": "Husband, Father, Actor, Author, Artist, Philanthropist, Athlete",
@@ -460,13 +460,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 51200000,
-              "likes": 298200000,
+              "likes": 298100000,
               "userId": "6879693940111901701",
               "secUid": "MS4wLjABAAAAQC9D0J9C7zCdiToBJvaCHEZZl1FXTKeeSVoyGQld--0hcxb3lqDTxaSRjByAVlAs",
               "relation": 0,
               "video": 41,
               "following": 60,
-              "heart": 298200000,
+              "heart": 298100000,
               "digg": 26200
             }
           }
@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "7084315756325782570",
             "type": 2,
-            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=LlDL931joeHXy118yRR0o1Tm%2BfE%3D",
+            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=Z2QP2%2FRZPiCgtJ3ehTU%2BUSbbHj4%3D",
             "title": "Cooking With Marshmello",
             "subTitle": "@cookingwithmarshmello",
             "description": "Full-Time Chef, Part-Time DJ\nMello cookbook 👇",
@@ -486,13 +486,13 @@
             "extraInfo": {
               "verified": true,
               "fans": 3700000,
-              "likes": 26000000,
+              "likes": 25900000,
               "userId": "7084315756325782570",
               "secUid": "MS4wLjABAAAAluw--j1UX58BMSQif2sqYZazNsw9gFyEZOdtcoL8OyUVnaJ50fG1Rtt_RvItoFLY",
               "relation": 0,
               "video": 127,
               "following": 1,
-              "heart": 26000000,
+              "heart": 25900000,
               "digg": 31
             }
           }
@@ -501,7 +501,7 @@
           "cardItem": {
             "id": "59363135073038336",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7311017450030497838~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=ufv5G8s%2Fcm%2FXf7e1%2FPj3XS4Y7jY%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7311017450030497838~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=lIbmHmuHMVmC%2FoX8jRc1IyG%2B0%2F0%3D",
             "title": "BebeRexha",
             "subTitle": "@beberexha",
             "description": "❤️‍🔥",
@@ -579,7 +579,7 @@
           "cardItem": {
             "id": "6807605867299603461",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9741a9d16e737c021e2f34afd8ff1e16~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=2%2FkeYSdmD0fp3ncUgPTeXAJ5uUk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9741a9d16e737c021e2f34afd8ff1e16~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=KsgKPn%2BictMabQxOgyhczPzn%2BTA%3D",
             "title": "chrisbrownofficial",
             "subTitle": "@chrisbrownofficial",
             "description": "",
@@ -605,7 +605,7 @@
           "cardItem": {
             "id": "6693590239291917318",
             "type": 2,
-            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310681718439034926~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=gWGR1KDnGIiYwHP7yl2tYBgstQc%3D",
+            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310681718439034926~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=1s9lLYbGJw2ikGiqwIkpPMwdwEo%3D",
             "title": "The Weeknd",
             "subTitle": "@theweeknd",
             "description": "",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8f2dcb065cb529f90cea5cc1a7ad738b~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=nrVRBXklCZ9hgqRIkjKicJ4UMs0%3D",
+            "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8f2dcb065cb529f90cea5cc1a7ad738b~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=XKz8HTaBfxTHFcFnBlfjGMfemX0%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "💎 This Is Me…Live Tour Tickets Available Now 💎",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/59d86801aec13e838ff4542960db504e~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=fBUnJAo6HSh2o4VI3Y4tANiZZ%2FA%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/59d86801aec13e838ff4542960db504e~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1712750400&x-signature=nwRa%2BrhTC9oTJXvBRqALPQl09H8%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
